@@ -10,6 +10,17 @@ de cálculo está fuera de este archivo: aquí sólo hay UI.
 """
 from __future__ import annotations
 
+# --- Path bootstrap --------------------------------------------------------- #
+# Cuando Streamlit ejecuta `streamlit run dashboard/app.py`, sys.path[0] es la
+# carpeta `dashboard/`, no la raíz del proyecto, así que `from dashboard.X`
+# falla en Streamlit Cloud. Añadimos la raíz antes de tocar nada más.
+import sys
+from pathlib import Path
+_PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(_PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(_PROJECT_ROOT))
+# --------------------------------------------------------------------------- #
+
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
