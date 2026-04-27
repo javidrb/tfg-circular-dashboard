@@ -1,0 +1,121 @@
+{
+  "regions": [
+    "España",
+    "Alemania",
+    "Francia",
+    "Italia",
+    "Polonia",
+    "Resto UE-27",
+    "Reino Unido",
+    "Estados Unidos",
+    "China",
+    "Japón",
+    "India",
+    "Resto del mundo"
+  ],
+  "sectors": [
+    "Agricultura y pesca",
+    "Minería y extracción",
+    "Alimentación y bebidas",
+    "Textil y calzado",
+    "Madera, papel e imprenta",
+    "Productos químicos",
+    "Refino y combustibles",
+    "Plásticos y caucho",
+    "Acero y metalurgia primaria",
+    "Acero secundario y reciclaje",
+    "Maquinaria y equipos",
+    "Equipos electrónicos",
+    "Vehículos y partes",
+    "Construcción",
+    "Comercio mayorista y minorista",
+    "Transporte y logística",
+    "Energía y suministros",
+    "Servicios financieros y empresariales",
+    "Salud y educación",
+    "Otros servicios"
+  ],
+  "indicators": [
+    {
+      "id": "value_added",
+      "label": "Valor Añadido",
+      "unit": "M€",
+      "kind": "econ"
+    },
+    {
+      "id": "employment",
+      "label": "Empleo",
+      "unit": "kpersonas",
+      "kind": "econ"
+    },
+    {
+      "id": "output",
+      "label": "Producción",
+      "unit": "M€",
+      "kind": "econ"
+    },
+    {
+      "id": "co2eq",
+      "label": "Emisiones CO₂eq",
+      "unit": "Mt CO₂eq",
+      "kind": "env"
+    },
+    {
+      "id": "materials",
+      "label": "Uso de materiales",
+      "unit": "Mt",
+      "kind": "env"
+    },
+    {
+      "id": "energy",
+      "label": "Consumo energético",
+      "unit": "TJ",
+      "kind": "env"
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "baseline",
+      "label": "Baseline",
+      "description": "Escenario base (sin intervención)."
+    },
+    {
+      "id": "esc_vida_util_vehiculos_10",
+      "label": "+10 % vida útil vehículos",
+      "description": "Prolongar un 10 % la vida útil del parque automovilístico reduce las ventas de vehículos nuevos y aumenta los servicios de reparación y mantenimiento."
+    },
+    {
+      "id": "esc_vida_util_vehiculos_50",
+      "label": "+50 % vida útil vehículos",
+      "description": "Escenario disruptivo: se prolonga la vida útil un 50 %, lo que provoca caídas marcadas en cadenas primarias y un fuerte trasvase a servicios de reparación."
+    },
+    {
+      "id": "esc_acero_secundario_30",
+      "label": "+30 % acero secundario",
+      "description": "Aumento del 30 % en la cuota de acero procedente del reciclaje, sustituyendo al acero primario en sectores intensivos en metal."
+    },
+    {
+      "id": "esc_eficiencia_energetica_20",
+      "label": "+20 % eficiencia energética",
+      "description": "Mejora del 20 % en la eficiencia energética de los sectores intensivos. Reduce el consumo y las emisiones sin variar la producción."
+    }
+  ],
+  "years": [
+    2011
+  ],
+  "source": "synthetic",
+  "schema": {
+    "format": "long",
+    "columns": [
+      "scenario",
+      "year",
+      "analysis",
+      "region",
+      "sector",
+      "indicator",
+      "value",
+      "unit"
+    ],
+    "compatible_with": "pycirk + EXIOBASE 3.3.sm (intercambiable)"
+  }
+}

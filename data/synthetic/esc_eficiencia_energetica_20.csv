@@ -1,0 +1,424 @@
+scenario,year,analysis,region,sector,indicator,value,unit
+esc_eficiencia_energetica_20,2011,hotspot,España,Agricultura y pesca,output,104429.59232231394,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Agricultura y pesca,value_added,36121.51652594879,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Agricultura y pesca,employment,1879.732661801651,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Agricultura y pesca,co2eq,3.449624219191845,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Agricultura y pesca,materials,0.25766027598875446,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Agricultura y pesca,energy,19048.831589145644,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Minería y extracción,output,82357.29149000367,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Minería y extracción,value_added,31862.630678410398,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Minería y extracción,employment,290.23408770603373,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Minería y extracción,co2eq,2.8675481496086643,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Minería y extracción,materials,0.1780669352293234,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Minería y extracción,energy,8900.57801061231,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Alimentación y bebidas,output,167853.43686700345,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Alimentación y bebidas,value_added,54806.818934235256,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Alimentación y bebidas,employment,538.1462354156924,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Alimentación y bebidas,co2eq,6.509731006280805,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Alimentación y bebidas,materials,0.379837799338632,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Alimentación y bebidas,energy,14602.632817913738,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Textil y calzado,output,71848.03363734928,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Textil y calzado,value_added,30786.31787586021,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Textil y calzado,employment,324.8343270804651,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Textil y calzado,co2eq,1.981486455979067,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Textil y calzado,materials,0.17615863102497828,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Textil y calzado,energy,8173.868211668501,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,"Madera, papel e imprenta",output,76355.53919500225,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,"Madera, papel e imprenta",value_added,31594.236912076733,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,"Madera, papel e imprenta",employment,263.21666625542645,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,"Madera, papel e imprenta",co2eq,1.923919847616697,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,"Madera, papel e imprenta",materials,0.12577967331330756,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,"Madera, papel e imprenta",energy,8798.544297027622,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Productos químicos,output,118514.05760311338,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Productos químicos,value_added,48344.188411665345,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Productos químicos,employment,278.5791055531733,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Productos químicos,co2eq,41.47992016108969,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Productos químicos,materials,0.2277665959476188,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Productos químicos,energy,251842.3724066159,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Refino y combustibles,output,114733.76154188944,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Refino y combustibles,value_added,22946.75230837789,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Refino y combustibles,employment,283.6245672215019,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Refino y combustibles,co2eq,68.84025692513366,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Refino y combustibles,materials,0.09746546938957125,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Refino y combustibles,energy,458935.04616755777,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Plásticos y caucho,output,82402.9153053375,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Plásticos y caucho,value_added,32474.686182205183,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Plásticos y caucho,employment,481.85851774777734,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Plásticos y caucho,co2eq,3.855843341072857,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Plásticos y caucho,materials,0.06479548752641599,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Plásticos y caucho,energy,14343.692952387184,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero y metalurgia primaria,output,144085.56888347416,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero y metalurgia primaria,value_added,36021.39222086854,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero y metalurgia primaria,employment,811.8246005555302,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero y metalurgia primaria,co2eq,100.85989821843191,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero y metalurgia primaria,materials,4.034395928737276,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero y metalurgia primaria,energy,428654.56742833566,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero secundario y reciclaje,output,24154.359860686603,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero secundario y reciclaje,value_added,9600.802258435884,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero secundario y reciclaje,employment,115.91263134999097,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero secundario y reciclaje,co2eq,6.03858996517165,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero secundario y reciclaje,materials,0.5313959169351052,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Acero secundario y reciclaje,energy,3110.2705281203416,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Maquinaria y equipos,output,145139.46745118912,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Maquinaria y equipos,value_added,45380.27080528483,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Maquinaria y equipos,employment,444.6318333723896,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Maquinaria y equipos,co2eq,6.968233508194144,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Maquinaria y equipos,materials,1.451394674511891,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Maquinaria y equipos,energy,25788.735611075976,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Equipos electrónicos,output,124753.73229666395,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Equipos electrónicos,value_added,45207.148489603715,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Equipos electrónicos,employment,733.1409459048818,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Equipos electrónicos,co2eq,4.053830820228606,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Equipos electrónicos,materials,0.3009680228116636,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Equipos electrónicos,energy,12479.957977848077,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Vehículos y partes,output,138982.5713283841,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Vehículos y partes,value_added,42562.318131570064,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Vehículos y partes,employment,710.8963548866468,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Vehículos y partes,co2eq,7.406435715013894,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Vehículos y partes,materials,2.5016862839109137,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Vehículos y partes,energy,11497.395585191796,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Construcción,output,211961.98233630008,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Construcción,value_added,79294.6856963402,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Construcción,employment,1907.6578410267007,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Construcción,co2eq,38.153156820534015,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Construcción,materials,7.418669381770502,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Construcción,energy,152612.62728213606,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Comercio mayorista y minorista,output,258241.07397587402,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Comercio mayorista y minorista,value_added,90249.87925313255,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Comercio mayorista y minorista,employment,3098.892887710488,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Comercio mayorista y minorista,co2eq,9.167334789244803,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Comercio mayorista y minorista,materials,0.4901461814026741,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Comercio mayorista y minorista,energy,43044.428457414986,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Transporte y logística,output,184458.7179895058,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Transporte y logística,value_added,59336.42738635737,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Transporte y logística,employment,569.7867539046867,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Transporte y logística,co2eq,46.11467949737645,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Transporte y logística,materials,0.23239497254828795,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Transporte y logística,energy,24980.37125044623,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Energía y suministros,output,131601.55619142475,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Energía y suministros,value_added,41521.66557749234,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Energía y suministros,employment,313.9439148716064,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Energía y suministros,co2eq,82.11937106344904,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Energía y suministros,materials,0.07593996556468915,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Energía y suministros,energy,631687.4697188388,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Servicios financieros y empresariales,output,266486.6247921338,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Servicios financieros y empresariales,value_added,146567.6436356736,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Servicios financieros y empresariales,employment,2131.8929983370704,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Servicios financieros y empresariales,co2eq,6.819419202377195,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Servicios financieros y empresariales,materials,0.4241916700074789,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Servicios financieros y empresariales,energy,37341.537701814195,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Salud y educación,output,129559.53646941234,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Salud y educación,value_added,77735.7218816474,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Salud y educación,employment,1813.8335105717726,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Salud y educación,co2eq,3.6271912913525854,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Salud y educación,materials,0.13428349509455295,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Salud y educación,energy,12732.781168696942,TJ
+esc_eficiencia_energetica_20,2011,hotspot,España,Otros servicios,output,76853.82018358448,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Otros servicios,value_added,33720.99833896736,M€
+esc_eficiencia_energetica_20,2011,hotspot,España,Otros servicios,employment,768.5382018358448,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,España,Otros servicios,co2eq,1.5597091458951626,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,España,Otros servicios,materials,0.11691937740343433,Mt
+esc_eficiencia_energetica_20,2011,hotspot,España,Otros servicios,energy,12570.09132225361,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Agricultura y pesca,output,337813.7754149838,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Agricultura y pesca,value_added,116847.58697212841,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Agricultura y pesca,employment,6080.647957469709,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Agricultura y pesca,co2eq,11.159007282643211,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Agricultura y pesca,materials,0.8334916250327002,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Agricultura y pesca,energy,61620.059728975015,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Minería y extracción,output,268130.981311076,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Minería y extracción,value_added,103735.30110556813,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Minería y extracción,employment,944.9163436365487,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Minería y extracción,co2eq,9.335888606835205,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Minería y extracción,materials,0.5797332721643657,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Minería y extracción,energy,28977.649374383967,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Alimentación y bebidas,output,476582.52494326764,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Alimentación y bebidas,value_added,155611.7803681444,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Alimentación y bebidas,employment,1527.9466208745937,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Alimentación y bebidas,co2eq,18.48293426444971,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Alimentación y bebidas,materials,1.078465004092419,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Alimentación y bebidas,energy,41460.93013689624,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Textil y calzado,output,226642.25405330848,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Textil y calzado,value_added,97114.42504613611,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Textil y calzado,employment,1024.6791784867337,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Textil y calzado,co2eq,6.250533717122422,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Textil y calzado,materials,0.5556865955158398,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Textil y calzado,energy,25784.197869323645,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,"Madera, papel e imprenta",output,262789.8607309433,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,"Madera, papel e imprenta",value_added,108736.64446034732,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,"Madera, papel e imprenta",employment,905.9024636139845,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,"Madera, papel e imprenta",co2eq,6.621479386341391,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,"Madera, papel e imprenta",materials,0.4328909622178547,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,"Madera, papel e imprenta",energy,30281.604384273196,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Productos químicos,output,434463.87574237125,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Productos químicos,value_added,177226.26236703742,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Productos químicos,employment,1021.25064610306,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Productos químicos,co2eq,152.06235650982995,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Productos químicos,materials,0.8349756985912997,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Productos químicos,energy,923235.7359525389,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Refino y combustibles,output,363512.9639892135,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Refino y combustibles,value_added,72702.5927978427,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Refino y combustibles,employment,898.6126289706252,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Refino y combustibles,co2eq,218.1077783935281,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Refino y combustibles,materials,0.30880153486005496,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Refino y combustibles,energy,1454051.855956854,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Plásticos y caucho,output,265283.4292485856,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Plásticos y caucho,value_added,104547.2248435005,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Plásticos y caucho,employment,1551.2689026487747,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Plásticos y caucho,co2eq,12.413290723694521,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Plásticos y caucho,materials,0.20859904127358211,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Plásticos y caucho,energy,46177.29895111575,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero y metalurgia primaria,output,408391.47860296426,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero y metalurgia primaria,value_added,102097.86965074106,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero y metalurgia primaria,employment,2301.009404038657,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero y metalurgia primaria,co2eq,285.87403502207496,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero y metalurgia primaria,materials,11.434961400883,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero y metalurgia primaria,energy,1214964.6488438186,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero secundario y reciclaje,output,63411.31791931635,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero secundario y reciclaje,value_added,25204.539793291908,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero secundario y reciclaje,employment,304.300041888581,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero secundario y reciclaje,co2eq,15.852829479829088,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero secundario y reciclaje,materials,1.3950489942249598,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Acero secundario y reciclaje,energy,8165.248609826444,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Maquinaria y equipos,output,432676.1435625593,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Maquinaria y equipos,value_added,135283.3995512526,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Maquinaria y equipos,employment,1325.4946455788433,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Maquinaria y equipos,co2eq,20.7730430234822,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Maquinaria y equipos,materials,4.326761435625593,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Maquinaria y equipos,energy,76878.95558323806,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Equipos electrónicos,output,404402.8433770926,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Equipos electrónicos,value_added,146543.9073733833,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Equipos electrónicos,employment,2376.556417687503,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Equipos electrónicos,co2eq,13.140935185583855,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Equipos electrónicos,materials,0.9756207044867159,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Equipos electrónicos,energy,40455.14629948553,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Vehículos y partes,output,550301.800649182,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Vehículos y partes,value_added,168525.59341606376,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Vehículos y partes,employment,2814.7957001365844,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Vehículos y partes,co2eq,29.325798705612034,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Vehículos y partes,materials,9.905432411685277,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Vehículos y partes,energy,45523.963420979286,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Construcción,output,641260.5027878915,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Construcción,value_added,239894.67100456887,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Construcción,employment,5771.3445250910245,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Construcción,co2eq,115.42689050182048,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Construcción,materials,22.444117597576206,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Construcción,energy,461707.562007282,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Comercio mayorista y minorista,output,896699.9968559867,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Comercio mayorista y minorista,value_added,313377.98126605403,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Comercio mayorista y minorista,employment,10760.39996227184,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Comercio mayorista y minorista,co2eq,31.832074387444543,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Comercio mayorista y minorista,materials,1.7019526466336372,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Comercio mayorista y minorista,energy,149464.75503752645,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Transporte y logística,output,575061.5956374024,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Transporte y logística,value_added,184985.02528984722,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Transporte y logística,employment,1776.3458590887878,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Transporte y logística,co2eq,143.76539890935058,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Transporte y logística,materials,0.7245058687837779,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Transporte y logística,energy,77877.87049302581,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Energía y suministros,output,454251.19409489905,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Energía y suministros,value_added,143320.9964626085,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Energía y suministros,employment,1083.6452268225312,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Energía y suministros,co2eq,283.45274511521706,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Energía y suministros,materials,0.2621231924272134,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Energía y suministros,energy,2180405.7316555153,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Servicios financieros y empresariales,output,874555.0806689516,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Servicios financieros y empresariales,value_added,481005.2943679234,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Servicios financieros y empresariales,employment,6996.440645351613,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Servicios financieros y empresariales,co2eq,22.37995139644408,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Servicios financieros y empresariales,materials,1.3921110692585823,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Servicios financieros y empresariales,energy,122547.35689862959,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Salud y educación,output,390181.7922988565,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Salud y educación,value_added,234109.07537931387,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Salud y educación,employment,5462.54509218399,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Salud y educación,co2eq,10.923657475456348,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Salud y educación,materials,0.4044084767508973,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Salud y educación,energy,38346.07249096031,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Otros servicios,output,243302.4553152969,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Otros servicios,value_added,106753.336033987,M€
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Otros servicios,employment,2433.024553152969,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Otros servicios,co2eq,4.937699438590466,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Otros servicios,materials,0.3701412828697288,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Alemania,Otros servicios,energy,39794.17125832155,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Agricultura y pesca,output,247615.94311844712,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Agricultura y pesca,value_added,85648.74364189414,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Agricultura y pesca,employment,4457.086976132048,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Agricultura y pesca,co2eq,8.179500996260316,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Agricultura y pesca,materials,0.6109455263044459,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Agricultura y pesca,energy,45167.22027117315,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Minería y extracción,output,217329.31447192765,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Minería y extracción,value_added,84081.00311860844,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Minería y extracción,employment,765.8869564110629,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Minería y extracción,co2eq,7.567056447519749,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Minería y extracción,materials,0.4698936094590144,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Minería y extracción,energy,23487.37412867778,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Alimentación y bebidas,output,382139.5226033013,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Alimentación y bebidas,value_added,124774.63681323864,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Alimentación y bebidas,employment,1225.1577884309768,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Alimentación y bebidas,co2eq,14.820223794327747,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Alimentación y bebidas,materials,0.8647486641632603,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Alimentación y bebidas,energy,33244.7356333269,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Textil y calzado,output,163933.10486586436,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Textil y calzado,value_added,70244.04734931621,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Textil y calzado,employment,741.1629394632794,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Textil y calzado,co2eq,4.5210872244309686,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Textil y calzado,materials,0.4019348877188045,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Textil y calzado,energy,18650.02459867799,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,"Madera, papel e imprenta",output,185438.98554379452,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,"Madera, papel e imprenta",value_added,76730.55948230796,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,"Madera, papel e imprenta",employment,639.25462491948,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,"Madera, papel e imprenta",co2eq,4.672480196865192,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,"Madera, papel e imprenta",materials,0.3054716824365809,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,"Madera, papel e imprenta",energy,21368.366275772885,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Productos químicos,output,302689.5703569539,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Productos químicos,value_added,123472.96106076613,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Productos químicos,employment,711.5020063923569,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Productos químicos,co2eq,105.94134962493385,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Productos químicos,materials,0.5817248557966808,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Productos químicos,energy,643215.337008527,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Refino y combustibles,output,292956.17474249465,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Refino y combustibles,value_added,58591.23494849893,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Refino y combustibles,employment,724.1945802140428,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Refino y combustibles,co2eq,175.77370484549678,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Refino y combustibles,materials,0.24886407190115284,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Refino y combustibles,energy,1171824.6989699786,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Plásticos y caucho,output,191618.56312996315,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Plásticos y caucho,value_added,75516.17174310771,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Plásticos y caucho,employment,1120.5069196961074,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Plásticos y caucho,co2eq,8.966323071615399,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Plásticos y caucho,materials,0.1506745018803122,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Plásticos y caucho,energy,33354.61886669173,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero y metalurgia primaria,output,313019.79070083826,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero y metalurgia primaria,value_added,78254.94767520957,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero y metalurgia primaria,employment,1763.6545319621493,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero y metalurgia primaria,co2eq,219.11385349058676,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero y metalurgia primaria,materials,8.76455413962347,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero y metalurgia primaria,energy,931233.8773349937,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero secundario y reciclaje,output,51398.832727855144,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero secundario y reciclaje,value_added,20429.853334168743,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero secundario y reciclaje,employment,246.654185172613,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero secundario y reciclaje,co2eq,12.849708181963786,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero secundario y reciclaje,materials,1.130774320012813,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Acero secundario y reciclaje,energy,6618.443855903159,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Maquinaria y equipos,output,364094.3918920817,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Maquinaria y equipos,value_added,113840.17313074964,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Maquinaria y equipos,employment,1115.3958315440634,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Maquinaria y equipos,co2eq,17.480391696911852,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Maquinaria y equipos,materials,3.640943918920817,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Maquinaria y equipos,energy,64693.182184495134,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Equipos electrónicos,output,318927.59201299737,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Equipos electrónicos,value_added,115570.14563121708,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Equipos electrónicos,employment,1874.2435370795533,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Equipos electrónicos,co2eq,10.363445470706422,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Equipos electrónicos,materials,0.769411904727467,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Equipos electrónicos,energy,31904.47991434496,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Vehículos y partes,output,366237.4318230612,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Vehículos y partes,value_added,112157.32977131104,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Vehículos y partes,employment,1873.3057880394024,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Vehículos y partes,co2eq,19.516936327363197,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Vehículos y partes,materials,6.592273772815101,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Vehículos y partes,energy,30297.155906155607,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Construcción,output,530552.6169916486,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Construcción,value_added,198479.00338549877,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Construcción,employment,4774.973552924837,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Construcción,co2eq,95.49947105849674,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Construcción,materials,18.5693415947077,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Construcción,energy,381997.884233987,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Comercio mayorista y minorista,output,660879.3285090001,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Comercio mayorista y minorista,value_added,230963.5670288484,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Comercio mayorista y minorista,employment,7930.551942108003,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Comercio mayorista y minorista,co2eq,23.460644607988705,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Comercio mayorista y minorista,materials,1.2543607964816335,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Comercio mayorista y minorista,energy,110157.42978844554,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Transporte y logística,output,487536.326981478,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Transporte y logística,value_added,156830.01692440288,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Transporte y logística,employment,1505.9832584177148,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Transporte y logística,co2eq,121.88408174536951,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Transporte y logística,materials,0.614234949478504,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Transporte y logística,energy,66024.73756089502,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Energía y suministros,output,329294.34593391535,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Energía y suministros,value_added,103895.80567374811,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Energía y suministros,employment,785.55268721294,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Energía y suministros,co2eq,205.47967186276318,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Energía y suministros,materials,0.1900175196598307,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Energía y suministros,energy,1580612.8604827938,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Servicios financieros y empresariales,output,605576.5116796483,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Servicios financieros y empresariales,value_added,333067.0814238066,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Servicios financieros y empresariales,employment,4844.612093437187,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Servicios financieros y empresariales,co2eq,15.496763094500688,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Servicios financieros y empresariales,materials,0.9639527387427672,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Servicios financieros y empresariales,energy,84856.63458666092,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Salud y educación,output,275427.18595298874,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Salud y educación,value_added,165256.31157179325,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Salud y educación,employment,3855.980603341842,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Salud y educación,co2eq,7.710949865325351,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Salud y educación,materials,0.2854697244348087,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Salud y educación,energy,27068.282136663565,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Otros servicios,output,198416.7624717909,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Otros servicios,value_added,87058.92955941387,M€
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Otros servicios,employment,1984.167624717909,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Otros servicios,co2eq,4.026767158573358,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Otros servicios,materials,0.3018557083979805,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Francia,Otros servicios,energy,32452.73713367137,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Agricultura y pesca,output,238590.09010953453,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Agricultura y pesca,value_added,82526.75981171733,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Agricultura y pesca,employment,4294.621621971622,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Agricultura y pesca,co2eq,7.881349864516813,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Agricultura y pesca,materials,0.5886759403988288,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Agricultura y pesca,energy,43520.82914685942,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Minería y extracción,output,180774.34272721698,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Minería y extracción,value_added,69938.50834869707,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Minería y extracción,employment,637.0641323052738,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Minería y extracción,co2eq,6.2942712491591974,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Minería y extracción,materials,0.39085711289373803,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Minería y extracción,energy,19536.778233607365,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Alimentación y bebidas,output,329100.50299932825,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Alimentación y bebidas,value_added,107456.55266708232,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Alimentación y bebidas,employment,1055.1121267944343,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Alimentación y bebidas,co2eq,12.763252207071606,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Alimentación y bebidas,materials,0.7447259535087607,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Alimentación y bebidas,energy,28630.535633879645,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Textil y calzado,output,160795.48973323868,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Textil y calzado,value_added,68899.60391843978,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Textil y calzado,employment,726.9773723900264,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Textil y calzado,co2eq,4.434555393639975,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Textil y calzado,materials,0.3942420120969549,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Textil y calzado,energy,18293.070465145694,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,"Madera, papel e imprenta",output,160568.89344054123,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,"Madera, papel e imprenta",value_added,66439.86426596426,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,"Madera, papel e imprenta",employment,553.521188918648,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,"Madera, papel e imprenta",co2eq,4.045831962644667,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,"Madera, papel e imprenta",materials,0.26450344237176826,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,"Madera, papel e imprenta",energy,18502.5544519209,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Productos químicos,output,245981.96899495344,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Productos químicos,value_added,100340.82787704717,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Productos químicos,employment,578.2051369324001,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Productos químicos,co2eq,86.09368914823371,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Productos químicos,materials,0.47274118257007036,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Productos químicos,energy,522711.684114276,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Refino y combustibles,output,240471.37048361576,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Refino y combustibles,value_added,48094.27409672315,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Refino y combustibles,employment,594.4509049995344,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Refino y combustibles,co2eq,144.28282229016946,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Refino y combustibles,materials,0.204278624564941,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Refino y combustibles,energy,961885.481934463,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Plásticos y caucho,output,159895.78381131397,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Plásticos y caucho,value_added,63014.340959776775,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Plásticos y caucho,employment,935.0050917002959,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Plásticos y caucho,co2eq,7.48193302372817,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Plásticos y caucho,materials,0.12573008160066174,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Plásticos y caucho,energy,27832.70493370775,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero y metalurgia primaria,output,270121.1677251069,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero y metalurgia primaria,value_added,67530.29193127672,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero y metalurgia primaria,employment,1521.9498440359057,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero y metalurgia primaria,co2eq,189.0848174075748,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero y metalurgia primaria,materials,7.5633926963029925,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero y metalurgia primaria,energy,803610.473982193,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero secundario y reciclaje,output,43126.1848592449,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero secundario y reciclaje,value_added,17141.666158094256,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero secundario y reciclaje,employment,206.955166518709,kpersonas
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero secundario y reciclaje,co2eq,10.781546214811225,Mt CO₂eq
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero secundario y reciclaje,materials,0.9487760669033879,Mt
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Acero secundario y reciclaje,energy,5553.20457803953,TJ
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Maquinaria y equipos,output,298212.17857274914,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Maquinaria y equipos,value_added,93241.0023181082,M€
+esc_eficiencia_energetica_20,2011,hotspot,Italia,Maquinar

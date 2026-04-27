@@ -1,0 +1,1441 @@
+scenario,year,analysis,region,sector,indicator,value,unit
+esc_vida_util_vehiculos_50,2011,hotspot,España,Agricultura y pesca,output,104429.59232231394,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Agricultura y pesca,value_added,36121.51652594879,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Agricultura y pesca,employment,1879.732661801651,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Agricultura y pesca,co2eq,3.449624219191845,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Agricultura y pesca,materials,0.25766027598875446,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Agricultura y pesca,energy,19048.831589145644,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Minería y extracción,output,82357.29149000367,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Minería y extracción,value_added,31862.630678410398,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Minería y extracción,employment,290.23408770603373,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Minería y extracción,co2eq,2.8675481496086643,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Minería y extracción,materials,0.1780669352293234,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Minería y extracción,energy,8900.57801061231,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Alimentación y bebidas,output,167853.43686700345,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Alimentación y bebidas,value_added,54806.818934235256,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Alimentación y bebidas,employment,538.1462354156924,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Alimentación y bebidas,co2eq,6.509731006280805,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Alimentación y bebidas,materials,0.379837799338632,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Alimentación y bebidas,energy,14602.632817913738,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Textil y calzado,output,71848.03363734928,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Textil y calzado,value_added,30786.31787586021,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Textil y calzado,employment,324.8343270804651,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Textil y calzado,co2eq,1.981486455979067,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Textil y calzado,materials,0.17615863102497828,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Textil y calzado,energy,8173.868211668501,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,"Madera, papel e imprenta",output,76355.53919500225,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,"Madera, papel e imprenta",value_added,31594.236912076733,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,"Madera, papel e imprenta",employment,263.21666625542645,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,"Madera, papel e imprenta",co2eq,1.923919847616697,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,"Madera, papel e imprenta",materials,0.12577967331330756,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,"Madera, papel e imprenta",energy,8798.544297027622,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Productos químicos,output,118514.05760311338,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Productos químicos,value_added,48344.188411665345,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Productos químicos,employment,278.5791055531733,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Productos químicos,co2eq,41.47992016108969,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Productos químicos,materials,0.2277665959476188,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Productos químicos,energy,296285.14400778344,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Refino y combustibles,output,114733.76154188944,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Refino y combustibles,value_added,22946.75230837789,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Refino y combustibles,employment,283.6245672215019,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Refino y combustibles,co2eq,68.84025692513366,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Refino y combustibles,materials,0.09746546938957125,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Refino y combustibles,energy,458935.04616755777,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Plásticos y caucho,output,78282.76954007063,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Plásticos y caucho,value_added,30850.951873094924,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Plásticos y caucho,employment,457.76559186038844,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Plásticos y caucho,co2eq,3.663051174019214,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Plásticos y caucho,materials,0.06155571315009519,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Plásticos y caucho,energy,13626.508304767824,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero y metalurgia primaria,output,132558.72337279623,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero y metalurgia primaria,value_added,33139.68084319906,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero y metalurgia primaria,employment,746.8786325110879,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero y metalurgia primaria,co2eq,85.36781785208078,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero y metalurgia primaria,materials,3.7116442544382946,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero y metalurgia primaria,energy,463955.5318047868,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero secundario y reciclaje,output,24154.359860686603,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero secundario y reciclaje,value_added,9600.802258435884,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero secundario y reciclaje,employment,115.91263134999097,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero secundario y reciclaje,co2eq,6.03858996517165,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero secundario y reciclaje,materials,0.5313959169351052,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Acero secundario y reciclaje,energy,3110.2705281203416,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Maquinaria y equipos,output,145139.46745118912,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Maquinaria y equipos,value_added,45380.27080528483,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Maquinaria y equipos,employment,444.6318333723896,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Maquinaria y equipos,co2eq,6.968233508194144,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Maquinaria y equipos,materials,1.451394674511891,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Maquinaria y equipos,energy,25788.735611075976,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Equipos electrónicos,output,124753.73229666395,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Equipos electrónicos,value_added,45207.148489603715,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Equipos electrónicos,employment,733.1409459048818,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Equipos electrónicos,co2eq,4.053830820228606,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Equipos electrónicos,materials,0.3009680228116636,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Equipos electrónicos,energy,12479.957977848077,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Vehículos y partes,output,104236.92849628808,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Vehículos y partes,value_added,31921.738598677548,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Vehículos y partes,employment,582.9350110070504,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Vehículos y partes,co2eq,4.4438614290083365,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Vehículos y partes,materials,1.8762647129331853,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Vehículos y partes,energy,8623.046688893846,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Construcción,output,211961.98233630008,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Construcción,value_added,79294.6856963402,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Construcción,employment,1907.6578410267007,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Construcción,co2eq,38.153156820534015,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Construcción,materials,7.418669381770502,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Construcción,energy,169569.58586904008,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Comercio mayorista y minorista,output,273735.5384144265,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Comercio mayorista y minorista,value_added,95664.8720083205,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Comercio mayorista y minorista,employment,3315.8153898502223,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Comercio mayorista y minorista,co2eq,9.717374876599491,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Comercio mayorista y minorista,materials,0.5195549522868346,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Comercio mayorista y minorista,energy,45627.09416485989,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Transporte y logística,output,191837.06670908604,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Transporte y logística,value_added,61709.88448181166,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Transporte y logística,employment,592.5782240608743,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Transporte y logística,co2eq,47.95926667727151,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Transporte y logística,materials,0.24169077145021947,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Transporte y logística,energy,25979.586100464083,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Energía y suministros,output,131601.55619142475,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Energía y suministros,value_added,41521.66557749234,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Energía y suministros,employment,313.9439148716064,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Energía y suministros,co2eq,105.28124495313979,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Energía y suministros,materials,0.07593996556468915,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Energía y suministros,energy,789609.3371485485,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Servicios financieros y empresariales,output,266486.6247921338,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Servicios financieros y empresariales,value_added,146567.6436356736,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Servicios financieros y empresariales,employment,2131.8929983370704,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Servicios financieros y empresariales,co2eq,6.819419202377195,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Servicios financieros y empresariales,materials,0.4241916700074789,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Servicios financieros y empresariales,energy,37341.537701814195,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Salud y educación,output,129559.53646941234,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Salud y educación,value_added,77735.7218816474,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Salud y educación,employment,1813.8335105717726,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Salud y educación,co2eq,3.6271912913525854,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Salud y educación,materials,0.13428349509455295,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Salud y educación,energy,12732.781168696942,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,España,Otros servicios,output,90687.50781662969,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Otros servicios,value_added,39790.77803998148,M€
+esc_vida_util_vehiculos_50,2011,hotspot,España,Otros servicios,employment,937.6166062397307,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,España,Otros servicios,co2eq,1.8404567921562918,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,España,Otros servicios,materials,0.1379648653360525,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,España,Otros servicios,energy,14832.707760259258,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Agricultura y pesca,output,337813.7754149838,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Agricultura y pesca,value_added,116847.58697212841,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Agricultura y pesca,employment,6080.647957469709,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Agricultura y pesca,co2eq,11.159007282643211,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Agricultura y pesca,materials,0.8334916250327002,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Agricultura y pesca,energy,61620.059728975015,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Minería y extracción,output,268130.981311076,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Minería y extracción,value_added,103735.30110556813,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Minería y extracción,employment,944.9163436365487,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Minería y extracción,co2eq,9.335888606835205,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Minería y extracción,materials,0.5797332721643657,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Minería y extracción,energy,28977.649374383967,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Alimentación y bebidas,output,476582.52494326764,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Alimentación y bebidas,value_added,155611.7803681444,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Alimentación y bebidas,employment,1527.9466208745937,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Alimentación y bebidas,co2eq,18.48293426444971,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Alimentación y bebidas,materials,1.078465004092419,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Alimentación y bebidas,energy,41460.93013689624,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Textil y calzado,output,226642.25405330848,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Textil y calzado,value_added,97114.42504613611,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Textil y calzado,employment,1024.6791784867337,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Textil y calzado,co2eq,6.250533717122422,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Textil y calzado,materials,0.5556865955158398,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Textil y calzado,energy,25784.197869323645,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,"Madera, papel e imprenta",output,262789.8607309433,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,"Madera, papel e imprenta",value_added,108736.64446034732,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,"Madera, papel e imprenta",employment,905.9024636139845,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,"Madera, papel e imprenta",co2eq,6.621479386341391,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,"Madera, papel e imprenta",materials,0.4328909622178547,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,"Madera, papel e imprenta",energy,30281.604384273196,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Productos químicos,output,434463.87574237125,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Productos químicos,value_added,177226.26236703742,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Productos químicos,employment,1021.25064610306,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Productos químicos,co2eq,152.06235650982995,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Productos químicos,materials,0.8349756985912997,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Productos químicos,energy,1086159.6893559282,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Refino y combustibles,output,363512.9639892135,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Refino y combustibles,value_added,72702.5927978427,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Refino y combustibles,employment,898.6126289706252,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Refino y combustibles,co2eq,218.1077783935281,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Refino y combustibles,materials,0.30880153486005496,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Refino y combustibles,energy,1454051.855956854,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Plásticos y caucho,output,252019.25778615632,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Plásticos y caucho,value_added,99319.86360132547,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Plásticos y caucho,employment,1473.7054575163359,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Plásticos y caucho,co2eq,11.792626187509795,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Plásticos y caucho,materials,0.198169089209903,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Plásticos y caucho,energy,43868.43400355996,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero y metalurgia primaria,output,375720.1603147271,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero y metalurgia primaria,value_added,93930.04007868178,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero y metalurgia primaria,employment,2116.9286517155647,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero y metalurgia primaria,co2eq,241.96378324268426,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero y metalurgia primaria,materials,10.520164488812359,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero y metalurgia primaria,energy,1315020.5611015449,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero secundario y reciclaje,output,63411.31791931635,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero secundario y reciclaje,value_added,25204.539793291908,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero secundario y reciclaje,employment,304.300041888581,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero secundario y reciclaje,co2eq,15.852829479829088,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero secundario y reciclaje,materials,1.3950489942249598,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Acero secundario y reciclaje,energy,8165.248609826444,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Maquinaria y equipos,output,432676.1435625593,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Maquinaria y equipos,value_added,135283.3995512526,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Maquinaria y equipos,employment,1325.4946455788433,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Maquinaria y equipos,co2eq,20.7730430234822,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Maquinaria y equipos,materials,4.326761435625593,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Maquinaria y equipos,energy,76878.95558323806,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Equipos electrónicos,output,404402.8433770926,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Equipos electrónicos,value_added,146543.9073733833,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Equipos electrónicos,employment,2376.556417687503,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Equipos electrónicos,co2eq,13.140935185583855,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Equipos electrónicos,materials,0.9756207044867159,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Equipos electrónicos,energy,40455.14629948553,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Vehículos y partes,output,412726.3504868866,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Vehículos y partes,value_added,126394.19506204782,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Vehículos y partes,employment,2308.1324741119993,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Vehículos y partes,co2eq,17.59547922336722,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Vehículos y partes,materials,7.429074308763958,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Vehículos y partes,energy,34142.97256573447,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Construcción,output,641260.5027878915,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Construcción,value_added,239894.67100456887,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Construcción,employment,5771.3445250910245,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Construcción,co2eq,115.42689050182048,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Construcción,materials,22.444117597576206,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Construcción,energy,513008.4022303133,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Comercio mayorista y minorista,output,950501.9966673459,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Comercio mayorista y minorista,value_added,332180.6601420173,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Comercio mayorista y minorista,employment,11513.62795963087,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Comercio mayorista y minorista,co2eq,33.74199885069122,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Comercio mayorista y minorista,materials,1.8040698054316555,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Comercio mayorista y minorista,energy,158432.64033977804,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Transporte y logística,output,598064.0594628985,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Transporte y logística,value_added,192384.42630144113,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Transporte y logística,employment,1847.3996934523395,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Transporte y logística,co2eq,149.5160148657246,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Transporte y logística,materials,0.753486103535129,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Transporte y logística,energy,80992.98531274685,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Energía y suministros,output,454251.19409489905,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Energía y suministros,value_added,143320.9964626085,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Energía y suministros,employment,1083.6452268225312,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Energía y suministros,co2eq,363.4009552759193,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Energía y suministros,materials,0.2621231924272134,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Energía y suministros,energy,2725507.164569394,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Servicios financieros y empresariales,output,874555.0806689516,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Servicios financieros y empresariales,value_added,481005.2943679234,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Servicios financieros y empresariales,employment,6996.440645351613,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Servicios financieros y empresariales,co2eq,22.37995139644408,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Servicios financieros y empresariales,materials,1.3921110692585823,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Servicios financieros y empresariales,energy,122547.35689862959,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Salud y educación,output,390181.7922988565,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Salud y educación,value_added,234109.07537931387,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Salud y educación,employment,5462.54509218399,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Salud y educación,co2eq,10.923657475456348,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Salud y educación,materials,0.4044084767508973,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Salud y educación,energy,38346.07249096031,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Otros servicios,output,287096.8972720503,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Otros servicios,value_added,125968.93652010465,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Otros servicios,employment,2968.289954846622,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Otros servicios,co2eq,5.826485337536749,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Otros servicios,materials,0.43676671378627996,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Alemania,Otros servicios,energy,46957.12208481943,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Agricultura y pesca,output,247615.94311844712,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Agricultura y pesca,value_added,85648.74364189414,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Agricultura y pesca,employment,4457.086976132048,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Agricultura y pesca,co2eq,8.179500996260316,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Agricultura y pesca,materials,0.6109455263044459,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Agricultura y pesca,energy,45167.22027117315,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Minería y extracción,output,217329.31447192765,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Minería y extracción,value_added,84081.00311860844,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Minería y extracción,employment,765.8869564110629,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Minería y extracción,co2eq,7.567056447519749,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Minería y extracción,materials,0.4698936094590144,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Minería y extracción,energy,23487.37412867778,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Alimentación y bebidas,output,382139.5226033013,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Alimentación y bebidas,value_added,124774.63681323864,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Alimentación y bebidas,employment,1225.1577884309768,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Alimentación y bebidas,co2eq,14.820223794327747,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Alimentación y bebidas,materials,0.8647486641632603,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Alimentación y bebidas,energy,33244.7356333269,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Textil y calzado,output,163933.10486586436,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Textil y calzado,value_added,70244.04734931621,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Textil y calzado,employment,741.1629394632794,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Textil y calzado,co2eq,4.5210872244309686,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Textil y calzado,materials,0.4019348877188045,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Textil y calzado,energy,18650.02459867799,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,"Madera, papel e imprenta",output,185438.98554379452,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,"Madera, papel e imprenta",value_added,76730.55948230796,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,"Madera, papel e imprenta",employment,639.25462491948,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,"Madera, papel e imprenta",co2eq,4.672480196865192,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,"Madera, papel e imprenta",materials,0.3054716824365809,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,"Madera, papel e imprenta",energy,21368.366275772885,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Productos químicos,output,302689.5703569539,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Productos químicos,value_added,123472.96106076613,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Productos químicos,employment,711.5020063923569,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Productos químicos,co2eq,105.94134962493385,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Productos químicos,materials,0.5817248557966808,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Productos químicos,energy,756723.9258923847,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Refino y combustibles,output,292956.17474249465,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Refino y combustibles,value_added,58591.23494849893,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Refino y combustibles,employment,724.1945802140428,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Refino y combustibles,co2eq,175.77370484549678,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Refino y combustibles,materials,0.24886407190115284,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Refino y combustibles,energy,1171824.6989699786,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Plásticos y caucho,output,182037.63497346497,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Plásticos y caucho,value_added,71740.36315595232,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Plásticos y caucho,employment,1064.481573711302,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Plásticos y caucho,co2eq,8.51800691803463,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Plásticos y caucho,materials,0.14314077678629658,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Plásticos y caucho,energy,31686.887923357142,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero y metalurgia primaria,output,287978.2074447712,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero y metalurgia primaria,value_added,71994.5518611928,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero y metalurgia primaria,employment,1622.5621694051774,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero y metalurgia primaria,co2eq,185.45796559443264,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero y metalurgia primaria,materials,8.063389808453593,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero y metalurgia primaria,energy,1007923.7260566992,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero secundario y reciclaje,output,51398.832727855144,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero secundario y reciclaje,value_added,20429.853334168743,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero secundario y reciclaje,employment,246.654185172613,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero secundario y reciclaje,co2eq,12.849708181963786,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero secundario y reciclaje,materials,1.130774320012813,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Acero secundario y reciclaje,energy,6618.443855903159,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Maquinaria y equipos,output,364094.3918920817,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Maquinaria y equipos,value_added,113840.17313074964,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Maquinaria y equipos,employment,1115.3958315440634,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Maquinaria y equipos,co2eq,17.480391696911852,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Maquinaria y equipos,materials,3.640943918920817,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Maquinaria y equipos,energy,64693.182184495134,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Equipos electrónicos,output,318927.59201299737,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Equipos electrónicos,value_added,115570.14563121708,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Equipos electrónicos,employment,1874.2435370795533,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Equipos electrónicos,co2eq,10.363445470706422,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Equipos electrónicos,materials,0.769411904727467,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Equipos electrónicos,energy,31904.47991434496,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Vehículos y partes,output,274678.07386729587,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Vehículos y partes,value_added,84117.99732848328,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Vehículos y partes,employment,1536.11074619231,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Vehículos y partes,co2eq,11.71016179641792,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Vehículos y partes,materials,4.944205329611326,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Vehículos y partes,energy,22722.866929616706,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Construcción,output,530552.6169916486,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Construcción,value_added,198479.00338549877,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Construcción,employment,4774.973552924837,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Construcción,co2eq,95.49947105849674,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Construcción,materials,18.5693415947077,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Construcción,energy,424442.0935933189,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Comercio mayorista y minorista,output,700532.0882195402,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Comercio mayorista y minorista,value_added,244821.3810505793,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Comercio mayorista y minorista,employment,8485.690578055563,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Comercio mayorista y minorista,co2eq,24.868283284468028,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Comercio mayorista y minorista,materials,1.3296224442705316,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Comercio mayorista y minorista,energy,116766.87557575229,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Transporte y logística,output,507037.78006073716,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Transporte y logística,value_added,163103.217601379,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Transporte y logística,employment,1566.2225887544234,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Transporte y logística,co2eq,126.7594450151843,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Transporte y logística,materials,0.6388043474576441,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Transporte y logística,energy,68665.72706333082,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Energía y suministros,output,329294.34593391535,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Energía y suministros,value_added,103895.80567374811,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Energía y suministros,employment,785.55268721294,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Energía y suministros,co2eq,263.43547674713227,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Energía y suministros,materials,0.1900175196598307,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Energía y suministros,energy,1975766.075603492,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Servicios financieros y empresariales,output,605576.5116796483,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Servicios financieros y empresariales,value_added,333067.0814238066,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Servicios financieros y empresariales,employment,4844.612093437187,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Servicios financieros y empresariales,co2eq,15.496763094500688,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Servicios financieros y empresariales,materials,0.9639527387427672,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Servicios financieros y empresariales,energy,84856.63458666092,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Salud y educación,output,275427.18595298874,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Salud y educación,value_added,165256.31157179325,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Salud y educación,employment,3855.980603341842,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Salud y educación,co2eq,7.710949865325351,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Salud y educación,materials,0.2854697244348087,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Salud y educación,energy,27068.282136663565,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Otros servicios,output,234131.77971671324,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Otros servicios,value_added,102729.53688010835,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Otros servicios,employment,2420.684502155849,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Otros servicios,co2eq,4.751585247116562,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Otros servicios,materials,0.35618973590961694,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Francia,Otros servicios,energy,38294.229817732215,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Agricultura y pesca,output,238590.09010953453,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Agricultura y pesca,value_added,82526.75981171733,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Agricultura y pesca,employment,4294.621621971622,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Agricultura y pesca,co2eq,7.881349864516813,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Agricultura y pesca,materials,0.5886759403988288,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Agricultura y pesca,energy,43520.82914685942,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Minería y extracción,output,180774.34272721698,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Minería y extracción,value_added,69938.50834869707,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Minería y extracción,employment,637.0641323052738,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Minería y extracción,co2eq,6.2942712491591974,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Minería y extracción,materials,0.39085711289373803,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Minería y extracción,energy,19536.778233607365,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Alimentación y bebidas,output,329100.50299932825,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Alimentación y bebidas,value_added,107456.55266708232,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Alimentación y bebidas,employment,1055.1121267944343,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Alimentación y bebidas,co2eq,12.763252207071606,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Alimentación y bebidas,materials,0.7447259535087607,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Alimentación y bebidas,energy,28630.535633879645,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Textil y calzado,output,160795.48973323868,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Textil y calzado,value_added,68899.60391843978,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Textil y calzado,employment,726.9773723900264,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Textil y calzado,co2eq,4.434555393639975,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Textil y calzado,materials,0.3942420120969549,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Textil y calzado,energy,18293.070465145694,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,"Madera, papel e imprenta",output,160568.89344054123,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,"Madera, papel e imprenta",value_added,66439.86426596426,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,"Madera, papel e imprenta",employment,553.521188918648,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,"Madera, papel e imprenta",co2eq,4.045831962644667,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,"Madera, papel e imprenta",materials,0.26450344237176826,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,"Madera, papel e imprenta",energy,18502.5544519209,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Productos químicos,output,245981.96899495344,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Productos químicos,value_added,100340.82787704717,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Productos químicos,employment,578.2051369324001,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Productos químicos,co2eq,86.09368914823371,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Productos químicos,materials,0.47274118257007036,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Productos químicos,energy,614954.9224873836,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Refino y combustibles,output,240471.37048361576,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Refino y combustibles,value_added,48094.27409672315,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Refino y combustibles,employment,594.4509049995344,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Refino y combustibles,co2eq,144.28282229016946,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Refino y combustibles,materials,0.204278624564941,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Refino y combustibles,energy,961885.481934463,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Plásticos y caucho,output,151900.99462074827,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Plásticos y caucho,value_added,59863.62391178793,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Plásticos y caucho,employment,888.254837115281,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Plásticos y caucho,co2eq,7.107836372541762,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Plásticos y caucho,materials,0.11944357752062865,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Plásticos y caucho,energy,26441.069687022362,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero y metalurgia primaria,output,248511.47430709834,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero y metalurgia primaria,value_added,62127.868576774585,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero y metalurgia primaria,employment,1400.1938565130333,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero y metalurgia primaria,co2eq,160.04138945377133,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero y metalurgia primaria,materials,6.958321280598754,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero y metalurgia primaria,energy,869790.1600748443,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero secundario y reciclaje,output,43126.1848592449,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero secundario y reciclaje,value_added,17141.666158094256,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero secundario y reciclaje,employment,206.955166518709,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero secundario y reciclaje,co2eq,10.781546214811225,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero secundario y reciclaje,materials,0.9487760669033879,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Acero secundario y reciclaje,energy,5553.20457803953,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Maquinaria y equipos,output,298212.17857274914,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Maquinaria y equipos,value_added,93241.0023181082,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Maquinaria y equipos,employment,913.566998841083,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Maquinaria y equipos,co2eq,14.317346837317345,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Maquinaria y equipos,materials,2.9821217857274913,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Maquinaria y equipos,energy,52987.06936348618,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Equipos electrónicos,output,289737.0117244791,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Equipos electrónicos,value_added,104992.32264101839,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Equipos electrónicos,employment,1702.6990930757006,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Equipos electrónicos,co2eq,9.414907323947364,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Equipos electrónicos,materials,0.6989897131631397,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Equipos electrónicos,energy,28984.349120314597,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Vehículos y partes,output,241722.39059574954,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Vehículos y partes,value_added,74025.57881700943,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Vehículos y partes,employment,1351.8092527793701,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Vehículos y partes,co2eq,10.30518477081173,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Vehículos y partes,materials,4.351003030723492,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Vehículos y partes,energy,19996.593241256232,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Construcción,output,445269.897392764,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Construcción,value_added,166574.85542752536,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Construcción,employment,4007.429076534876,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Construcción,co2eq,80.14858153069753,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Construcción,materials,15.584446408746741,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Construcción,energy,356215.91791421117,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Comercio mayorista y minorista,output,528154.0053670207,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Comercio mayorista y minorista,value_added,184578.8296864235,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Comercio mayorista y minorista,employment,6397.6390838797615,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Comercio mayorista y minorista,co2eq,18.749010422456706,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Comercio mayorista y minorista,materials,1.0024457571275343,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Comercio mayorista y minorista,energy,88034.35854918188,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Transporte y logística,output,403055.807500056,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Transporte y logística,value_added,129654.43929702108,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Transporte y logística,employment,1245.02578517842,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Transporte y logística,co2eq,100.763951875014,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Transporte y logística,materials,0.5078000342858964,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Transporte y logística,energy,54583.94060058795,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Energía y suministros,output,268182.21545402106,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Energía y suministros,value_added,84614.2901814595,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Energía y suministros,employment,639.7657980283226,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Energía y suministros,co2eq,214.54577236321683,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Energía y suministros,materials,0.1547530956018243,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Energía y suministros,energy,1609093.2927241263,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Servicios financieros y empresariales,output,519773.3590623108,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Servicios financieros y empresariales,value_added,285875.3474842709,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Servicios financieros y empresariales,employment,4158.186872498486,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Servicios financieros y empresariales,co2eq,13.301051894962676,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Servicios financieros y empresariales,materials,0.8273718404367245,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Servicios financieros y empresariales,energy,72833.4358205163,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Salud y educación,output,242546.53778978853,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Salud y educación,value_added,145527.9226738731,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Salud y educación,employment,3395.6515290570396,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Salud y educación,co2eq,6.790412451240473,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Salud y educación,materials,0.25139019253272266,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Salud y educación,energy,23836.855804370483,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Otros servicios,output,182478.3506762052,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Otros servicios,value_added,80065.6642096776,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Otros servicios,employment,1886.6405747878844,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Otros servicios,co2eq,3.703305207179976,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Otros servicios,materials,0.27760825811524925,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Italia,Otros servicios,energy,29845.875284467038,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Agricultura y pesca,output,43022.00633904679,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Agricultura y pesca,value_added,14881.032075266447,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Agricultura y pesca,employment,774.3961141028423,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Agricultura y pesca,co2eq,1.4211465517106066,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Agricultura y pesca,materials,0.10614866706264203,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Agricultura y pesca,energy,7847.5739984723505,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Minería y extracción,output,31896.687811585663,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Minería y extracción,value_added,12340.28420821083,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Minería y extracción,employment,112.40663601671972,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Minería y extracción,co2eq,1.1105912598383538,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Minería y extracción,materials,0.06896469444074624,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Minería y extracción,energy,3447.162394620809,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Alimentación y bebidas,output,62934.60384486828,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Alimentación y bebidas,value_added,20549.1499131858,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Alimentación y bebidas,employment,201.77138322957742,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Alimentación y bebidas,co2eq,2.4407444355253136,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Alimentación y bebidas,materials,0.1424155612948465,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Alimentación y bebidas,energy,5475.07950174199,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Textil y calzado,output,27383.989327829953,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Textil y calzado,value_added,11733.824260396832,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Textil y calzado,employment,123.80658586959844,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Textil y calzado,co2eq,0.7552190535603397,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Textil y calzado,materials,0.06714068329749645,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Textil y calzado,energy,3115.3687657648293,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,"Madera, papel e imprenta",output,31312.08831042049,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,"Madera, papel e imprenta",value_added,12956.251068632957,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,"Madera, papel e imprenta",employment,107.94061027472713,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,"Madera, papel e imprenta",co2eq,0.788966312147892,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,"Madera, papel e imprenta",materials,0.05158007238196426,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,"Madera, papel e imprenta",energy,3608.1311053030718,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Productos químicos,output,50643.19669816266,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Productos químicos,value_added,20658.344608738524,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Productos químicos,employment,119.04188181433888,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Productos químicos,co2eq,17.72511884435693,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Productos químicos,materials,0.09732877899155801,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Productos químicos,energy,126607.99174540666,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Refino y combustibles,output,44806.29581568919,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Refino y combustibles,value_added,8961.259163137838,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Refino y combustibles,employment,110.76222106501467,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Refino y combustibles,co2eq,26.883777489413514,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Refino y combustibles,materials,0.038062612038477515,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Refino y combustibles,energy,179225.18326275676,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Plásticos y caucho,output,30961.44663407947,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Plásticos y caucho,value_added,12201.792369398085,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Plásticos y caucho,employment,181.0498661017408,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Plásticos y caucho,co2eq,1.4487653427264748,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Plásticos y caucho,materials,0.024345765216492836,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Plásticos y caucho,energy,5389.3904388622,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero y metalurgia primaria,output,46193.87191655522,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero y metalurgia primaria,value_added,11548.467979138804,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero y metalurgia primaria,employment,260.2711840427203,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero y metalurgia primaria,co2eq,29.74885351426156,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero y metalurgia primaria,materials,1.293428413663546,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero y metalurgia primaria,energy,161678.55170794326,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero secundario y reciclaje,output,7859.919604979017,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero secundario y reciclaje,value_added,3124.1371880621627,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero secundario y reciclaje,employment,37.71840648508918,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero secundario y reciclaje,co2eq,1.9649799012447542,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero secundario y reciclaje,materials,0.17291823130953837,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Acero secundario y reciclaje,energy,1012.0937355309654,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Maquinaria y equipos,output,54307.840266515304,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Maquinaria y equipos,value_added,16980.250385536503,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Maquinaria y equipos,employment,166.37097412746328,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Maquinaria y equipos,co2eq,2.6073522174804338,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Maquinaria y equipos,materials,0.5430784026651531,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Maquinaria y equipos,energy,9649.549904216867,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Equipos electrónicos,output,51309.43489383726,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Equipos electrónicos,value_added,18593.056892658453,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Equipos electrónicos,employment,301.5304387243468,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Equipos electrónicos,co2eq,1.667282931836683,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Equipos electrónicos,materials,0.12378386511803727,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Equipos electrónicos,energy,5132.8291310715695,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Vehículos y partes,output,45463.87732816999,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Vehículos y partes,value_added,13922.954452786531,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Vehículos y partes,employment,254.2523673043928,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Vehículos y partes,co2eq,1.9382302777562737,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Vehículos y partes,materials,0.8183497919070599,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Vehículos y partes,energy,3761.0196550727505,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Construcción,output,76409.24856553735,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Construcción,value_added,28584.594664173386,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Construcción,employment,687.6832370898361,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Construcción,co2eq,13.753664741796724,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Construcción,materials,2.674323699793807,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Construcción,energy,61127.39885242987,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Comercio mayorista y minorista,output,110709.67444807378,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Comercio mayorista y minorista,value_added,38690.72644898358,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Comercio mayorista y minorista,employment,1341.0492640691205,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Comercio mayorista y minorista,co2eq,3.9300976968853942,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Comercio mayorista y minorista,materials,0.21012894401192794,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Comercio mayorista y minorista,energy,18453.434180532502,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Transporte y logística,output,76532.69247592558,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Transporte y logística,value_added,24618.931538050336,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Transporte y logística,employment,236.40690387929604,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Transporte y logística,co2eq,19.133173118981396,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Transporte y logística,materials,0.0964216446955961,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Transporte y logística,energy,10364.460361009451,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Energía y suministros,output,59036.70718858958,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Energía y suministros,value_added,18626.69776575699,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Energía y suministros,employment,140.8358344103094,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Energía y suministros,co2eq,47.22936575087166,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Energía y suministros,materials,0.03406681228322937,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Energía y suministros,energy,354220.2431315375,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Servicios financieros y empresariales,output,113388.86891282047,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Servicios financieros y empresariales,value_added,62363.87790205127,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Servicios financieros y empresariales,employment,907.1109513025638,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Servicios financieros y empresariales,co2eq,2.901632420025094,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Servicios financieros y empresariales,materials,0.1804916614554541,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Servicios financieros y empresariales,energy,15888.657551863505,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Salud y educación,output,45483.63905444226,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Salud y educación,value_added,27290.183432665355,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Salud y educación,employment,636.7709467621917,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Salud y educación,co2eq,1.2733748821048527,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Salud y educación,materials,0.047142049040068766,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Salud y educación,energy,4470.016168766848,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Otros servicios,output,34256.03350022756,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Otros servicios,value_added,15030.451915095777,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Otros servicios,employment,354.1725497481155,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Otros servicios,co2eq,0.6952087563736775,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Otros servicios,materials,0.05211444401319795,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Polonia,Otros servicios,energy,5602.86357148468,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Agricultura y pesca,output,310719.4451495998,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Agricultura y pesca,value_added,107475.83441927025,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Agricultura y pesca,employment,5592.950012692797,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Agricultura y pesca,co2eq,10.263999882846246,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Agricultura y pesca,materials,0.7666414874551967,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Agricultura y pesca,energy,56677.82714174973,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Minería y extracción,output,270179.4856050475,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Minería y extracción,value_added,104527.83245987906,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Minería y extracción,employment,952.1354466955036,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Minería y extracción,co2eq,9.40721422465687,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Minería y extracción,materials,0.5841623988977999,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Minería y extracción,energy,29199.036842860645,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Alimentación y bebidas,output,520175.5197659231,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Alimentación y bebidas,value_added,169845.58706665947,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Alimentación y bebidas,employment,1667.7078702846704,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Alimentación y bebidas,co2eq,20.173567922898584,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Alimentación y bebidas,materials,1.1771121782526812,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Alimentación y bebidas,energy,45253.360656700446,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Textil y calzado,output,242488.26442686617,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Textil y calzado,value_added,103904.31598298324,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Textil y calzado,employment,1096.321057269188,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Textil y calzado,co2eq,6.687548529455242,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Textil y calzado,materials,0.594538201513898,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Textil y calzado,energy,27586.93614784017,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",output,249967.73239709224,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",value_added,103431.13074690007,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",employment,861.7013760449975,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",co2eq,6.2984020110748276,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",materials,0.41176920562997565,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",energy,28804.094496752874,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Productos químicos,output,380152.6048678675,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Productos químicos,value_added,155071.6389819629,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Productos químicos,employment,893.5865903136317,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Productos químicos,co2eq,133.05341170375362,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Productos químicos,materials,0.7305974202768308,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Productos químicos,energy,950381.5121696687,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Refino y combustibles,output,317400.7241160688,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Refino y combustibles,value_added,63480.14482321376,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Refino y combustibles,employment,784.6220833642235,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Refino y combustibles,co2eq,190.44043446964127,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Refino y combustibles,materials,0.26962953314546234,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Refino y combustibles,energy,1269602.8964642752,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Plásticos y caucho,output,234578.59426618958,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Plásticos y caucho,value_added,92446.56218326671,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Plásticos y caucho,employment,1371.7195964442028,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Plásticos y caucho,co2eq,10.976532897021563,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Plásticos y caucho,materials,0.18445505626127476,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Plásticos y caucho,energy,40832.57633409109,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,output,359229.7875711123,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,value_added,89807.44689277807,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,employment,2024.0165691986574,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,co2eq,231.34398319579634,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,materials,10.058434051991144,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,energy,1257304.2564988933,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,output,64606.058639538714,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,value_added,25679.421738874964,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,employment,310.03339774900087,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,co2eq,16.151514659884675,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,materials,1.4213332900698517,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,energy,8319.091099227331,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Maquinaria y equipos,output,427962.24089614605,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Maquinaria y equipos,value_added,133809.51940474092,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Maquinaria y equipos,employment,1311.053699765044,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Maquinaria y equipos,co2eq,20.546725708892954,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Maquinaria y equipos,materials,4.27962240896146,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Maquinaria y equipos,energy,76041.37782650997,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Equipos electrónicos,output,411184.47795811505,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Equipos electrónicos,value_added,149001.37582633083,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Equipos electrónicos,employment,2416.4100869924737,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Equipos electrónicos,co2eq,13.361302133890472,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Equipos electrónicos,materials,0.9919813785419649,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Equipos electrónicos,energy,41133.55898529617,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Vehículos y partes,output,334983.3844454523,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Vehículos y partes,value_added,102586.02385380943,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Vehículos y partes,employment,1873.3624034772142,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Vehículos y partes,co2eq,14.2811167114237,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Vehículos y partes,materials,6.029700920018142,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Vehículos y partes,energy,27711.65081077457,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Construcción,output,610092.2198362226,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Construcción,value_added,228234.6592746072,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Construcción,employment,5490.829978526003,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Construcción,co2eq,109.81659957052007,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Construcción,materials,21.353227694267794,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Construcción,energy,488073.7758689781,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,output,993772.5024587202,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,value_added,347302.80110421893,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,employment,12037.7725769528,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,co2eq,35.27806438427301,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,materials,1.8861980000463738,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,energy,165645.10333870046,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Transporte y logística,output,576963.1064552187,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Transporte y logística,value_added,185596.70068147688,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Transporte y logística,employment,1782.2195618240514,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Transporte y logística,co2eq,144.24077661380468,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Transporte y logística,materials,0.7269015351915421,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Transporte y logística,energy,78135.38310443024,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Energía y suministros,output,403890.28257703036,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Energía y suministros,value_added,127431.60285102384,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Energía y suministros,employment,963.5060569222553,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Energía y suministros,co2eq,323.1122260616243,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Energía y suministros,materials,0.23306270106865826,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Energía y suministros,energy,2423341.695462182,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,output,922363.8711429113,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,value_added,507300.1291286012,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,employment,7378.9109691432905,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,co2eq,23.603383094206993,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,materials,1.468212789890924,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,energy,129246.58149706504,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Salud y educación,output,443421.59986896004,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Salud y educación,value_added,266052.959921376,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Salud y educación,employment,6207.90239816544,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Salud y educación,co2eq,12.414176596116821,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Salud y educación,materials,0.45958949725696246,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Salud y educación,energy,43578.34514125422,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Otros servicios,output,266644.28044970124,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Otros servicios,value_added,116994.9823790289,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Otros servicios,employment,2756.830696174877,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Otros servicios,co2eq,5.411409893803364,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Otros servicios,materials,0.4056517058474705,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto UE-27,Otros servicios,energy,43611.923880984374,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Agricultura y pesca,output,160182.01616021094,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Agricultura y pesca,value_added,55405.91718516679,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Agricultura y pesca,employment,2883.2762908837967,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Agricultura y pesca,co2eq,5.291294834511898,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Agricultura y pesca,materials,0.3952188414648842,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Agricultura y pesca,energy,29218.540277626682,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Minería y extracción,output,137829.50456846622,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Minería y extracción,value_added,53323.883304083174,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Minería y extracción,employment,485.72287642872334,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Minería y extracción,co2eq,4.799001201183949,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Minería y extracción,materials,0.2980049127242335,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Minería y extracción,energy,14895.61197777589,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Alimentación y bebidas,output,270812.82379634696,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Alimentación y bebidas,value_added,88424.69761662089,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Alimentación y bebidas,employment,868.2390086761833,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Alimentación y bebidas,co2eq,10.502725883190383,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Alimentación y bebidas,materials,0.6128259804712185,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Alimentación y bebidas,energy,23559.721517133952,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Textil y calzado,output,105828.89415255804,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Textil y calzado,value_added,45346.84960588461,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Textil y calzado,employment,478.46622763863076,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Textil y calzado,co2eq,2.918639659270048,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Textil y calzado,materials,0.25947367204091165,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Textil y calzado,energy,12039.737067208327,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,"Madera, papel e imprenta",output,124729.13014943409,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,"Madera, papel e imprenta",value_added,51610.16121848575,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,"Madera, papel e imprenta",employment,429.9725490645495,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,"Madera, papel e imprenta",co2eq,3.142782456916619,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,"Madera, papel e imprenta",materials,0.20546497881159226,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,"Madera, papel e imprenta",energy,14372.69369477978,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Productos químicos,output,198735.4534099058,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Productos químicos,value_added,81068.05553735282,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Productos químicos,employment,467.14749264631956,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Productos químicos,co2eq,69.55740869346704,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Productos químicos,materials,0.38194032533142896,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Productos químicos,energy,496838.6335247645,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Refino y combustibles,output,176843.37274208808,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Refino y combustibles,value_added,35368.67454841761,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Refino y combustibles,employment,437.1609924220347,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Refino y combustibles,co2eq,106.10602364525285,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Refino y combustibles,materials,0.15022711799132984,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Refino y combustibles,energy,707373.4909683523,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Plásticos y caucho,output,112954.75883183749,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Plásticos y caucho,value_added,44515.055471744854,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Plásticos y caucho,employment,660.5131925440676,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Plásticos y caucho,co2eq,5.285442305898856,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Plásticos y caucho,materials,0.08881917150403999,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Plásticos y caucho,energy,19661.78468554591,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero y metalurgia primaria,output,183432.9766093495,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero y metalurgia primaria,value_added,45858.24415233738,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero y metalurgia primaria,employment,1033.5205955637994,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero y metalurgia primaria,co2eq,118.13083693642109,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero y metalurgia primaria,materials,5.136123345061787,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero y metalurgia primaria,energy,642015.4181327232,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero secundario y reciclaje,output,30082.150671899213,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero secundario y reciclaje,value_added,11956.962708808827,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero secundario y reciclaje,employment,144.3590830457893,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero secundario y reciclaje,co2eq,7.520537667974803,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero secundario y reciclaje,materials,0.6618073147817827,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Acero secundario y reciclaje,energy,3873.5709493823883,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Maquinaria y equipos,output,215272.58314701423,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Maquinaria y equipos,value_added,67308.55701568625,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Maquinaria y equipos,employment,659.48321983238,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Maquinaria y equipos,co2eq,10.335366758769547,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Maquinaria y equipos,materials,2.1527258314701423,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Maquinaria y equipos,energy,38250.15916472715,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Equipos electrónicos,output,198417.70217058546,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Equipos electrónicos,value_added,71900.84304380756,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Equipos electrónicos,employment,1166.0424035065612,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Equipos electrónicos,co2eq,6.447516892122425,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Equipos electrónicos,materials,0.47868213971432055,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Equipos electrónicos,energy,19849.062144782813,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Vehículos y partes,output,180843.20320393596,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Vehículos y partes,value_added,55381.807036161306,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Vehículos y partes,employment,1011.3482445330374,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Vehículos y partes,co2eq,7.709764159492727,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Vehículos y partes,materials,3.2551776576708478,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Vehículos y partes,energy,14960.335143146405,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Construcción,output,311578.03907426004,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Construcción,value_added,116560.91533941218,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Construcción,employment,2804.2023516683407,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Construcción,co2eq,56.0840470333668,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Construcción,materials,10.9052313675991,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Construcción,energy,249262.43125940804,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Comercio mayorista y minorista,output,447492.95195550355,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Comercio mayorista y minorista,value_added,156389.47073301394,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Comercio mayorista y minorista,employment,5420.575002932704,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Comercio mayorista y minorista,co2eq,15.885612785155923,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Comercio mayorista y minorista,materials,0.8493496337693041,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Comercio mayorista y minorista,energy,74589.5223369682,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Transporte y logística,output,315363.9158697272,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Transporte y logística,value_added,101445.83188172204,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Transporte y logística,employment,974.1484917633737,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Transporte y logística,co2eq,78.8409789674318,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Transporte y logística,materials,0.397319190819896,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Transporte y logística,energy,42708.24270755511,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Energía y suministros,output,209621.18730598618,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Energía y suministros,value_added,66137.67412154043,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Energía y suministros,employment,500.06472634070394,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Energía y suministros,co2eq,167.69694984478895,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Energía y suministros,materials,0.12096077133382041,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Energía y suministros,energy,1257727.123835917,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Servicios financieros y empresariales,output,418435.2893628203,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Servicios financieros y empresariales,value_added,230139.40914955118,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Servicios financieros y empresariales,employment,3347.4823149025624,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Servicios financieros y empresariales,co2eq,10.707800623985777,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Servicios financieros y empresariales,materials,0.6660625625144575,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Servicios financieros y empresariales,energy,58633.401003518244,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Salud y educación,output,188965.8704906569,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Salud y educación,value_added,113379.52229439413,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Salud y educación,employment,2645.5221868691965,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Salud y educación,co2eq,5.290350509770392,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Salud y educación,materials,0.19585588397856632,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Salud y educación,energy,18571.084328307297,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Otros servicios,output,137868.57735728245,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Otros servicios,value_added,60492.3223979662,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Otros servicios,employment,1425.4208845413948,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Otros servicios,co2eq,2.7979725734133165,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Otros servicios,materials,0.20974244597868044,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Reino Unido,Otros servicios,energy,22549.57012820541,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Agricultura y pesca,output,380942.5519104621,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Agricultura y pesca,value_added,131765.55014981757,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Agricultura y pesca,employment,6856.965934388318,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Agricultura y pesca,co2eq,12.583680774460758,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Agricultura y pesca,materials,0.9399037272707722,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Agricultura y pesca,energy,69487.10949751773,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Minería y extracción,output,333380.07543045096,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Minería y extracción,value_added,128979.06216683166,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Minería y extracción,employment,1174.859691247495,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Minería y extracción,co2eq,11.607756898282911,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Minería y extracción,materials,0.7208101095168545,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Minería y extracción,energy,36029.297647709864,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Alimentación y bebidas,output,600731.8451535844,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Alimentación y bebidas,value_added,196148.50955627812,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Alimentación y bebidas,employment,1925.975344906832,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Alimentación y bebidas,co2eq,23.29772205948386,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Alimentación y bebidas,materials,1.3594041701783528,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Alimentación y bebidas,energy,52261.465243373,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Textil y calzado,output,297811.3072629101,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Textil y calzado,value_added,127609.80514371787,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Textil y calzado,employment,1346.4437465329925,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Textil y calzado,co2eq,8.213294670769058,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Textil y calzado,materials,0.7301804869983485,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Textil y calzado,energy,33880.82114812837,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",output,329873.54872231575,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",value_added,136494.39397898322,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",employment,1137.15673670756,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",co2eq,8.311777695260608,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",materials,0.5433972129648726,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",energy,38011.74166865117,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Productos químicos,output,472222.8973902825,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Productos químicos,value_added,192628.90146070402,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Productos químicos,employment,1110.0069902024597,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Productos químicos,co2eq,165.2780140865989,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Productos químicos,materials,0.907542987240366,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Productos químicos,energy,1180557.243475706,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Refino y combustibles,output,403169.8143546252,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Refino y combustibles,value_added,80633.96287092504,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Refino y combustibles,employment,996.6452993119633,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Refino y combustibles,co2eq,241.9018886127751,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Refino y combustibles,materials,0.3424897316334664,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Refino y combustibles,energy,1612679.2574185007,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Plásticos y caucho,output,263287.23341051,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Plásticos y caucho,value_added,103760.53139752809,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Plásticos y caucho,employment,1539.5959665141097,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Plásticos y caucho,co2eq,12.319883610594205,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Plásticos y caucho,materials,0.20702938221422676,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Plásticos y caucho,energy,45829.825562970516,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,output,473860.30543407996,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,value_added,118465.07635851999,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,employment,2669.881905309016,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,co2eq,305.1660366995475,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,materials,13.268088552154238,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,energy,1658511.0690192801,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,output,79257.68397111785,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,value_added,31503.105677695887,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,employment,380.34403547787196,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,co2eq,19.81442099277946,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,materials,1.7436690473645926,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,energy,10205.728489773213,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Maquinaria y equipos,output,540290.6791408503,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Maquinaria y equipos,value_added,168930.8756849939,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Maquinaria y equipos,employment,1655.1696064421628,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Maquinaria y equipos,co2eq,25.939681884394282,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Maquinaria y equipos,materials,5.402906791408503,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Maquinaria y equipos,energy,96000.169507153,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Equipos electrónicos,output,444527.203183805,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Equipos electrónicos,value_added,161083.8161876452,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Equipos electrónicos,employment,2612.355464024393,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Equipos electrónicos,co2eq,14.444762842135194,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Equipos electrónicos,materials,1.0724206079067833,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Equipos electrónicos,energy,44469.05686598501,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Vehículos y partes,output,453010.8860040485,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Vehículos y partes,value_added,138731.0168669399,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Vehículos y partes,employment,2533.4198697967927,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Vehículos y partes,co2eq,19.312902176563767,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Vehículos y partes,materials,8.154195948072873,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Vehículos y partes,energy,37475.52884512695,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Construcción,output,793754.5242175153,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Construcción,value_added,296942.47441984265,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Construcción,employment,7143.790717957638,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Construcción,co2eq,142.87581435915274,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Construcción,materials,27.781408347613034,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Construcción,energy,635003.6193740122,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,output,999978.3773380922,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,value_added,349471.62517972477,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,employment,12112.9456273784,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,co2eq,35.49836757540937,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,materials,1.8979768616641468,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,energy,166679.51793877973,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Transporte y logística,output,709791.8094741645,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Transporte y logística,value_added,228324.85567145195,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Transporte y logística,employment,2192.5229421329213,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Transporte y logística,co2eq,177.44795236854114,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Transporte y logística,materials,0.8942491299713603,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Transporte y logística,energy,96123.74575973889,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Energía y suministros,output,510381.6782730282,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Energía y suministros,value_added,161030.75051260562,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Energía y suministros,employment,1217.548080683076,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Energía y suministros,co2eq,408.3053426184226,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Energía y suministros,materials,0.2945129844553278,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Energía y suministros,energy,3062290.0696381694,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,output,998451.6774456,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,value_added,549148.4225950801,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,employment,7987.6134195648,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,co2eq,25.550477616388164,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,materials,1.5893288633445881,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,energy,139908.41373692482,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Salud y educación,output,449751.1392675895,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Salud y educación,value_added,269850.6835605537,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Salud y educación,employment,6296.515949746253,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Salud y educación,co2eq,12.591380457836426,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Salud y educación,materials,0.46614982230866026,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Salud y educación,energy,44200.396147745916,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Otros servicios,output,332156.8742429608,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Otros servicios,value_added,145739.81329578548,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Otros servicios,employment,3434.164293020442,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Otros servicios,co2eq,6.740954625172317,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Otros servicios,materials,0.5053174304672088,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Estados Unidos,Otros servicios,energy,54327.06185033769,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Agricultura y pesca,output,435806.8524713517,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Agricultura y pesca,value_added,150742.75474598393,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Agricultura y pesca,employment,7844.523344484331,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Agricultura y pesca,co2eq,14.396014000848593,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Agricultura y pesca,materials,1.0752710164661377,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Agricultura y pesca,energy,79494.81706775348,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Minería y extracción,output,369321.02475220413,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Minería y extracción,value_added,142884.00213938387,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Minería y extracción,employment,1301.518648201585,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Minería y extracción,co2eq,12.859162825532007,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Minería y extracción,materials,0.7985190115359772,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Minería y extracción,energy,39913.534458151305,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Alimentación y bebidas,output,723791.4903504656,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Alimentación y bebidas,value_added,236329.44250768758,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Alimentación y bebidas,employment,2320.5105181530275,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Alimentación y bebidas,co2eq,28.07024982485087,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Alimentación y bebidas,materials,1.6378774960239966,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Alimentación y bebidas,energy,62967.20262387494,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Textil y calzado,output,262450.0774188895,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Textil y calzado,value_added,112457.79600239244,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Textil y calzado,employment,1186.571016277102,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Textil y calzado,co2eq,7.238072462791109,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Textil y calzado,materials,0.6434810252966698,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Textil y calzado,energy,29857.913102983333,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,"Madera, papel e imprenta",output,337496.1708676901,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,"Madera, papel e imprenta",value_added,139648.46678746864,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,"Madera, papel e imprenta",employment,1163.4338242690285,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,"Madera, papel e imprenta",co2eq,8.503843839917316,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,"Madera, papel e imprenta",materials,0.5559538779212604,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,"Madera, papel e imprenta",energy,38890.105953844635,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Productos químicos,output,521972.08071715035,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Productos químicos,value_added,212922.5606326384,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Productos químicos,employment,1226.947404474763,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Productos químicos,co2eq,182.69022825100265,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Productos químicos,materials,1.0031536039613065,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Productos químicos,energy,1304930.2017928758,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Refino y combustibles,output,475056.39104780107,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Refino y combustibles,value_added,95011.27820956022,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Refino y combustibles,employment,1174.3506140304503,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Refino y combustibles,co2eq,285.03383462868067,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Refino y combustibles,materials,0.4035568390485034,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Refino y combustibles,energy,1900225.5641912043,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Plásticos y caucho,output,305572.39047071745,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Plásticos y caucho,value_added,120424.95644374425,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Plásticos y caucho,employment,1786.8622559198166,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Plásticos y caucho,co2eq,14.29851435044935,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Plásticos y caucho,materials,0.24027926611329486,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Plásticos y caucho,energy,53190.30919474072,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero y metalurgia primaria,output,455597.90088812856,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero y metalurgia primaria,value_added,113899.47522203214,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero y metalurgia primaria,employment,2566.9856236717437,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero y metalurgia primaria,co2eq,293.40504817195483,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero y metalurgia primaria,materials,12.7567412248676,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero y metalurgia primaria,energy,1594592.65310845,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero secundario y reciclaje,output,88801.52983825134,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero secundario y reciclaje,value_added,35296.564808213894,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero secundario y reciclaje,employment,426.1433153610331,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero secundario y reciclaje,co2eq,22.200382459562835,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero secundario y reciclaje,materials,1.9536336564415295,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Acero secundario y reciclaje,energy,11434.655387305354,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Maquinaria y equipos,output,640153.5098126414,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Maquinaria y equipos,value_added,200154.65222800928,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Maquinaria y equipos,employment,1961.0973755535356,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Maquinaria y equipos,co2eq,30.734156710094712,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Maquinaria y equipos,materials,6.4015350981264145,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Maquinaria y equipos,energy,113744.04154137115,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Equipos electrónicos,output,502187.19123464805,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Equipos electrónicos,value_added,181978.13007898955,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Equipos electrónicos,employment,2951.206233474195,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Equipos electrónicos,co2eq,16.318404875534874,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Equipos electrónicos,materials,1.2115251643759963,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Equipos electrónicos,energy,50237.17469805556,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Vehículos y partes,output,504393.4552535559,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Vehículos y partes,value_added,154466.52411732508,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Vehículos y partes,employment,2820.7719532006963,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Vehículos y partes,co2eq,21.503459984676535,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Vehículos y partes,materials,9.079082194564005,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Vehículos y partes,energy,41726.1749455596,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Construcción,output,852548.0037670946,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Construcción,value_added,318937.0341540563,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Construcción,employment,7672.932033903851,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Construcción,co2eq,153.45864067807702,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Construcción,materials,29.839180131848313,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Construcción,energy,682038.4030136756,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Comercio mayorista y minorista,output,1178820.680330315,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Comercio mayorista y minorista,value_added,411973.2869096019,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Comercio mayorista y minorista,employment,14279.29956173702,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Comercio mayorista y minorista,co2eq,41.847114661871814,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Comercio mayorista y minorista,materials,2.237422754353888,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Comercio mayorista y minorista,energy,196489.51135999378,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Transporte y logística,output,769109.7463534803,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Transporte y logística,value_added,247406.16824215025,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Transporte y logística,employment,2375.754047017383,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Transporte y logística,co2eq,192.27743658837008,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Transporte y logística,materials,0.968982330239368,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Transporte y logística,energy,104156.89323688955,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Energía y suministros,output,553177.8790230508,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Energía y suministros,value_added,174533.39886233275,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Energía y suministros,employment,1319.641150050357,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Energía y suministros,co2eq,442.5423032184407,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Energía y suministros,materials,0.3192083004174654,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Energía y suministros,energy,3319067.2741383044,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Servicios financieros y empresariales,output,1184466.1176418192,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Servicios financieros y empresariales,value_added,651456.3647030006,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Servicios financieros y empresariales,employment,9475.728941134554,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Servicios financieros y empresariales,co2eq,30.310605620497228,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Servicios financieros y empresariales,materials,1.8854254351477284,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Servicios financieros y empresariales,energy,165973.75655511348,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Salud y educación,output,524587.3030474642,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Salud y educación,value_added,314752.38182847854,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Salud y educación,employment,7344.2222426645,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Salud y educación,co2eq,14.686518252688625,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Salud y educación,materials,0.5437146384980305,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Salud y educación,energy,51555.10366585187,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,China,Otros servicios,output,405186.63363861147,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Otros servicios,value_added,177782.93606305067,M€
+esc_vida_util_vehiculos_50,2011,hotspot,China,Otros servicios,employment,4189.217737619542,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,China,Otros servicios,co2eq,8.2230564046262,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,China,Otros servicios,materials,0.6164191815586382,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,China,Otros servicios,energy,66271.69573649569,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Agricultura y pesca,output,130681.02838253784,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Agricultura y pesca,value_added,45201.717457429884,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Agricultura y pesca,employment,2352.258510885681,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Agricultura y pesca,co2eq,4.316788282634853,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Agricultura y pesca,materials,0.3224307314694386,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Agricultura y pesca,energy,23837.313219343298,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Minería y extracción,output,104738.04463060583,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Minería y extracción,value_added,40521.36214859523,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Minería y extracción,employment,369.1057619976178,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Minería y extracción,co2eq,3.6468099015929654,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Minería y extracción,materials,0.22645696904138488,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Minería y extracción,energy,11319.327287819471,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Alimentación y bebidas,output,204955.04020234948,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Alimentación y bebidas,value_added,66921.08298580356,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Alimentación y bebidas,employment,657.0957698158886,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Alimentación y bebidas,co2eq,7.94861401113819,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Alimentación y bebidas,materials,0.4637955164153385,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Alimentación y bebidas,energy,17830.33610820273,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Textil y calzado,output,86038.88741380238,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Textil y calzado,value_added,36866.98721605254,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Textil y calzado,employment,388.9930271005466,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Textil y calzado,co2eq,2.3728539455717668,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Textil y calzado,materials,0.2109520867088665,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Textil y calzado,energy,9788.305833792761,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,"Madera, papel e imprenta",output,99455.59789201351,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,"Madera, papel e imprenta",value_added,41152.53137048352,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,"Madera, papel e imprenta",employment,342.8483538138578,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,"Madera, papel e imprenta",co2eq,2.5059687975270606,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,"Madera, papel e imprenta",materials,0.16383215604161344,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,"Madera, papel e imprenta",energy,11460.392957286902,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Productos químicos,output,142531.94467330843,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Productos químicos,value_added,58141.55153680661,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Productos químicos,employment,335.03554314894666,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Productos químicos,co2eq,49.88618063565795,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Productos químicos,materials,0.273925444024127,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Productos químicos,energy,356329.86168327107,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Refino y combustibles,output,131333.8518973762,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Refino y combustibles,value_added,26266.770379475245,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Refino y combustibles,employment,324.6603824832005,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Refino y combustibles,co2eq,78.80031113842573,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Refino y combustibles,materials,0.11156712156817696,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Refino y combustibles,energy,525335.4075895048,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Plásticos y caucho,output,84027.350291284,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Plásticos y caucho,value_added,33114.870042163726,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Plásticos y caucho,employment,491.3575485964482,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Plásticos y caucho,co2eq,3.9318548122733414,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Plásticos y caucho,materials,0.0660728216653764,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Plásticos y caucho,energy,14626.454752418096,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero y metalurgia primaria,output,146572.29376316952,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero y metalurgia primaria,value_added,36643.07344079238,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero y metalurgia primaria,employment,825.8356111500943,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero y metalurgia primaria,co2eq,94.39255718348117,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero y metalurgia primaria,materials,4.104024225368747,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero y metalurgia primaria,energy,513003.02817109326,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero secundario y reciclaje,output,22990.789059082887,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero secundario y reciclaje,value_added,9138.309638291179,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero secundario y reciclaje,employment,110.32885458447949,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero secundario y reciclaje,co2eq,5.747697264770721,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero secundario y reciclaje,materials,0.5057973592998235,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Acero secundario y reciclaje,energy,2960.441677656799,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Maquinaria y equipos,output,171214.77893974172,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Maquinaria y equipos,value_added,53533.15104842491,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Maquinaria y equipos,employment,524.5130245915207,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Maquinaria y equipos,co2eq,8.220124964336064,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Maquinaria y equipos,materials,1.712147789397417,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Maquinaria y equipos,energy,30421.860740743978,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Equipos electrónicos,output,150636.06566194608,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Equipos electrónicos,value_added,54586.1583689981,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Equipos electrónicos,employment,885.2437969885272,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Equipos electrónicos,co2eq,4.894868589311989,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Equipos electrónicos,materials,0.3634090781235584,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Equipos electrónicos,energy,15069.142500193737,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Vehículos y partes,output,143116.96274348444,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Vehículos y partes,value_added,43828.44294857433,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Vehículos y partes,employment,800.3678682372116,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Vehículos y partes,co2eq,6.1014072435494064,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Vehículos y partes,materials,2.57610532938272,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Vehículos y partes,energy,11839.414970421876,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Construcción,output,251470.72352549614,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Construcción,value_added,94074.85136720461,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Construcción,employment,2263.2365117294653,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Construcción,co2eq,45.26473023458931,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Construcción,materials,8.801475323392365,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Construcción,energy,201176.5788203969,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Comercio mayorista y minorista,output,360734.9869679007,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Comercio mayorista y minorista,value_added,126069.36811018268,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Comercio mayorista y minorista,employment,4369.657766667778,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Comercio mayorista y minorista,co2eq,12.805780059749743,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Comercio mayorista y minorista,materials,0.6846814630935841,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Comercio mayorista y minorista,energy,60128.433868258246,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Transporte y logística,output,235304.52907969165,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Transporte y logística,value_added,75692.43815416994,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Transporte y logística,employment,726.847748182963,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Transporte y logística,co2eq,58.826132269922915,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Transporte y logística,materials,0.2964543512607185,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Transporte y logística,energy,31866.17882520754,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Energía y suministros,output,144945.69474534655,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Energía y suministros,value_added,45731.88067289535,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Energía y suministros,employment,345.7772093967385,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Energía y suministros,co2eq,115.95655579627724,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Energía y suministros,materials,0.08364012847766612,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Energía y suministros,energy,869674.1684720792,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Servicios financieros y empresariales,output,309945.2875446826,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Servicios financieros y empresariales,value_added,170469.90814957547,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Servicios financieros y empresariales,employment,2479.562300357461,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Servicios financieros y empresariales,co2eq,7.931530699588495,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Servicios financieros y empresariales,materials,0.49336888572581045,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Servicios financieros y empresariales,energy,43431.199030635355,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Salud y educación,output,134180.56623066877,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Salud y educación,value_added,80508.33973840126,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Salud y educación,employment,1878.5279272293628,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Salud y educación,co2eq,3.756563156703984,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Salud y educación,materials,0.13907301537370245,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Salud y educación,energy,13186.924200753909,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Otros servicios,output,101565.3826171242,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Otros servicios,value_added,44563.64160359805,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Otros servicios,employment,1050.0827694312843,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Otros servicios,co2eq,2.061217722110138,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Otros servicios,materials,0.1545136113334308,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Japón,Otros servicios,energy,16611.876047634298,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Agricultura y pesca,output,148557.71021366585,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Agricultura y pesca,value_added,51385.14539037837,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Agricultura y pesca,employment,2674.038783845985,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Agricultura y pesca,co2eq,4.907308969655376,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Agricultura y pesca,materials,0.3665380641894131,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Agricultura y pesca,energy,27098.169591576156,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Minería y extracción,output,118356.22335295111,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Minería y extracción,value_added,45790.003106698394,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Minería y extracción,employment,417.0973800582645,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Minería y extracción,co2eq,4.120972935488284,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Minería y extracción,materials,0.25590120287449414,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Minería y extracción,energy,12791.081153054429,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Alimentación y bebidas,output,203606.75013767398,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Alimentación y bebidas,value_added,66480.8448183596,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Alimentación y bebidas,employment,652.7730866698271,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Alimentación y bebidas,co2eq,7.896324312438528,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Alimentación y bebidas,materials,0.4607444526981132,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Alimentación y bebidas,energy,17713.03982214516,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Textil y calzado,output,89446.9535723626,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Textil y calzado,value_added,38327.31678650378,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Textil y calzado,employment,404.4013385214193,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Textil y calzado,co2eq,2.4668445058194335,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Textil y calzado,materials,0.2193080602622253,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Textil y calzado,energy,10176.028116873273,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,"Madera, papel e imprenta",output,107056.61360576819,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,"Madera, papel e imprenta",value_added,44297.66391443001,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,"Madera, papel e imprenta",employment,369.0509585943708,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,"Madera, papel e imprenta",co2eq,2.697490527946537,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,"Madera, papel e imprenta",materials,0.17635322895138283,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,"Madera, papel e imprenta",energy,12336.267506336659,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Productos químicos,output,152067.30505404435,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Productos químicos,value_added,62031.21043586464,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Productos químicos,employment,357.4493581825043,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Productos químicos,co2eq,53.22355676891552,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Productos químicos,materials,0.2922510048814489,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Productos químicos,energy,380168.2626351109,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Refino y combustibles,output,141579.58004018888,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Refino y combustibles,value_added,28315.916008037777,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Refino y combustibles,employment,349.98806433832254,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Refino y combustibles,co2eq,84.94774802411334,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Refino y combustibles,materials,0.12027079073457649,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Refino y combustibles,energy,566318.3201607555,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Plásticos y caucho,output,98957.4757860356,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Plásticos y caucho,value_added,38998.7776479374,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Plásticos y caucho,employment,578.6628109652823,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Plásticos y caucho,co2eq,4.630473602118404,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Plásticos y caucho,materials,0.07781275533979022,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Plásticos y caucho,energy,17225.308628446597,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero y metalurgia primaria,output,165332.34079253627,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero y metalurgia primaria,value_added,41333.08519813407,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero y metalurgia primaria,employment,931.5357711594248,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero y metalurgia primaria,co2eq,106.47402747039337,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero y metalurgia primaria,materials,4.629305542191015,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero y metalurgia primaria,energy,578663.192773877,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero secundario y reciclaje,output,28173.274767595074,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero secundario y reciclaje,value_added,11198.228459637296,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero secundario y reciclaje,employment,135.1987148859768,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero secundario y reciclaje,co2eq,7.043318691898768,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero secundario y reciclaje,materials,0.6198120448870916,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Acero secundario y reciclaje,energy,3627.771826522609,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Maquinaria y equipos,output,163276.5631934024,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Maquinaria y equipos,value_added,51051.13573855887,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Maquinaria y equipos,employment,500.19446064069564,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Maquinaria y equipos,co2eq,7.839006431036231,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Maquinaria y equipos,materials,1.6327656319340238,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Maquinaria y equipos,energy,29011.379148789176,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Equipos electrónicos,output,172797.9299615709,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Equipos electrónicos,value_added,62616.977742138224,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Equipos electrónicos,employment,1015.4825470165057,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Equipos electrónicos,co2eq,5.61501096002602,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Equipos electrónicos,materials,0.4168745124419258,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Equipos electrónicos,energy,17286.14338728852,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Vehículos y partes,output,151854.04659019172,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Vehículos y partes,value_added,46504.106081522936,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Vehículos y partes,employment,849.2291704822331,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Vehículos y partes,co2eq,6.473889342441807,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Vehículos y partes,materials,2.7333728386234513,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Vehículos y partes,energy,12562.194152634827,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Construcción,output,276864.4811559752,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Construcción,value_added,103574.62112668488,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Construcción,employment,2491.7803304037766,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Construcción,co2eq,49.83560660807553,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Construcción,materials,9.690256840459131,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Construcción,energy,221491.58492478012,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Comercio mayorista y minorista,output,399936.02698405605,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Comercio mayorista y minorista,value_added,139769.31550269458,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Comercio mayorista y minorista,employment,4844.508100448377,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Comercio mayorista y minorista,co2eq,14.197383077743128,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Comercio mayorista y minorista,materials,0.7590857388159158,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Comercio mayorista y minorista,energy,66662.58560660374,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Transporte y logística,output,227850.04483911046,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Transporte y logística,value_added,73294.48988875285,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Transporte y logística,employment,703.8210979721766,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Transporte y logística,co2eq,56.96251120977762,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Transporte y logística,materials,0.28706263110060076,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Transporte y logística,energy,30856.653301881972,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Energía y suministros,output,170851.67299687077,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Energía y suministros,value_added,53905.487403297135,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Energía y suministros,employment,407.5775745765552,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Energía y suministros,co2eq,136.6813383974966,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Energía y suministros,materials,0.0985890329836185,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Energía y suministros,energy,1025110.0379812246,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Servicios financieros y empresariales,output,358325.02356862946,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Servicios financieros y empresariales,value_added,197078.76296274623,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Servicios financieros y empresariales,employment,2866.600188549036,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Servicios financieros y empresariales,co2eq,9.169572950695805,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Servicios financieros y empresariales,materials,0.5703794337581062,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Servicios financieros y empresariales,energy,50210.42758723253,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Salud y educación,output,146902.0829278358,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Salud y educación,value_added,88141.24975670148,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Salud y educación,employment,2056.629160989701,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Salud y educación,co2eq,4.112718912074835,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Salud y educación,materials,0.1522583799678604,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Salud y educación,energy,14437.162451468814,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,India,Otros servicios,output,125302.89291101648,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Otros servicios,value_added,54978.90194172415,M€
+esc_vida_util_vehiculos_50,2011,hotspot,India,Otros servicios,employment,1295.5044860291534,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,India,Otros servicios,co2eq,2.54295840614802,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,India,Otros servicios,materials,0.19062599869478547,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,India,Otros servicios,energy,20494.346319696248,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Agricultura y pesca,output,629322.1241797928,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Agricultura y pesca,value_added,217678.4281465429,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Agricultura y pesca,employment,11327.79823523627,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Agricultura y pesca,co2eq,20.7884067434016,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Agricultura y pesca,materials,1.5527333641361638,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Agricultura y pesca,energy,114793.6221164657,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Minería y extracción,output,534878.604094897,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Minería y extracción,value_added,206935.4044034825,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Minería y extracción,employment,1884.9576143698448,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Minería y extracción,co2eq,18.623610899391405,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Minería y extracción,materials,1.1564755473105555,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Minería y extracción,energy,57805.795404671524,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Alimentación y bebidas,output,916958.1789274479,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Alimentación y bebidas,value_added,299401.44104741863,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Alimentación y bebidas,employment,2939.8122626134846,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Alimentación y bebidas,co2eq,35.56168524303956,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Alimentación y bebidas,materials,2.0749969930334453,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Alimentación y bebidas,energy,79771.99541567784,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Textil y calzado,output,438695.57802625734,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Textil y calzado,value_added,187977.60818369518,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Textil y calzado,employment,1983.3999020852314,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Textil y calzado,co2eq,12.098721456241199,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Textil y calzado,materials,1.0756037228782838,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Textil y calzado,energy,49908.67054104472,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",output,503723.5902836154,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",value_added,208429.7042154094,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",employment,1736.4613693585961,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",co2eq,12.692252890577734,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",materials,0.8297785503717136,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",energy,58044.69943234027,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Productos químicos,output,732833.6609531873,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Productos químicos,value_added,298937.0990754152,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Productos químicos,employment,1722.5985669250538,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Productos químicos,co2eq,256.49178133361556,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Productos químicos,materials,1.4083985623892266,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Productos químicos,energy,1832084.1523829682,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Refino y combustibles,output,663088.9044949373,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Refino y combustibles,value_added,132617.78089898746,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Refino y combustibles,employment,1639.1714264339919,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Refino y combustibles,co2eq,397.8533426969624,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Refino y combustibles,materials,0.5632890480978416,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Refino y combustibles,energy,2652355.617979749,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Plásticos y caucho,output,441818.4485035417,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Plásticos y caucho,value_added,174119.02736081884,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Plásticos y caucho,employment,2583.57343208887,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Plásticos y caucho,co2eq,20.673816166734284,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Plásticos y caucho,materials,0.3474129727434217,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Plásticos y caucho,energy,76906.3587441354,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,output,669100.609773714,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,value_added,167275.1524434285,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,employment,3769.9287962717567,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,co2eq,430.9007926942719,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,materials,18.734817073663994,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,energy,2341852.134207999,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,output,121419.10872623452,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,value_added,48261.30189330417,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,employment,582.6694836792265,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,co2eq,30.35477718155863,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,materials,2.6712203919771595,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,energy,15634.704359791376,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Maquinaria y equipos,output,818708.4165947139,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Maquinaria y equipos,value_added,255982.81644604227,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Maquinaria y equipos,employment,2508.0967338559117,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Maquinaria y equipos,co2eq,39.306685646166166,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Maquinaria y equipos,materials,8.18708416594714,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Maquinaria y equipos,energy,145470.11415226702,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Equipos electrónicos,output,776090.9303988698,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Equipos electrónicos,value_added,281232.93216225976,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Equipos electrónicos,employment,4560.857846463344,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Equipos electrónicos,co2eq,25.21881530140773,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Equipos electrónicos,materials,1.8723171527146238,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Equipos electrónicos,energy,77637.61468341989,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Vehículos y partes,output,710784.0602277437,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Vehículos y partes,value_added,217672.02178740996,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Vehículos y partes,employment,3974.9915883913504,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Vehículos y partes,co2eq,30.302368989244428,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Vehículos y partes,materials,12.794113084099386,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Vehículos y partes,energy,58799.93036521247,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Construcción,output,1149322.830449152,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Construcción,value_added,429960.0881232465,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Construcción,employment,10343.905474042367,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Construcción,co2eq,206.87810948084737,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Construcción,materials,40.22629906572032,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Construcción,energy,919458.2643593216,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,output,1645147.904778112,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,value_added,574944.943783961,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,employment,19928.018016368824,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,co2eq,58.40132783189467,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,materials,3.1225201744821405,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,energy,274218.38903792424,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Transporte y logística,output,1220831.7341844218,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Transporte y logística,value_added,392715.4776740665,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Transporte y logística,employment,3771.108020626848,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Transporte y logística,co2eq,305.2079335461055,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Transporte y logística,materials,1.5380956804004708,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Transporte y logística,energy,165331.46433332562,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Energía y suministros,output,758369.3621466152,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Energía y suministros,value_added,239273.45504535732,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Energía y suministros,employment,1809.1385342334213,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Energía y suministros,co2eq,606.6954897172922,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Energía y suministros,materials,0.43761293493337794,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Energía y suministros,energy,4550216.17287969,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,output,1493091.2589986809,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,value_added,821200.1924492746,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,employment,11944.730071989447,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,co2eq,38.20835364799029,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,materials,2.376692920788253,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,energy,209219.9696087495,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Salud y educación,output,720881.5250527164,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Salud y educación,value_added,432528.9150316298,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Salud y educación,employment,10092.341350738028,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Salud y educación,co2eq,20.182035695886462,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Salud y educación,materials,0.7471660780140592,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Salud y educación,energy,70846.39971075988,TJ
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Otros servicios,output,544107.6701836583,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Otros servicios,value_added,238737.04389260188,M€
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Otros servicios,employment,5625.519979864942,kpersonas
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Otros servicios,co2eq,11.042388101332495,Mt CO₂eq
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Otros servicios,materials,0.8277627564425831,Mt
+esc_vida_util_vehiculos_50,2011,hotspot,Resto del mundo,Otros servicios,energy,88993.40445288763,TJ

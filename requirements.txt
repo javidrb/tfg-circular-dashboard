@@ -1,0 +1,20 @@
+# Dashboard interactivo de simulación de escenarios de economía circular
+# Requirements del entorno de ejecución (Python 3.11+)
+
+# --- Dashboard y visualización ---
+streamlit>=1.32,<2.0
+plotly>=5.22,<6.0
+
+# --- Análisis de datos ---
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+pyarrow>=15.0      # Para Parquet (resultados de pycirk)
+
+# --- Motor de cálculo (cuando se conecte a EXIOBASE real) ---
+# Se instala manualmente porque pycirk no siempre se mantiene en PyPI:
+# pip install git+https://github.com/CMLPlatform/pycirk.git
+# pycirk
+
+# --- Utilidades ---
+python-dotenv>=1.0
+pydantic>=2.5

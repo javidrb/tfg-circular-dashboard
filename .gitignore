@@ -1,0 +1,51 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+.eggs/
+*.egg
+
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+.env
+.python-version
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+
+# --- Datos ---
+# El TFG no commitea EXIOBASE bruto (es muy pesado y tiene licencia propia).
+# Sí se commitean los datos sintéticos (son pequeños y útiles para CI).
+data/exiobase/
+data/pycirk_runs/
+data/cache/
+*.h5
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- Salidas y temporales ---
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- macOS / Windows ---
+.DS_Store
+Thumbs.db
+
+# --- R (no se usa en este proyecto pero a veces aparece) ---
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata

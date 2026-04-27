@@ -1,0 +1,1441 @@
+scenario,year,analysis,region,sector,indicator,value,unit
+esc_acero_secundario_30,2011,hotspot,España,Agricultura y pesca,output,104429.59232231394,M€
+esc_acero_secundario_30,2011,hotspot,España,Agricultura y pesca,value_added,36121.51652594879,M€
+esc_acero_secundario_30,2011,hotspot,España,Agricultura y pesca,employment,1879.732661801651,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Agricultura y pesca,co2eq,3.449624219191845,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Agricultura y pesca,materials,0.25766027598875446,Mt
+esc_acero_secundario_30,2011,hotspot,España,Agricultura y pesca,energy,19048.831589145644,TJ
+esc_acero_secundario_30,2011,hotspot,España,Minería y extracción,output,82357.29149000367,M€
+esc_acero_secundario_30,2011,hotspot,España,Minería y extracción,value_added,31862.630678410398,M€
+esc_acero_secundario_30,2011,hotspot,España,Minería y extracción,employment,290.23408770603373,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Minería y extracción,co2eq,2.8675481496086643,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Minería y extracción,materials,0.1780669352293234,Mt
+esc_acero_secundario_30,2011,hotspot,España,Minería y extracción,energy,8900.57801061231,TJ
+esc_acero_secundario_30,2011,hotspot,España,Alimentación y bebidas,output,167853.43686700345,M€
+esc_acero_secundario_30,2011,hotspot,España,Alimentación y bebidas,value_added,54806.818934235256,M€
+esc_acero_secundario_30,2011,hotspot,España,Alimentación y bebidas,employment,538.1462354156924,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Alimentación y bebidas,co2eq,6.509731006280805,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Alimentación y bebidas,materials,0.379837799338632,Mt
+esc_acero_secundario_30,2011,hotspot,España,Alimentación y bebidas,energy,14602.632817913738,TJ
+esc_acero_secundario_30,2011,hotspot,España,Textil y calzado,output,71848.03363734928,M€
+esc_acero_secundario_30,2011,hotspot,España,Textil y calzado,value_added,30786.31787586021,M€
+esc_acero_secundario_30,2011,hotspot,España,Textil y calzado,employment,324.8343270804651,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Textil y calzado,co2eq,1.981486455979067,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Textil y calzado,materials,0.17615863102497828,Mt
+esc_acero_secundario_30,2011,hotspot,España,Textil y calzado,energy,8173.868211668501,TJ
+esc_acero_secundario_30,2011,hotspot,España,"Madera, papel e imprenta",output,76355.53919500225,M€
+esc_acero_secundario_30,2011,hotspot,España,"Madera, papel e imprenta",value_added,31594.236912076733,M€
+esc_acero_secundario_30,2011,hotspot,España,"Madera, papel e imprenta",employment,263.21666625542645,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,"Madera, papel e imprenta",co2eq,1.923919847616697,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,"Madera, papel e imprenta",materials,0.12577967331330756,Mt
+esc_acero_secundario_30,2011,hotspot,España,"Madera, papel e imprenta",energy,8798.544297027622,TJ
+esc_acero_secundario_30,2011,hotspot,España,Productos químicos,output,118514.05760311338,M€
+esc_acero_secundario_30,2011,hotspot,España,Productos químicos,value_added,48344.188411665345,M€
+esc_acero_secundario_30,2011,hotspot,España,Productos químicos,employment,278.5791055531733,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Productos químicos,co2eq,41.47992016108969,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Productos químicos,materials,0.2277665959476188,Mt
+esc_acero_secundario_30,2011,hotspot,España,Productos químicos,energy,296285.14400778344,TJ
+esc_acero_secundario_30,2011,hotspot,España,Refino y combustibles,output,114733.76154188944,M€
+esc_acero_secundario_30,2011,hotspot,España,Refino y combustibles,value_added,22946.75230837789,M€
+esc_acero_secundario_30,2011,hotspot,España,Refino y combustibles,employment,283.6245672215019,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Refino y combustibles,co2eq,68.84025692513366,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Refino y combustibles,materials,0.09746546938957125,Mt
+esc_acero_secundario_30,2011,hotspot,España,Refino y combustibles,energy,458935.04616755777,TJ
+esc_acero_secundario_30,2011,hotspot,España,Plásticos y caucho,output,82402.9153053375,M€
+esc_acero_secundario_30,2011,hotspot,España,Plásticos y caucho,value_added,32474.686182205183,M€
+esc_acero_secundario_30,2011,hotspot,España,Plásticos y caucho,employment,481.85851774777734,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Plásticos y caucho,co2eq,3.855843341072857,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Plásticos y caucho,materials,0.06479548752641599,Mt
+esc_acero_secundario_30,2011,hotspot,España,Plásticos y caucho,energy,14343.692952387184,TJ
+esc_acero_secundario_30,2011,hotspot,España,Acero y metalurgia primaria,output,129677.01199512674,M€
+esc_acero_secundario_30,2011,hotspot,España,Acero y metalurgia primaria,value_added,32419.252998781685,M€
+esc_acero_secundario_30,2011,hotspot,España,Acero y metalurgia primaria,employment,771.2333705277537,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Acero y metalurgia primaria,co2eq,81.69651755692985,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Acero y metalurgia primaria,materials,3.630956335863549,Mt
+esc_acero_secundario_30,2011,hotspot,España,Acero y metalurgia primaria,energy,417559.9786243082,TJ
+esc_acero_secundario_30,2011,hotspot,España,Acero secundario y reciclaje,output,31400.667818892587,M€
+esc_acero_secundario_30,2011,hotspot,España,Acero secundario y reciclaje,value_added,12481.04293596665,M€
+esc_acero_secundario_30,2011,hotspot,España,Acero secundario y reciclaje,employment,139.09515761998915,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Acero secundario y reciclaje,co2eq,7.457658606986988,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Acero secundario y reciclaje,materials,0.6908146920156368,Mt
+esc_acero_secundario_30,2011,hotspot,España,Acero secundario y reciclaje,energy,4043.3516865564443,TJ
+esc_acero_secundario_30,2011,hotspot,España,Maquinaria y equipos,output,145139.46745118912,M€
+esc_acero_secundario_30,2011,hotspot,España,Maquinaria y equipos,value_added,45380.27080528483,M€
+esc_acero_secundario_30,2011,hotspot,España,Maquinaria y equipos,employment,444.6318333723896,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Maquinaria y equipos,co2eq,6.968233508194144,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Maquinaria y equipos,materials,1.451394674511891,Mt
+esc_acero_secundario_30,2011,hotspot,España,Maquinaria y equipos,energy,25788.735611075976,TJ
+esc_acero_secundario_30,2011,hotspot,España,Equipos electrónicos,output,124753.73229666395,M€
+esc_acero_secundario_30,2011,hotspot,España,Equipos electrónicos,value_added,45207.148489603715,M€
+esc_acero_secundario_30,2011,hotspot,España,Equipos electrónicos,employment,733.1409459048818,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Equipos electrónicos,co2eq,4.053830820228606,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Equipos electrónicos,materials,0.3009680228116636,Mt
+esc_acero_secundario_30,2011,hotspot,España,Equipos electrónicos,energy,12479.957977848077,TJ
+esc_acero_secundario_30,2011,hotspot,España,Vehículos y partes,output,138982.5713283841,M€
+esc_acero_secundario_30,2011,hotspot,España,Vehículos y partes,value_added,42562.318131570064,M€
+esc_acero_secundario_30,2011,hotspot,España,Vehículos y partes,employment,710.8963548866468,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Vehículos y partes,co2eq,7.406435715013894,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Vehículos y partes,materials,2.5016862839109137,Mt
+esc_acero_secundario_30,2011,hotspot,España,Vehículos y partes,energy,11497.395585191796,TJ
+esc_acero_secundario_30,2011,hotspot,España,Construcción,output,211961.98233630008,M€
+esc_acero_secundario_30,2011,hotspot,España,Construcción,value_added,79294.6856963402,M€
+esc_acero_secundario_30,2011,hotspot,España,Construcción,employment,1907.6578410267007,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Construcción,co2eq,38.153156820534015,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Construcción,materials,7.418669381770502,Mt
+esc_acero_secundario_30,2011,hotspot,España,Construcción,energy,169569.58586904008,TJ
+esc_acero_secundario_30,2011,hotspot,España,Comercio mayorista y minorista,output,258241.07397587402,M€
+esc_acero_secundario_30,2011,hotspot,España,Comercio mayorista y minorista,value_added,90249.87925313255,M€
+esc_acero_secundario_30,2011,hotspot,España,Comercio mayorista y minorista,employment,3098.892887710488,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Comercio mayorista y minorista,co2eq,9.167334789244803,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Comercio mayorista y minorista,materials,0.4901461814026741,Mt
+esc_acero_secundario_30,2011,hotspot,España,Comercio mayorista y minorista,energy,43044.428457414986,TJ
+esc_acero_secundario_30,2011,hotspot,España,Transporte y logística,output,184458.7179895058,M€
+esc_acero_secundario_30,2011,hotspot,España,Transporte y logística,value_added,59336.42738635737,M€
+esc_acero_secundario_30,2011,hotspot,España,Transporte y logística,employment,569.7867539046867,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Transporte y logística,co2eq,46.11467949737645,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Transporte y logística,materials,0.23239497254828795,Mt
+esc_acero_secundario_30,2011,hotspot,España,Transporte y logística,energy,24980.37125044623,TJ
+esc_acero_secundario_30,2011,hotspot,España,Energía y suministros,output,131601.55619142475,M€
+esc_acero_secundario_30,2011,hotspot,España,Energía y suministros,value_added,41521.66557749234,M€
+esc_acero_secundario_30,2011,hotspot,España,Energía y suministros,employment,313.9439148716064,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Energía y suministros,co2eq,105.28124495313979,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Energía y suministros,materials,0.07593996556468915,Mt
+esc_acero_secundario_30,2011,hotspot,España,Energía y suministros,energy,789609.3371485485,TJ
+esc_acero_secundario_30,2011,hotspot,España,Servicios financieros y empresariales,output,266486.6247921338,M€
+esc_acero_secundario_30,2011,hotspot,España,Servicios financieros y empresariales,value_added,146567.6436356736,M€
+esc_acero_secundario_30,2011,hotspot,España,Servicios financieros y empresariales,employment,2131.8929983370704,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Servicios financieros y empresariales,co2eq,6.819419202377195,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Servicios financieros y empresariales,materials,0.4241916700074789,Mt
+esc_acero_secundario_30,2011,hotspot,España,Servicios financieros y empresariales,energy,37341.537701814195,TJ
+esc_acero_secundario_30,2011,hotspot,España,Salud y educación,output,129559.53646941234,M€
+esc_acero_secundario_30,2011,hotspot,España,Salud y educación,value_added,77735.7218816474,M€
+esc_acero_secundario_30,2011,hotspot,España,Salud y educación,employment,1813.8335105717726,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Salud y educación,co2eq,3.6271912913525854,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Salud y educación,materials,0.13428349509455295,Mt
+esc_acero_secundario_30,2011,hotspot,España,Salud y educación,energy,12732.781168696942,TJ
+esc_acero_secundario_30,2011,hotspot,España,Otros servicios,output,76853.82018358448,M€
+esc_acero_secundario_30,2011,hotspot,España,Otros servicios,value_added,33720.99833896736,M€
+esc_acero_secundario_30,2011,hotspot,España,Otros servicios,employment,768.5382018358448,kpersonas
+esc_acero_secundario_30,2011,hotspot,España,Otros servicios,co2eq,1.5597091458951626,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,España,Otros servicios,materials,0.11691937740343433,Mt
+esc_acero_secundario_30,2011,hotspot,España,Otros servicios,energy,12570.09132225361,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Agricultura y pesca,output,337813.7754149838,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Agricultura y pesca,value_added,116847.58697212841,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Agricultura y pesca,employment,6080.647957469709,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Agricultura y pesca,co2eq,11.159007282643211,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Agricultura y pesca,materials,0.8334916250327002,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Agricultura y pesca,energy,61620.059728975015,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Minería y extracción,output,268130.981311076,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Minería y extracción,value_added,103735.30110556813,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Minería y extracción,employment,944.9163436365487,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Minería y extracción,co2eq,9.335888606835205,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Minería y extracción,materials,0.5797332721643657,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Minería y extracción,energy,28977.649374383967,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Alimentación y bebidas,output,476582.52494326764,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Alimentación y bebidas,value_added,155611.7803681444,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Alimentación y bebidas,employment,1527.9466208745937,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Alimentación y bebidas,co2eq,18.48293426444971,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Alimentación y bebidas,materials,1.078465004092419,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Alimentación y bebidas,energy,41460.93013689624,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Textil y calzado,output,226642.25405330848,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Textil y calzado,value_added,97114.42504613611,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Textil y calzado,employment,1024.6791784867337,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Textil y calzado,co2eq,6.250533717122422,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Textil y calzado,materials,0.5556865955158398,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Textil y calzado,energy,25784.197869323645,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,"Madera, papel e imprenta",output,262789.8607309433,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,"Madera, papel e imprenta",value_added,108736.64446034732,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,"Madera, papel e imprenta",employment,905.9024636139845,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,"Madera, papel e imprenta",co2eq,6.621479386341391,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,"Madera, papel e imprenta",materials,0.4328909622178547,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,"Madera, papel e imprenta",energy,30281.604384273196,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Productos químicos,output,434463.87574237125,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Productos químicos,value_added,177226.26236703742,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Productos químicos,employment,1021.25064610306,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Productos químicos,co2eq,152.06235650982995,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Productos químicos,materials,0.8349756985912997,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Productos químicos,energy,1086159.6893559282,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Refino y combustibles,output,363512.9639892135,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Refino y combustibles,value_added,72702.5927978427,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Refino y combustibles,employment,898.6126289706252,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Refino y combustibles,co2eq,218.1077783935281,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Refino y combustibles,materials,0.30880153486005496,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Refino y combustibles,energy,1454051.855956854,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Plásticos y caucho,output,265283.4292485856,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Plásticos y caucho,value_added,104547.2248435005,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Plásticos y caucho,employment,1551.2689026487747,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Plásticos y caucho,co2eq,12.413290723694521,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Plásticos y caucho,materials,0.20859904127358211,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Plásticos y caucho,energy,46177.29895111575,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero y metalurgia primaria,output,367552.33074266784,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero y metalurgia primaria,value_added,91888.08268566696,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero y metalurgia primaria,employment,2185.958933836724,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero y metalurgia primaria,co2eq,231.5579683678807,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero y metalurgia primaria,materials,10.2914652607947,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero y metalurgia primaria,energy,1183518.5049913905,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero secundario y reciclaje,output,82434.71329511126,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero secundario y reciclaje,value_added,32765.901731279482,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero secundario y reciclaje,employment,365.1600502662972,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero secundario y reciclaje,co2eq,19.578244407588926,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero secundario y reciclaje,materials,1.8135636924924476,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Acero secundario y reciclaje,energy,10614.823192774378,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Maquinaria y equipos,output,432676.1435625593,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Maquinaria y equipos,value_added,135283.3995512526,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Maquinaria y equipos,employment,1325.4946455788433,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Maquinaria y equipos,co2eq,20.7730430234822,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Maquinaria y equipos,materials,4.326761435625593,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Maquinaria y equipos,energy,76878.95558323806,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Equipos electrónicos,output,404402.8433770926,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Equipos electrónicos,value_added,146543.9073733833,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Equipos electrónicos,employment,2376.556417687503,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Equipos electrónicos,co2eq,13.140935185583855,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Equipos electrónicos,materials,0.9756207044867159,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Equipos electrónicos,energy,40455.14629948553,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Vehículos y partes,output,550301.800649182,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Vehículos y partes,value_added,168525.59341606376,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Vehículos y partes,employment,2814.7957001365844,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Vehículos y partes,co2eq,29.325798705612034,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Vehículos y partes,materials,9.905432411685277,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Vehículos y partes,energy,45523.963420979286,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Construcción,output,641260.5027878915,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Construcción,value_added,239894.67100456887,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Construcción,employment,5771.3445250910245,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Construcción,co2eq,115.42689050182048,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Construcción,materials,22.444117597576206,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Construcción,energy,513008.4022303133,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Comercio mayorista y minorista,output,896699.9968559867,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Comercio mayorista y minorista,value_added,313377.98126605403,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Comercio mayorista y minorista,employment,10760.39996227184,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Comercio mayorista y minorista,co2eq,31.832074387444543,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Comercio mayorista y minorista,materials,1.7019526466336372,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Comercio mayorista y minorista,energy,149464.75503752645,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Transporte y logística,output,575061.5956374024,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Transporte y logística,value_added,184985.02528984722,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Transporte y logística,employment,1776.3458590887878,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Transporte y logística,co2eq,143.76539890935058,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Transporte y logística,materials,0.7245058687837779,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Transporte y logística,energy,77877.87049302581,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Energía y suministros,output,454251.19409489905,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Energía y suministros,value_added,143320.9964626085,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Energía y suministros,employment,1083.6452268225312,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Energía y suministros,co2eq,363.4009552759193,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Energía y suministros,materials,0.2621231924272134,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Energía y suministros,energy,2725507.164569394,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Servicios financieros y empresariales,output,874555.0806689516,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Servicios financieros y empresariales,value_added,481005.2943679234,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Servicios financieros y empresariales,employment,6996.440645351613,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Servicios financieros y empresariales,co2eq,22.37995139644408,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Servicios financieros y empresariales,materials,1.3921110692585823,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Servicios financieros y empresariales,energy,122547.35689862959,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Salud y educación,output,390181.7922988565,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Salud y educación,value_added,234109.07537931387,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Salud y educación,employment,5462.54509218399,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Salud y educación,co2eq,10.923657475456348,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Salud y educación,materials,0.4044084767508973,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Salud y educación,energy,38346.07249096031,TJ
+esc_acero_secundario_30,2011,hotspot,Alemania,Otros servicios,output,243302.4553152969,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Otros servicios,value_added,106753.336033987,M€
+esc_acero_secundario_30,2011,hotspot,Alemania,Otros servicios,employment,2433.024553152969,kpersonas
+esc_acero_secundario_30,2011,hotspot,Alemania,Otros servicios,co2eq,4.937699438590466,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Alemania,Otros servicios,materials,0.3701412828697288,Mt
+esc_acero_secundario_30,2011,hotspot,Alemania,Otros servicios,energy,39794.17125832155,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Agricultura y pesca,output,247615.94311844712,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Agricultura y pesca,value_added,85648.74364189414,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Agricultura y pesca,employment,4457.086976132048,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Agricultura y pesca,co2eq,8.179500996260316,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Agricultura y pesca,materials,0.6109455263044459,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Agricultura y pesca,energy,45167.22027117315,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Minería y extracción,output,217329.31447192765,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Minería y extracción,value_added,84081.00311860844,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Minería y extracción,employment,765.8869564110629,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Minería y extracción,co2eq,7.567056447519749,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Minería y extracción,materials,0.4698936094590144,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Minería y extracción,energy,23487.37412867778,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Alimentación y bebidas,output,382139.5226033013,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Alimentación y bebidas,value_added,124774.63681323864,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Alimentación y bebidas,employment,1225.1577884309768,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Alimentación y bebidas,co2eq,14.820223794327747,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Alimentación y bebidas,materials,0.8647486641632603,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Alimentación y bebidas,energy,33244.7356333269,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Textil y calzado,output,163933.10486586436,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Textil y calzado,value_added,70244.04734931621,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Textil y calzado,employment,741.1629394632794,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Textil y calzado,co2eq,4.5210872244309686,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Textil y calzado,materials,0.4019348877188045,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Textil y calzado,energy,18650.02459867799,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,"Madera, papel e imprenta",output,185438.98554379452,M€
+esc_acero_secundario_30,2011,hotspot,Francia,"Madera, papel e imprenta",value_added,76730.55948230796,M€
+esc_acero_secundario_30,2011,hotspot,Francia,"Madera, papel e imprenta",employment,639.25462491948,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,"Madera, papel e imprenta",co2eq,4.672480196865192,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,"Madera, papel e imprenta",materials,0.3054716824365809,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,"Madera, papel e imprenta",energy,21368.366275772885,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Productos químicos,output,302689.5703569539,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Productos químicos,value_added,123472.96106076613,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Productos químicos,employment,711.5020063923569,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Productos químicos,co2eq,105.94134962493385,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Productos químicos,materials,0.5817248557966808,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Productos químicos,energy,756723.9258923847,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Refino y combustibles,output,292956.17474249465,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Refino y combustibles,value_added,58591.23494849893,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Refino y combustibles,employment,724.1945802140428,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Refino y combustibles,co2eq,175.77370484549678,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Refino y combustibles,materials,0.24886407190115284,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Refino y combustibles,energy,1171824.6989699786,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Plásticos y caucho,output,191618.56312996315,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Plásticos y caucho,value_added,75516.17174310771,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Plásticos y caucho,employment,1120.5069196961074,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Plásticos y caucho,co2eq,8.966323071615399,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Plásticos y caucho,materials,0.1506745018803122,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Plásticos y caucho,energy,33354.61886669173,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Acero y metalurgia primaria,output,281717.81163075444,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Acero y metalurgia primaria,value_added,70429.45290768861,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Acero y metalurgia primaria,employment,1675.4718053640418,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Acero y metalurgia primaria,co2eq,177.4822213273753,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Acero y metalurgia primaria,materials,7.8880987256611235,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Acero y metalurgia primaria,energy,907131.3534510293,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Acero secundario y reciclaje,output,66818.48254621169,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Acero secundario y reciclaje,value_added,26558.809334419366,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Acero secundario y reciclaje,employment,295.9850222071356,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Acero secundario y reciclaje,co2eq,15.869389604725274,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Acero secundario y reciclaje,materials,1.4700066160166572,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Acero secundario y reciclaje,energy,8603.977012674106,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Maquinaria y equipos,output,364094.3918920817,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Maquinaria y equipos,value_added,113840.17313074964,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Maquinaria y equipos,employment,1115.3958315440634,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Maquinaria y equipos,co2eq,17.480391696911852,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Maquinaria y equipos,materials,3.640943918920817,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Maquinaria y equipos,energy,64693.182184495134,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Equipos electrónicos,output,318927.59201299737,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Equipos electrónicos,value_added,115570.14563121708,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Equipos electrónicos,employment,1874.2435370795533,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Equipos electrónicos,co2eq,10.363445470706422,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Equipos electrónicos,materials,0.769411904727467,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Equipos electrónicos,energy,31904.47991434496,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Vehículos y partes,output,366237.4318230612,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Vehículos y partes,value_added,112157.32977131104,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Vehículos y partes,employment,1873.3057880394024,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Vehículos y partes,co2eq,19.516936327363197,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Vehículos y partes,materials,6.592273772815101,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Vehículos y partes,energy,30297.155906155607,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Construcción,output,530552.6169916486,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Construcción,value_added,198479.00338549877,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Construcción,employment,4774.973552924837,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Construcción,co2eq,95.49947105849674,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Construcción,materials,18.5693415947077,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Construcción,energy,424442.0935933189,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Comercio mayorista y minorista,output,660879.3285090001,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Comercio mayorista y minorista,value_added,230963.5670288484,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Comercio mayorista y minorista,employment,7930.551942108003,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Comercio mayorista y minorista,co2eq,23.460644607988705,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Comercio mayorista y minorista,materials,1.2543607964816335,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Comercio mayorista y minorista,energy,110157.42978844554,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Transporte y logística,output,487536.326981478,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Transporte y logística,value_added,156830.01692440288,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Transporte y logística,employment,1505.9832584177148,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Transporte y logística,co2eq,121.88408174536951,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Transporte y logística,materials,0.614234949478504,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Transporte y logística,energy,66024.73756089502,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Energía y suministros,output,329294.34593391535,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Energía y suministros,value_added,103895.80567374811,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Energía y suministros,employment,785.55268721294,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Energía y suministros,co2eq,263.43547674713227,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Energía y suministros,materials,0.1900175196598307,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Energía y suministros,energy,1975766.075603492,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Servicios financieros y empresariales,output,605576.5116796483,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Servicios financieros y empresariales,value_added,333067.0814238066,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Servicios financieros y empresariales,employment,4844.612093437187,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Servicios financieros y empresariales,co2eq,15.496763094500688,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Servicios financieros y empresariales,materials,0.9639527387427672,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Servicios financieros y empresariales,energy,84856.63458666092,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Salud y educación,output,275427.18595298874,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Salud y educación,value_added,165256.31157179325,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Salud y educación,employment,3855.980603341842,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Salud y educación,co2eq,7.710949865325351,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Salud y educación,materials,0.2854697244348087,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Salud y educación,energy,27068.282136663565,TJ
+esc_acero_secundario_30,2011,hotspot,Francia,Otros servicios,output,198416.7624717909,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Otros servicios,value_added,87058.92955941387,M€
+esc_acero_secundario_30,2011,hotspot,Francia,Otros servicios,employment,1984.167624717909,kpersonas
+esc_acero_secundario_30,2011,hotspot,Francia,Otros servicios,co2eq,4.026767158573358,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Francia,Otros servicios,materials,0.3018557083979805,Mt
+esc_acero_secundario_30,2011,hotspot,Francia,Otros servicios,energy,32452.73713367137,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Agricultura y pesca,output,238590.09010953453,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Agricultura y pesca,value_added,82526.75981171733,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Agricultura y pesca,employment,4294.621621971622,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Agricultura y pesca,co2eq,7.881349864516813,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Agricultura y pesca,materials,0.5886759403988288,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Agricultura y pesca,energy,43520.82914685942,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Minería y extracción,output,180774.34272721698,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Minería y extracción,value_added,69938.50834869707,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Minería y extracción,employment,637.0641323052738,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Minería y extracción,co2eq,6.2942712491591974,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Minería y extracción,materials,0.39085711289373803,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Minería y extracción,energy,19536.778233607365,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Alimentación y bebidas,output,329100.50299932825,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Alimentación y bebidas,value_added,107456.55266708232,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Alimentación y bebidas,employment,1055.1121267944343,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Alimentación y bebidas,co2eq,12.763252207071606,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Alimentación y bebidas,materials,0.7447259535087607,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Alimentación y bebidas,energy,28630.535633879645,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Textil y calzado,output,160795.48973323868,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Textil y calzado,value_added,68899.60391843978,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Textil y calzado,employment,726.9773723900264,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Textil y calzado,co2eq,4.434555393639975,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Textil y calzado,materials,0.3942420120969549,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Textil y calzado,energy,18293.070465145694,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,"Madera, papel e imprenta",output,160568.89344054123,M€
+esc_acero_secundario_30,2011,hotspot,Italia,"Madera, papel e imprenta",value_added,66439.86426596426,M€
+esc_acero_secundario_30,2011,hotspot,Italia,"Madera, papel e imprenta",employment,553.521188918648,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,"Madera, papel e imprenta",co2eq,4.045831962644667,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,"Madera, papel e imprenta",materials,0.26450344237176826,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,"Madera, papel e imprenta",energy,18502.5544519209,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Productos químicos,output,245981.96899495344,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Productos químicos,value_added,100340.82787704717,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Productos químicos,employment,578.2051369324001,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Productos químicos,co2eq,86.09368914823371,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Productos químicos,materials,0.47274118257007036,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Productos químicos,energy,614954.9224873836,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Refino y combustibles,output,240471.37048361576,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Refino y combustibles,value_added,48094.27409672315,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Refino y combustibles,employment,594.4509049995344,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Refino y combustibles,co2eq,144.28282229016946,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Refino y combustibles,materials,0.204278624564941,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Refino y combustibles,energy,961885.481934463,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Plásticos y caucho,output,159895.78381131397,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Plásticos y caucho,value_added,63014.340959776775,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Plásticos y caucho,employment,935.0050917002959,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Plásticos y caucho,co2eq,7.48193302372817,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Plásticos y caucho,materials,0.12573008160066174,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Plásticos y caucho,energy,27832.70493370775,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Acero y metalurgia primaria,output,243109.05095259618,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Acero y metalurgia primaria,value_added,60777.262738149046,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Acero y metalurgia primaria,employment,1445.8523518341103,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Acero y metalurgia primaria,co2eq,153.1587021001356,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Acero y metalurgia primaria,materials,6.807053426672693,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Acero y metalurgia primaria,energy,782811.1440673599,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Acero secundario y reciclaje,output,56064.04031701838,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Acero secundario y reciclaje,value_added,22284.166005522533,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Acero secundario y reciclaje,employment,248.34619982245079,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Acero secundario y reciclaje,co2eq,13.315209575291863,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Acero secundario y reciclaje,materials,1.2334088869744042,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Acero secundario y reciclaje,energy,7219.165951451389,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Maquinaria y equipos,output,298212.17857274914,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Maquinaria y equipos,value_added,93241.0023181082,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Maquinaria y equipos,employment,913.566998841083,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Maquinaria y equipos,co2eq,14.317346837317345,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Maquinaria y equipos,materials,2.9821217857274913,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Maquinaria y equipos,energy,52987.06936348618,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Equipos electrónicos,output,289737.0117244791,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Equipos electrónicos,value_added,104992.32264101839,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Equipos electrónicos,employment,1702.6990930757006,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Equipos electrónicos,co2eq,9.414907323947364,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Equipos electrónicos,materials,0.6989897131631397,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Equipos electrónicos,energy,28984.349120314597,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Vehículos y partes,output,322296.5207943327,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Vehículos y partes,value_added,98700.77175601257,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Vehículos y partes,employment,1648.547869243134,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Vehículos y partes,co2eq,17.17530795135288,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Vehículos y partes,materials,5.801337374297989,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Vehículos y partes,energy,26662.12432167498,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Construcción,output,445269.897392764,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Construcción,value_added,166574.85542752536,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Construcción,employment,4007.429076534876,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Construcción,co2eq,80.14858153069753,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Construcción,materials,15.584446408746741,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Construcción,energy,356215.91791421117,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Comercio mayorista y minorista,output,498258.49562926486,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Comercio mayorista y minorista,value_added,174130.97140228632,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Comercio mayorista y minorista,employment,5979.1019475511785,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Comercio mayorista y minorista,co2eq,17.68774568156293,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Comercio mayorista y minorista,materials,0.945703544459938,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Comercio mayorista y minorista,energy,83051.28165017159,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Transporte y logística,output,387553.66105774615,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Transporte y logística,value_added,124667.73009328949,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Transporte y logística,employment,1197.140178056173,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Transporte y logística,co2eq,96.88841526443653,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Transporte y logística,materials,0.4882692637364388,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Transporte y logística,energy,52484.55826979611,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Energía y suministros,output,268182.21545402106,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Energía y suministros,value_added,84614.2901814595,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Energía y suministros,employment,639.7657980283226,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Energía y suministros,co2eq,214.54577236321683,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Energía y suministros,materials,0.1547530956018243,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Energía y suministros,energy,1609093.2927241263,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Servicios financieros y empresariales,output,519773.3590623108,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Servicios financieros y empresariales,value_added,285875.3474842709,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Servicios financieros y empresariales,employment,4158.186872498486,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Servicios financieros y empresariales,co2eq,13.301051894962676,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Servicios financieros y empresariales,materials,0.8273718404367245,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Servicios financieros y empresariales,energy,72833.4358205163,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Salud y educación,output,242546.53778978853,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Salud y educación,value_added,145527.9226738731,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Salud y educación,employment,3395.6515290570396,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Salud y educación,co2eq,6.790412451240473,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Salud y educación,materials,0.25139019253272266,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Salud y educación,energy,23836.855804370483,TJ
+esc_acero_secundario_30,2011,hotspot,Italia,Otros servicios,output,154642.67006458068,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Otros servicios,value_added,67852.25780481154,M€
+esc_acero_secundario_30,2011,hotspot,Italia,Otros servicios,employment,1546.426700645807,kpersonas
+esc_acero_secundario_30,2011,hotspot,Italia,Otros servicios,co2eq,3.1383942433728613,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Italia,Otros servicios,materials,0.2352612356908892,Mt
+esc_acero_secundario_30,2011,hotspot,Italia,Otros servicios,energy,25293.114647853425,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Agricultura y pesca,output,43022.00633904679,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Agricultura y pesca,value_added,14881.032075266447,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Agricultura y pesca,employment,774.3961141028423,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Agricultura y pesca,co2eq,1.4211465517106066,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Agricultura y pesca,materials,0.10614866706264203,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Agricultura y pesca,energy,7847.5739984723505,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Minería y extracción,output,31896.687811585663,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Minería y extracción,value_added,12340.28420821083,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Minería y extracción,employment,112.40663601671972,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Minería y extracción,co2eq,1.1105912598383538,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Minería y extracción,materials,0.06896469444074624,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Minería y extracción,energy,3447.162394620809,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Alimentación y bebidas,output,62934.60384486828,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Alimentación y bebidas,value_added,20549.1499131858,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Alimentación y bebidas,employment,201.77138322957742,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Alimentación y bebidas,co2eq,2.4407444355253136,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Alimentación y bebidas,materials,0.1424155612948465,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Alimentación y bebidas,energy,5475.07950174199,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Textil y calzado,output,27383.989327829953,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Textil y calzado,value_added,11733.824260396832,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Textil y calzado,employment,123.80658586959844,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Textil y calzado,co2eq,0.7552190535603397,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Textil y calzado,materials,0.06714068329749645,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Textil y calzado,energy,3115.3687657648293,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,"Madera, papel e imprenta",output,31312.08831042049,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,"Madera, papel e imprenta",value_added,12956.251068632957,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,"Madera, papel e imprenta",employment,107.94061027472713,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,"Madera, papel e imprenta",co2eq,0.788966312147892,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,"Madera, papel e imprenta",materials,0.05158007238196426,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,"Madera, papel e imprenta",energy,3608.1311053030718,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Productos químicos,output,50643.19669816266,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Productos químicos,value_added,20658.344608738524,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Productos químicos,employment,119.04188181433888,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Productos químicos,co2eq,17.72511884435693,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Productos químicos,materials,0.09732877899155801,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Productos químicos,energy,126607.99174540666,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Refino y combustibles,output,44806.29581568919,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Refino y combustibles,value_added,8961.259163137838,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Refino y combustibles,employment,110.76222106501467,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Refino y combustibles,co2eq,26.883777489413514,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Refino y combustibles,materials,0.038062612038477515,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Refino y combustibles,energy,179225.18326275676,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Plásticos y caucho,output,32590.99645692576,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Plásticos y caucho,value_added,12843.991967787459,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Plásticos y caucho,employment,190.57880642288507,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Plásticos y caucho,co2eq,1.5250161502383945,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Plásticos y caucho,materials,0.025627121280518774,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Plásticos y caucho,energy,5673.042567223369,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero y metalurgia primaria,output,45189.65730967358,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero y metalurgia primaria,value_added,11297.414327418395,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero y metalurgia primaria,employment,268.75828787020026,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero y metalurgia primaria,co2eq,28.469484105094352,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero y metalurgia primaria,materials,1.2653104046708603,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero y metalurgia primaria,energy,145510.69653714894,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero secundario y reciclaje,output,10217.895486472722,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero secundario y reciclaje,value_added,4061.378344480812,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero secundario y reciclaje,employment,45.26208778210702,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero secundario y reciclaje,co2eq,2.4267501780372713,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero secundario y reciclaje,materials,0.2247937007023999,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Acero secundario y reciclaje,energy,1315.721856190255,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Maquinaria y equipos,output,54307.840266515304,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Maquinaria y equipos,value_added,16980.250385536503,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Maquinaria y equipos,employment,166.37097412746328,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Maquinaria y equipos,co2eq,2.6073522174804338,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Maquinaria y equipos,materials,0.5430784026651531,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Maquinaria y equipos,energy,9649.549904216867,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Equipos electrónicos,output,51309.43489383726,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Equipos electrónicos,value_added,18593.056892658453,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Equipos electrónicos,employment,301.5304387243468,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Equipos electrónicos,co2eq,1.667282931836683,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Equipos electrónicos,materials,0.12378386511803727,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Equipos electrónicos,energy,5132.8291310715695,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Vehículos y partes,output,60618.50310422666,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Vehículos y partes,value_added,18563.93927038204,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Vehículos y partes,employment,310.06386256633266,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Vehículos y partes,co2eq,3.2303837962604556,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Vehículos y partes,materials,1.09113305587608,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Vehículos y partes,energy,5014.692873430334,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Construcción,output,76409.24856553735,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Construcción,value_added,28584.594664173386,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Construcción,employment,687.6832370898361,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Construcción,co2eq,13.753664741796724,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Construcción,materials,2.674323699793807,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Construcción,energy,61127.39885242987,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Comercio mayorista y minorista,output,104443.0891019564,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Comercio mayorista y minorista,value_added,36500.68532922979,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Comercio mayorista y minorista,employment,1253.317069223477,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Comercio mayorista y minorista,co2eq,3.707639336684334,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Comercio mayorista y minorista,materials,0.19823485284144143,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Comercio mayorista y minorista,energy,17408.900170313682,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Transporte y logística,output,73589.12738069767,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Transporte y logística,value_added,23672.04955581763,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Transporte y logística,employment,227.31433065316926,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Transporte y logística,co2eq,18.39728184517442,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Transporte y logística,materials,0.09271311989961163,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Transporte y logística,energy,9965.827270201395,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Energía y suministros,output,59036.70718858958,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Energía y suministros,value_added,18626.69776575699,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Energía y suministros,employment,140.8358344103094,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Energía y suministros,co2eq,47.22936575087166,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Energía y suministros,materials,0.03406681228322937,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Energía y suministros,energy,354220.2431315375,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Servicios financieros y empresariales,output,113388.86891282047,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Servicios financieros y empresariales,value_added,62363.87790205127,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Servicios financieros y empresariales,employment,907.1109513025638,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Servicios financieros y empresariales,co2eq,2.901632420025094,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Servicios financieros y empresariales,materials,0.1804916614554541,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Servicios financieros y empresariales,energy,15888.657551863505,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Salud y educación,output,45483.63905444226,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Salud y educación,value_added,27290.183432665355,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Salud y educación,employment,636.7709467621917,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Salud y educación,co2eq,1.2733748821048527,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Salud y educación,materials,0.047142049040068766,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Salud y educación,energy,4470.016168766848,TJ
+esc_acero_secundario_30,2011,hotspot,Polonia,Otros servicios,output,29030.53686459963,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Otros servicios,value_added,12737.671114487946,M€
+esc_acero_secundario_30,2011,hotspot,Polonia,Otros servicios,employment,290.30536864599634,kpersonas
+esc_acero_secundario_30,2011,hotspot,Polonia,Otros servicios,co2eq,0.5891599630285403,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Polonia,Otros servicios,materials,0.04416478306203216,Mt
+esc_acero_secundario_30,2011,hotspot,Polonia,Otros servicios,energy,4748.189467359898,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Agricultura y pesca,output,310719.4451495998,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Agricultura y pesca,value_added,107475.83441927025,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Agricultura y pesca,employment,5592.950012692797,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Agricultura y pesca,co2eq,10.263999882846246,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Agricultura y pesca,materials,0.7666414874551967,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Agricultura y pesca,energy,56677.82714174973,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Minería y extracción,output,270179.4856050475,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Minería y extracción,value_added,104527.83245987906,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Minería y extracción,employment,952.1354466955036,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Minería y extracción,co2eq,9.40721422465687,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Minería y extracción,materials,0.5841623988977999,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Minería y extracción,energy,29199.036842860645,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Alimentación y bebidas,output,520175.5197659231,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Alimentación y bebidas,value_added,169845.58706665947,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Alimentación y bebidas,employment,1667.7078702846704,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Alimentación y bebidas,co2eq,20.173567922898584,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Alimentación y bebidas,materials,1.1771121782526812,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Alimentación y bebidas,energy,45253.360656700446,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Textil y calzado,output,242488.26442686617,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Textil y calzado,value_added,103904.31598298324,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Textil y calzado,employment,1096.321057269188,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Textil y calzado,co2eq,6.687548529455242,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Textil y calzado,materials,0.594538201513898,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Textil y calzado,energy,27586.93614784017,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",output,249967.73239709224,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",value_added,103431.13074690007,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",employment,861.7013760449975,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",co2eq,6.2984020110748276,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",materials,0.41176920562997565,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,"Madera, papel e imprenta",energy,28804.094496752874,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Productos químicos,output,380152.6048678675,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Productos químicos,value_added,155071.6389819629,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Productos químicos,employment,893.5865903136317,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Productos químicos,co2eq,133.05341170375362,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Productos químicos,materials,0.7305974202768308,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Productos químicos,energy,950381.5121696687,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Refino y combustibles,output,317400.7241160688,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Refino y combustibles,value_added,63480.14482321376,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Refino y combustibles,employment,784.6220833642235,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Refino y combustibles,co2eq,190.44043446964127,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Refino y combustibles,materials,0.26962953314546234,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Refino y combustibles,energy,1269602.8964642752,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Plásticos y caucho,output,246924.83606967327,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Plásticos y caucho,value_added,97312.17071922812,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Plásticos y caucho,employment,1443.9153646781083,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Plásticos y caucho,co2eq,11.55424515475954,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Plásticos y caucho,materials,0.19416321711713133,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Plásticos y caucho,energy,42981.659299043255,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,output,351420.44436304463,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,value_added,87855.11109076116,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,employment,2090.0171094986135,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,co2eq,221.39487994871814,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,materials,9.839772442165248,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero y metalurgia primaria,energy,1131573.830849004,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,output,83987.87623140033,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,value_added,33383.24826053745,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,employment,372.040077298801,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,co2eq,19.947120604957576,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,materials,1.8477332770908073,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Acero secundario y reciclaje,energy,10814.818428995532,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Maquinaria y equipos,output,427962.24089614605,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Maquinaria y equipos,value_added,133809.51940474092,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Maquinaria y equipos,employment,1311.053699765044,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Maquinaria y equipos,co2eq,20.546725708892954,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Maquinaria y equipos,materials,4.27962240896146,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Maquinaria y equipos,energy,76041.37782650997,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Equipos electrónicos,output,411184.47795811505,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Equipos electrónicos,value_added,149001.37582633083,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Equipos electrónicos,employment,2416.4100869924737,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Equipos electrónicos,co2eq,13.361302133890472,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Equipos electrónicos,materials,0.9919813785419649,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Equipos electrónicos,energy,41133.55898529617,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Vehículos y partes,output,446644.5125939364,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Vehículos y partes,value_added,136781.36513841257,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Vehículos y partes,employment,2284.5882969234317,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Vehículos y partes,co2eq,23.801861185706162,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Vehículos y partes,materials,8.039601226690856,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Vehículos y partes,energy,36948.86774769943,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Construcción,output,610092.2198362226,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Construcción,value_added,228234.6592746072,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Construcción,employment,5490.829978526003,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Construcción,co2eq,109.81659957052007,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Construcción,materials,21.353227694267794,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Construcción,energy,488073.7758689781,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,output,937521.2287346417,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,value_added,327644.15198511217,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,employment,11250.2547448157,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,co2eq,33.28119281535189,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,materials,1.779432075515447,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Comercio mayorista y minorista,energy,156268.96541386834,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Transporte y logística,output,554772.2177454026,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Transporte y logística,value_added,178458.3660398816,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Transporte y logística,employment,1713.6726556000494,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Transporte y logística,co2eq,138.69305443635065,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Transporte y logística,materials,0.6989437838380212,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Transporte y logística,energy,75130.17606195215,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Energía y suministros,output,403890.28257703036,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Energía y suministros,value_added,127431.60285102384,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Energía y suministros,employment,963.5060569222553,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Energía y suministros,co2eq,323.1122260616243,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Energía y suministros,materials,0.23306270106865826,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Energía y suministros,energy,2423341.695462182,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,output,922363.8711429113,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,value_added,507300.1291286012,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,employment,7378.9109691432905,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,co2eq,23.603383094206993,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,materials,1.468212789890924,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Servicios financieros y empresariales,energy,129246.58149706504,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Salud y educación,output,443421.59986896004,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Salud y educación,value_added,266052.959921376,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Salud y educación,employment,6207.90239816544,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Salud y educación,co2eq,12.414176596116821,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Salud y educación,materials,0.45958949725696246,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Salud y educación,energy,43578.34514125422,TJ
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Otros servicios,output,225969.72919466207,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Otros servicios,value_added,99148.29015171941,M€
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Otros servicios,employment,2259.6972919466207,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Otros servicios,co2eq,4.5859405879689525,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Otros servicios,materials,0.34377263207412756,Mt
+esc_acero_secundario_30,2011,hotspot,Resto UE-27,Otros servicios,energy,36959.25752625795,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Agricultura y pesca,output,160182.01616021094,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Agricultura y pesca,value_added,55405.91718516679,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Agricultura y pesca,employment,2883.2762908837967,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Agricultura y pesca,co2eq,5.291294834511898,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Agricultura y pesca,materials,0.3952188414648842,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Agricultura y pesca,energy,29218.540277626682,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Minería y extracción,output,137829.50456846622,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Minería y extracción,value_added,53323.883304083174,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Minería y extracción,employment,485.72287642872334,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Minería y extracción,co2eq,4.799001201183949,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Minería y extracción,materials,0.2980049127242335,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Minería y extracción,energy,14895.61197777589,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Alimentación y bebidas,output,270812.82379634696,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Alimentación y bebidas,value_added,88424.69761662089,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Alimentación y bebidas,employment,868.2390086761833,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Alimentación y bebidas,co2eq,10.502725883190383,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Alimentación y bebidas,materials,0.6128259804712185,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Alimentación y bebidas,energy,23559.721517133952,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Textil y calzado,output,105828.89415255804,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Textil y calzado,value_added,45346.84960588461,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Textil y calzado,employment,478.46622763863076,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Textil y calzado,co2eq,2.918639659270048,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Textil y calzado,materials,0.25947367204091165,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Textil y calzado,energy,12039.737067208327,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,"Madera, papel e imprenta",output,124729.13014943409,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,"Madera, papel e imprenta",value_added,51610.16121848575,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,"Madera, papel e imprenta",employment,429.9725490645495,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,"Madera, papel e imprenta",co2eq,3.142782456916619,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,"Madera, papel e imprenta",materials,0.20546497881159226,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,"Madera, papel e imprenta",energy,14372.69369477978,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Productos químicos,output,198735.4534099058,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Productos químicos,value_added,81068.05553735282,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Productos químicos,employment,467.14749264631956,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Productos químicos,co2eq,69.55740869346704,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Productos químicos,materials,0.38194032533142896,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Productos químicos,energy,496838.6335247645,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Refino y combustibles,output,176843.37274208808,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Refino y combustibles,value_added,35368.67454841761,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Refino y combustibles,employment,437.1609924220347,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Refino y combustibles,co2eq,106.10602364525285,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Refino y combustibles,materials,0.15022711799132984,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Refino y combustibles,energy,707373.4909683523,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Plásticos y caucho,output,118899.74613877632,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Plásticos y caucho,value_added,46857.95312815248,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Plásticos y caucho,employment,695.277044783229,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Plásticos y caucho,co2eq,5.563623479893533,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Plásticos y caucho,materials,0.09349386474109474,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Plásticos y caucho,energy,20696.61545846938,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero y metalurgia primaria,output,179445.30320479843,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero y metalurgia primaria,value_added,44861.32580119961,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero y metalurgia primaria,employment,1067.2223541147928,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero y metalurgia primaria,co2eq,113.05054101902302,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero y metalurgia primaria,materials,5.024468489734357,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero y metalurgia primaria,energy,577813.8763194509,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero secundario y reciclaje,output,39106.79587346898,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero secundario y reciclaje,value_added,15544.051521451476,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero secundario y reciclaje,employment,173.23089965494717,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero secundario y reciclaje,co2eq,9.28786401994888,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero secundario y reciclaje,materials,0.8603495092163175,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Acero secundario y reciclaje,energy,5035.642234197105,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Maquinaria y equipos,output,215272.58314701423,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Maquinaria y equipos,value_added,67308.55701568625,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Maquinaria y equipos,employment,659.48321983238,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Maquinaria y equipos,co2eq,10.335366758769547,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Maquinaria y equipos,materials,2.1527258314701423,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Maquinaria y equipos,energy,38250.15916472715,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Equipos electrónicos,output,198417.70217058546,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Equipos electrónicos,value_added,71900.84304380756,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Equipos electrónicos,employment,1166.0424035065612,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Equipos electrónicos,co2eq,6.447516892122425,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Equipos electrónicos,materials,0.47868213971432055,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Equipos electrónicos,energy,19849.062144782813,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Vehículos y partes,output,241124.2709385813,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Vehículos y partes,value_added,73842.40938154841,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Vehículos y partes,employment,1233.3515177232161,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Vehículos y partes,co2eq,12.849606932487879,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Vehículos y partes,materials,4.340236876894464,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Vehículos y partes,energy,19947.113524195207,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Construcción,output,311578.03907426004,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Construcción,value_added,116560.91533941218,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Construcción,employment,2804.2023516683407,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Construcción,co2eq,56.0840470333668,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Construcción,materials,10.9052313675991,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Construcción,energy,249262.43125940804,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Comercio mayorista y minorista,output,422163.1622221731,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Comercio mayorista y minorista,value_added,147537.23654057918,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Comercio mayorista y minorista,employment,5065.957946666078,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Comercio mayorista y minorista,co2eq,14.986427155807473,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Comercio mayorista y minorista,materials,0.8012732394050038,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Comercio mayorista y minorista,energy,70367.4739028002,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Transporte y logística,output,303234.5344901223,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Transporte y logística,value_added,97544.06911704042,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Transporte y logística,employment,936.6812420801671,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Transporte y logística,co2eq,75.80863362253056,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Transporte y logística,materials,0.3820376834806692,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Transporte y logística,energy,41065.61798803376,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Energía y suministros,output,209621.18730598618,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Energía y suministros,value_added,66137.67412154043,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Energía y suministros,employment,500.06472634070394,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Energía y suministros,co2eq,167.69694984478895,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Energía y suministros,materials,0.12096077133382041,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Energía y suministros,energy,1257727.123835917,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Servicios financieros y empresariales,output,418435.2893628203,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Servicios financieros y empresariales,value_added,230139.40914955118,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Servicios financieros y empresariales,employment,3347.4823149025624,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Servicios financieros y empresariales,co2eq,10.707800623985777,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Servicios financieros y empresariales,materials,0.6660625625144575,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Servicios financieros y empresariales,energy,58633.401003518244,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Salud y educación,output,188965.8704906569,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Salud y educación,value_added,113379.52229439413,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Salud y educación,employment,2645.5221868691965,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Salud y educación,co2eq,5.290350509770392,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Salud y educación,materials,0.19585588397856632,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Salud y educación,energy,18571.084328307297,TJ
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Otros servicios,output,116837.77742142581,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Otros servicios,value_added,51264.67999827644,M€
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Otros servicios,employment,1168.3777742142581,kpersonas
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Otros servicios,co2eq,2.3711631978078955,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Otros servicios,materials,0.17774783557515292,Mt
+esc_acero_secundario_30,2011,hotspot,Reino Unido,Otros servicios,energy,19109.805193394415,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Agricultura y pesca,output,380942.5519104621,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Agricultura y pesca,value_added,131765.55014981757,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Agricultura y pesca,employment,6856.965934388318,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Agricultura y pesca,co2eq,12.583680774460758,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Agricultura y pesca,materials,0.9399037272707722,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Agricultura y pesca,energy,69487.10949751773,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Minería y extracción,output,333380.07543045096,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Minería y extracción,value_added,128979.06216683166,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Minería y extracción,employment,1174.859691247495,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Minería y extracción,co2eq,11.607756898282911,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Minería y extracción,materials,0.7208101095168545,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Minería y extracción,energy,36029.297647709864,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Alimentación y bebidas,output,600731.8451535844,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Alimentación y bebidas,value_added,196148.50955627812,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Alimentación y bebidas,employment,1925.975344906832,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Alimentación y bebidas,co2eq,23.29772205948386,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Alimentación y bebidas,materials,1.3594041701783528,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Alimentación y bebidas,energy,52261.465243373,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Textil y calzado,output,297811.3072629101,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Textil y calzado,value_added,127609.80514371787,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Textil y calzado,employment,1346.4437465329925,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Textil y calzado,co2eq,8.213294670769058,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Textil y calzado,materials,0.7301804869983485,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Textil y calzado,energy,33880.82114812837,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",output,329873.54872231575,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",value_added,136494.39397898322,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",employment,1137.15673670756,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",co2eq,8.311777695260608,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",materials,0.5433972129648726,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,"Madera, papel e imprenta",energy,38011.74166865117,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Productos químicos,output,472222.8973902825,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Productos químicos,value_added,192628.90146070402,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Productos químicos,employment,1110.0069902024597,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Productos químicos,co2eq,165.2780140865989,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Productos químicos,materials,0.907542987240366,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Productos químicos,energy,1180557.243475706,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Refino y combustibles,output,403169.8143546252,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Refino y combustibles,value_added,80633.96287092504,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Refino y combustibles,employment,996.6452993119633,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Refino y combustibles,co2eq,241.9018886127751,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Refino y combustibles,materials,0.3424897316334664,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Refino y combustibles,energy,1612679.2574185007,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Plásticos y caucho,output,277144.45622158947,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Plásticos y caucho,value_added,109221.611997398,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Plásticos y caucho,employment,1620.627333172747,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Plásticos y caucho,co2eq,12.968298537467586,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Plásticos y caucho,materials,0.21792566548865977,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Plásticos y caucho,energy,48241.92164523213,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,output,463558.99444638257,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,value_added,115889.74861159564,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,employment,2756.943271786484,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,co2eq,292.04216650122106,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,materials,12.979651844498711,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero y metalurgia primaria,energy,1492659.962117352,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,output,103034.9891624532,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,value_added,40954.03738100465,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,employment,456.4128425734463,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,co2eq,24.470809926082634,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,materials,2.2667697615739706,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Acero secundario y reciclaje,energy,13267.447036705178,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Maquinaria y equipos,output,540290.6791408503,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Maquinaria y equipos,value_added,168930.8756849939,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Maquinaria y equipos,employment,1655.1696064421628,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Maquinaria y equipos,co2eq,25.939681884394282,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Maquinaria y equipos,materials,5.402906791408503,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Maquinaria y equipos,energy,96000.169507153,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Equipos electrónicos,output,444527.203183805,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Equipos electrónicos,value_added,161083.8161876452,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Equipos electrónicos,employment,2612.355464024393,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Equipos electrónicos,co2eq,14.444762842135194,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Equipos electrónicos,materials,1.0724206079067833,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Equipos electrónicos,energy,44469.05686598501,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Vehículos y partes,output,604014.5146720647,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Vehículos y partes,value_added,184974.68915591988,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Vehículos y partes,employment,3089.536426581454,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Vehículos y partes,co2eq,32.18817029427294,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Vehículos y partes,materials,10.872261264097164,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Vehículos y partes,energy,49967.3717935026,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Construcción,output,793754.5242175153,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Construcción,value_added,296942.47441984265,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Construcción,employment,7143.790717957638,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Construcción,co2eq,142.87581435915274,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Construcción,materials,27.781408347613034,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Construcción,energy,635003.6193740122,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,output,943375.8276774454,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,value_added,329690.2124337026,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,employment,11320.509932129346,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,co2eq,33.48902601453714,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,materials,1.7905442091171195,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Comercio mayorista y minorista,energy,157244.82824413182,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Transporte y logística,output,682492.1244943889,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Transporte y logística,value_added,219543.13045331917,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Transporte y logística,employment,2108.1951366662706,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Transporte y logística,co2eq,170.62303112359723,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Transporte y logística,materials,0.8598549326647695,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Transporte y logística,energy,92426.67861513354,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Energía y suministros,output,510381.6782730282,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Energía y suministros,value_added,161030.75051260562,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Energía y suministros,employment,1217.548080683076,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Energía y suministros,co2eq,408.3053426184226,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Energía y suministros,materials,0.2945129844553278,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Energía y suministros,energy,3062290.0696381694,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,output,998451.6774456,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,value_added,549148.4225950801,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,employment,7987.6134195648,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,co2eq,25.550477616388164,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,materials,1.5893288633445881,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Servicios financieros y empresariales,energy,139908.41373692482,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Salud y educación,output,449751.1392675895,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Salud y educación,value_added,269850.6835605537,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Salud y educación,employment,6296.515949746253,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Salud y educación,co2eq,12.591380457836426,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Salud y educación,materials,0.46614982230866026,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Salud y educación,energy,44200.396147745916,TJ
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Otros servicios,output,281488.87647708546,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Otros servicios,value_added,123508.31635236058,M€
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Otros servicios,employment,2814.8887647708543,kpersonas
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Otros servicios,co2eq,5.712673411162981,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Otros servicios,materials,0.4282351105654312,Mt
+esc_acero_secundario_30,2011,hotspot,Estados Unidos,Otros servicios,energy,46039.88292401499,TJ
+esc_acero_secundario_30,2011,hotspot,China,Agricultura y pesca,output,435806.8524713517,M€
+esc_acero_secundario_30,2011,hotspot,China,Agricultura y pesca,value_added,150742.75474598393,M€
+esc_acero_secundario_30,2011,hotspot,China,Agricultura y pesca,employment,7844.523344484331,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Agricultura y pesca,co2eq,14.396014000848593,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Agricultura y pesca,materials,1.0752710164661377,Mt
+esc_acero_secundario_30,2011,hotspot,China,Agricultura y pesca,energy,79494.81706775348,TJ
+esc_acero_secundario_30,2011,hotspot,China,Minería y extracción,output,369321.02475220413,M€
+esc_acero_secundario_30,2011,hotspot,China,Minería y extracción,value_added,142884.00213938387,M€
+esc_acero_secundario_30,2011,hotspot,China,Minería y extracción,employment,1301.518648201585,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Minería y extracción,co2eq,12.859162825532007,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Minería y extracción,materials,0.7985190115359772,Mt
+esc_acero_secundario_30,2011,hotspot,China,Minería y extracción,energy,39913.534458151305,TJ
+esc_acero_secundario_30,2011,hotspot,China,Alimentación y bebidas,output,723791.4903504656,M€
+esc_acero_secundario_30,2011,hotspot,China,Alimentación y bebidas,value_added,236329.44250768758,M€
+esc_acero_secundario_30,2011,hotspot,China,Alimentación y bebidas,employment,2320.5105181530275,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Alimentación y bebidas,co2eq,28.07024982485087,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Alimentación y bebidas,materials,1.6378774960239966,Mt
+esc_acero_secundario_30,2011,hotspot,China,Alimentación y bebidas,energy,62967.20262387494,TJ
+esc_acero_secundario_30,2011,hotspot,China,Textil y calzado,output,262450.0774188895,M€
+esc_acero_secundario_30,2011,hotspot,China,Textil y calzado,value_added,112457.79600239244,M€
+esc_acero_secundario_30,2011,hotspot,China,Textil y calzado,employment,1186.571016277102,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Textil y calzado,co2eq,7.238072462791109,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Textil y calzado,materials,0.6434810252966698,Mt
+esc_acero_secundario_30,2011,hotspot,China,Textil y calzado,energy,29857.913102983333,TJ
+esc_acero_secundario_30,2011,hotspot,China,"Madera, papel e imprenta",output,337496.1708676901,M€
+esc_acero_secundario_30,2011,hotspot,China,"Madera, papel e imprenta",value_added,139648.46678746864,M€
+esc_acero_secundario_30,2011,hotspot,China,"Madera, papel e imprenta",employment,1163.4338242690285,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,"Madera, papel e imprenta",co2eq,8.503843839917316,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,"Madera, papel e imprenta",materials,0.5559538779212604,Mt
+esc_acero_secundario_30,2011,hotspot,China,"Madera, papel e imprenta",energy,38890.105953844635,TJ
+esc_acero_secundario_30,2011,hotspot,China,Productos químicos,output,521972.08071715035,M€
+esc_acero_secundario_30,2011,hotspot,China,Productos químicos,value_added,212922.5606326384,M€
+esc_acero_secundario_30,2011,hotspot,China,Productos químicos,employment,1226.947404474763,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Productos químicos,co2eq,182.69022825100265,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Productos químicos,materials,1.0031536039613065,Mt
+esc_acero_secundario_30,2011,hotspot,China,Productos químicos,energy,1304930.2017928758,TJ
+esc_acero_secundario_30,2011,hotspot,China,Refino y combustibles,output,475056.39104780107,M€
+esc_acero_secundario_30,2011,hotspot,China,Refino y combustibles,value_added,95011.27820956022,M€
+esc_acero_secundario_30,2011,hotspot,China,Refino y combustibles,employment,1174.3506140304503,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Refino y combustibles,co2eq,285.03383462868067,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Refino y combustibles,materials,0.4035568390485034,Mt
+esc_acero_secundario_30,2011,hotspot,China,Refino y combustibles,energy,1900225.5641912043,TJ
+esc_acero_secundario_30,2011,hotspot,China,Plásticos y caucho,output,321655.1478639131,M€
+esc_acero_secundario_30,2011,hotspot,China,Plásticos y caucho,value_added,126763.11204604658,M€
+esc_acero_secundario_30,2011,hotspot,China,Plásticos y caucho,employment,1880.9076378103334,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Plásticos y caucho,co2eq,15.051067737315106,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Plásticos y caucho,materials,0.2529255432771525,Mt
+esc_acero_secundario_30,2011,hotspot,China,Plásticos y caucho,energy,55989.79915235866,TJ
+esc_acero_secundario_30,2011,hotspot,China,Acero y metalurgia primaria,output,445693.5986949084,M€
+esc_acero_secundario_30,2011,hotspot,China,Acero y metalurgia primaria,value_added,111423.3996737271,M€
+esc_acero_secundario_30,2011,hotspot,China,Acero y metalurgia primaria,employment,2650.6916766175614,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Acero y metalurgia primaria,co2eq,280.7869671777923,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Acero y metalurgia primaria,materials,12.479420763457435,Mt
+esc_acero_secundario_30,2011,hotspot,China,Acero y metalurgia primaria,energy,1435133.3877976048,TJ
+esc_acero_secundario_30,2011,hotspot,China,Acero secundario y reciclaje,output,115441.98878972675,M€
+esc_acero_secundario_30,2011,hotspot,China,Acero secundario y reciclaje,value_added,45885.534250678065,M€
+esc_acero_secundario_30,2011,hotspot,China,Acero secundario y reciclaje,employment,511.3719784332397,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Acero secundario y reciclaje,co2eq,27.417472337560103,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Acero secundario y reciclaje,materials,2.5397237533739885,Mt
+esc_acero_secundario_30,2011,hotspot,China,Acero secundario y reciclaje,energy,14865.052003496961,TJ
+esc_acero_secundario_30,2011,hotspot,China,Maquinaria y equipos,output,640153.5098126414,M€
+esc_acero_secundario_30,2011,hotspot,China,Maquinaria y equipos,value_added,200154.65222800928,M€
+esc_acero_secundario_30,2011,hotspot,China,Maquinaria y equipos,employment,1961.0973755535356,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Maquinaria y equipos,co2eq,30.734156710094712,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Maquinaria y equipos,materials,6.4015350981264145,Mt
+esc_acero_secundario_30,2011,hotspot,China,Maquinaria y equipos,energy,113744.04154137115,TJ
+esc_acero_secundario_30,2011,hotspot,China,Equipos electrónicos,output,502187.19123464805,M€
+esc_acero_secundario_30,2011,hotspot,China,Equipos electrónicos,value_added,181978.13007898955,M€
+esc_acero_secundario_30,2011,hotspot,China,Equipos electrónicos,employment,2951.206233474195,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Equipos electrónicos,co2eq,16.318404875534874,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Equipos electrónicos,materials,1.2115251643759963,Mt
+esc_acero_secundario_30,2011,hotspot,China,Equipos electrónicos,energy,50237.17469805556,TJ
+esc_acero_secundario_30,2011,hotspot,China,Vehículos y partes,output,672524.6070047412,M€
+esc_acero_secundario_30,2011,hotspot,China,Vehículos y partes,value_added,205955.3654897668,M€
+esc_acero_secundario_30,2011,hotspot,China,Vehículos y partes,employment,3439.9657965862148,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Vehículos y partes,co2eq,35.839099974460886,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Vehículos y partes,materials,12.105442926085342,Mt
+esc_acero_secundario_30,2011,hotspot,China,Vehículos y partes,energy,55634.8999274128,TJ
+esc_acero_secundario_30,2011,hotspot,China,Construcción,output,852548.0037670946,M€
+esc_acero_secundario_30,2011,hotspot,China,Construcción,value_added,318937.0341540563,M€
+esc_acero_secundario_30,2011,hotspot,China,Construcción,employment,7672.932033903851,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Construcción,co2eq,153.45864067807702,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Construcción,materials,29.839180131848313,Mt
+esc_acero_secundario_30,2011,hotspot,China,Construcción,energy,682038.4030136756,TJ
+esc_acero_secundario_30,2011,hotspot,China,Comercio mayorista y minorista,output,1112094.9814436932,M€
+esc_acero_secundario_30,2011,hotspot,China,Comercio mayorista y minorista,value_added,388654.0442543414,M€
+esc_acero_secundario_30,2011,hotspot,China,Comercio mayorista y minorista,employment,13345.139777324317,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Comercio mayorista y minorista,co2eq,39.47841005836963,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Comercio mayorista y minorista,materials,2.110776183352724,Mt
+esc_acero_secundario_30,2011,hotspot,China,Comercio mayorista y minorista,energy,185367.46354716393,TJ
+esc_acero_secundario_30,2011,hotspot,China,Transporte y logística,output,739528.6022629618,M€
+esc_acero_secundario_30,2011,hotspot,China,Transporte y logística,value_added,237890.54638668292,M€
+esc_acero_secundario_30,2011,hotspot,China,Transporte y logística,employment,2284.378891362868,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Transporte y logística,co2eq,184.88215056574046,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Transporte y logística,materials,0.9317137790763154,Mt
+esc_acero_secundario_30,2011,hotspot,China,Transporte y logística,energy,100150.85888162456,TJ
+esc_acero_secundario_30,2011,hotspot,China,Energía y suministros,output,553177.8790230508,M€
+esc_acero_secundario_30,2011,hotspot,China,Energía y suministros,value_added,174533.39886233275,M€
+esc_acero_secundario_30,2011,hotspot,China,Energía y suministros,employment,1319.641150050357,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Energía y suministros,co2eq,442.5423032184407,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Energía y suministros,materials,0.3192083004174654,Mt
+esc_acero_secundario_30,2011,hotspot,China,Energía y suministros,energy,3319067.2741383044,TJ
+esc_acero_secundario_30,2011,hotspot,China,Servicios financieros y empresariales,output,1184466.1176418192,M€
+esc_acero_secundario_30,2011,hotspot,China,Servicios financieros y empresariales,value_added,651456.3647030006,M€
+esc_acero_secundario_30,2011,hotspot,China,Servicios financieros y empresariales,employment,9475.728941134554,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Servicios financieros y empresariales,co2eq,30.310605620497228,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Servicios financieros y empresariales,materials,1.8854254351477284,Mt
+esc_acero_secundario_30,2011,hotspot,China,Servicios financieros y empresariales,energy,165973.75655511348,TJ
+esc_acero_secundario_30,2011,hotspot,China,Salud y educación,output,524587.3030474642,M€
+esc_acero_secundario_30,2011,hotspot,China,Salud y educación,value_added,314752.38182847854,M€
+esc_acero_secundario_30,2011,hotspot,China,Salud y educación,employment,7344.2222426645,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Salud y educación,co2eq,14.686518252688625,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Salud y educación,materials,0.5437146384980305,Mt
+esc_acero_secundario_30,2011,hotspot,China,Salud y educación,energy,51555.10366585187,TJ
+esc_acero_secundario_30,2011,hotspot,China,Otros servicios,output,343378.50308356906,M€
+esc_acero_secundario_30,2011,hotspot,China,Otros servicios,value_added,150663.50513817853,M€
+esc_acero_secundario_30,2011,hotspot,China,Otros servicios,employment,3433.7850308356906,kpersonas
+esc_acero_secundario_30,2011,hotspot,China,Otros servicios,co2eq,6.96869186832729,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,China,Otros servicios,materials,0.5223891369141002,Mt
+esc_acero_secundario_30,2011,hotspot,China,Otros servicios,energy,56162.454013979404,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Agricultura y pesca,output,130681.02838253784,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Agricultura y pesca,value_added,45201.717457429884,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Agricultura y pesca,employment,2352.258510885681,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Agricultura y pesca,co2eq,4.316788282634853,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Agricultura y pesca,materials,0.3224307314694386,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Agricultura y pesca,energy,23837.313219343298,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Minería y extracción,output,104738.04463060583,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Minería y extracción,value_added,40521.36214859523,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Minería y extracción,employment,369.1057619976178,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Minería y extracción,co2eq,3.6468099015929654,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Minería y extracción,materials,0.22645696904138488,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Minería y extracción,energy,11319.327287819471,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Alimentación y bebidas,output,204955.04020234948,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Alimentación y bebidas,value_added,66921.08298580356,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Alimentación y bebidas,employment,657.0957698158886,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Alimentación y bebidas,co2eq,7.94861401113819,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Alimentación y bebidas,materials,0.4637955164153385,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Alimentación y bebidas,energy,17830.33610820273,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Textil y calzado,output,86038.88741380238,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Textil y calzado,value_added,36866.98721605254,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Textil y calzado,employment,388.9930271005466,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Textil y calzado,co2eq,2.3728539455717668,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Textil y calzado,materials,0.2109520867088665,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Textil y calzado,energy,9788.305833792761,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,"Madera, papel e imprenta",output,99455.59789201351,M€
+esc_acero_secundario_30,2011,hotspot,Japón,"Madera, papel e imprenta",value_added,41152.53137048352,M€
+esc_acero_secundario_30,2011,hotspot,Japón,"Madera, papel e imprenta",employment,342.8483538138578,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,"Madera, papel e imprenta",co2eq,2.5059687975270606,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,"Madera, papel e imprenta",materials,0.16383215604161344,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,"Madera, papel e imprenta",energy,11460.392957286902,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Productos químicos,output,142531.94467330843,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Productos químicos,value_added,58141.55153680661,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Productos químicos,employment,335.03554314894666,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Productos químicos,co2eq,49.88618063565795,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Productos químicos,materials,0.273925444024127,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Productos químicos,energy,356329.86168327107,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Refino y combustibles,output,131333.8518973762,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Refino y combustibles,value_added,26266.770379475245,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Refino y combustibles,employment,324.6603824832005,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Refino y combustibles,co2eq,78.80031113842573,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Refino y combustibles,materials,0.11156712156817696,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Refino y combustibles,energy,525335.4075895048,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Plásticos y caucho,output,88449.84241187791,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Plásticos y caucho,value_added,34857.757939119714,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Plásticos y caucho,employment,517.2184722067876,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Plásticos y caucho,co2eq,4.138794539235096,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Plásticos y caucho,materials,0.06955033859513306,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Plásticos y caucho,energy,15396.268160440102,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Acero y metalurgia primaria,output,143385.9395509267,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Acero y metalurgia primaria,value_added,35846.484887731676,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Acero y metalurgia primaria,employment,852.7650332528148,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Acero y metalurgia primaria,co2eq,90.33314191708382,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Acero y metalurgia primaria,materials,4.014806307425948,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Acero y metalurgia primaria,energy,461702.725353984,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Acero secundario y reciclaje,output,29888.025776807754,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Acero secundario y reciclaje,value_added,11879.802529778533,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Acero secundario y reciclaje,employment,132.39462550137537,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Acero secundario y reciclaje,co2eq,7.09840612199184,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Acero secundario y reciclaje,materials,0.6575365670897706,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Acero secundario y reciclaje,energy,3848.574180953839,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Maquinaria y equipos,output,171214.77893974172,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Maquinaria y equipos,value_added,53533.15104842491,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Maquinaria y equipos,employment,524.5130245915207,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Maquinaria y equipos,co2eq,8.220124964336064,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Maquinaria y equipos,materials,1.712147789397417,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Maquinaria y equipos,energy,30421.860740743978,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Equipos electrónicos,output,150636.06566194608,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Equipos electrónicos,value_added,54586.1583689981,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Equipos electrónicos,employment,885.2437969885272,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Equipos electrónicos,co2eq,4.894868589311989,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Equipos electrónicos,materials,0.3634090781235584,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Equipos electrónicos,energy,15069.142500193737,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Vehículos y partes,output,190822.6169913126,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Vehículos y partes,value_added,58437.923931432444,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Vehículos y partes,employment,976.0583758990384,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Vehículos y partes,co2eq,10.169012072582344,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Vehículos y partes,materials,3.4348071058436265,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Vehículos y partes,energy,15785.886627229169,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Construcción,output,251470.72352549614,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Construcción,value_added,94074.85136720461,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Construcción,employment,2263.2365117294653,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Construcción,co2eq,45.26473023458931,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Construcción,materials,8.801475323392365,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Construcción,energy,201176.5788203969,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Comercio mayorista y minorista,output,340316.0254414157,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Comercio mayorista y minorista,value_added,118933.36614168176,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Comercio mayorista y minorista,employment,4083.7923052969886,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Comercio mayorista y minorista,co2eq,12.08092458466957,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Comercio mayorista y minorista,materials,0.6459259085788529,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Comercio mayorista y minorista,energy,56724.93761156438,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Transporte y logística,output,226254.3548843189,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Transporte y logística,value_added,72781.1905328557,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Transporte y logística,employment,698.8920655605413,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Transporte y logística,co2eq,56.563588721079725,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Transporte y logística,materials,0.2850522608276139,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Transporte y logística,energy,30640.556562699556,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Energía y suministros,output,144945.69474534655,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Energía y suministros,value_added,45731.88067289535,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Energía y suministros,employment,345.7772093967385,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Energía y suministros,co2eq,115.95655579627724,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Energía y suministros,materials,0.08364012847766612,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Energía y suministros,energy,869674.1684720792,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Servicios financieros y empresariales,output,309945.2875446826,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Servicios financieros y empresariales,value_added,170469.90814957547,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Servicios financieros y empresariales,employment,2479.562300357461,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Servicios financieros y empresariales,co2eq,7.931530699588495,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Servicios financieros y empresariales,materials,0.49336888572581045,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Servicios financieros y empresariales,energy,43431.199030635355,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Salud y educación,output,134180.56623066877,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Salud y educación,value_added,80508.33973840126,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Salud y educación,employment,1878.5279272293628,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Salud y educación,co2eq,3.756563156703984,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Salud y educación,materials,0.13907301537370245,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Salud y educación,energy,13186.924200753909,TJ
+esc_acero_secundario_30,2011,hotspot,Japón,Otros servicios,output,86072.35815010525,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Otros servicios,value_added,37765.797969150895,M€
+esc_acero_secundario_30,2011,hotspot,Japón,Otros servicios,employment,860.7235815010526,kpersonas
+esc_acero_secundario_30,2011,hotspot,Japón,Otros servicios,co2eq,1.7467946797543543,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Japón,Otros servicios,materials,0.1309437384181617,Mt
+esc_acero_secundario_30,2011,hotspot,Japón,Otros servicios,energy,14077.861057317203,TJ
+esc_acero_secundario_30,2011,hotspot,India,Agricultura y pesca,output,148557.71021366585,M€
+esc_acero_secundario_30,2011,hotspot,India,Agricultura y pesca,value_added,51385.14539037837,M€
+esc_acero_secundario_30,2011,hotspot,India,Agricultura y pesca,employment,2674.038783845985,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Agricultura y pesca,co2eq,4.907308969655376,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Agricultura y pesca,materials,0.3665380641894131,Mt
+esc_acero_secundario_30,2011,hotspot,India,Agricultura y pesca,energy,27098.169591576156,TJ
+esc_acero_secundario_30,2011,hotspot,India,Minería y extracción,output,118356.22335295111,M€
+esc_acero_secundario_30,2011,hotspot,India,Minería y extracción,value_added,45790.003106698394,M€
+esc_acero_secundario_30,2011,hotspot,India,Minería y extracción,employment,417.0973800582645,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Minería y extracción,co2eq,4.120972935488284,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Minería y extracción,materials,0.25590120287449414,Mt
+esc_acero_secundario_30,2011,hotspot,India,Minería y extracción,energy,12791.081153054429,TJ
+esc_acero_secundario_30,2011,hotspot,India,Alimentación y bebidas,output,203606.75013767398,M€
+esc_acero_secundario_30,2011,hotspot,India,Alimentación y bebidas,value_added,66480.8448183596,M€
+esc_acero_secundario_30,2011,hotspot,India,Alimentación y bebidas,employment,652.7730866698271,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Alimentación y bebidas,co2eq,7.896324312438528,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Alimentación y bebidas,materials,0.4607444526981132,Mt
+esc_acero_secundario_30,2011,hotspot,India,Alimentación y bebidas,energy,17713.03982214516,TJ
+esc_acero_secundario_30,2011,hotspot,India,Textil y calzado,output,89446.9535723626,M€
+esc_acero_secundario_30,2011,hotspot,India,Textil y calzado,value_added,38327.31678650378,M€
+esc_acero_secundario_30,2011,hotspot,India,Textil y calzado,employment,404.4013385214193,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Textil y calzado,co2eq,2.4668445058194335,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Textil y calzado,materials,0.2193080602622253,Mt
+esc_acero_secundario_30,2011,hotspot,India,Textil y calzado,energy,10176.028116873273,TJ
+esc_acero_secundario_30,2011,hotspot,India,"Madera, papel e imprenta",output,107056.61360576819,M€
+esc_acero_secundario_30,2011,hotspot,India,"Madera, papel e imprenta",value_added,44297.66391443001,M€
+esc_acero_secundario_30,2011,hotspot,India,"Madera, papel e imprenta",employment,369.0509585943708,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,"Madera, papel e imprenta",co2eq,2.697490527946537,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,"Madera, papel e imprenta",materials,0.17635322895138283,Mt
+esc_acero_secundario_30,2011,hotspot,India,"Madera, papel e imprenta",energy,12336.267506336659,TJ
+esc_acero_secundario_30,2011,hotspot,India,Productos químicos,output,152067.30505404435,M€
+esc_acero_secundario_30,2011,hotspot,India,Productos químicos,value_added,62031.21043586464,M€
+esc_acero_secundario_30,2011,hotspot,India,Productos químicos,employment,357.4493581825043,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Productos químicos,co2eq,53.22355676891552,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Productos químicos,materials,0.2922510048814489,Mt
+esc_acero_secundario_30,2011,hotspot,India,Productos químicos,energy,380168.2626351109,TJ
+esc_acero_secundario_30,2011,hotspot,India,Refino y combustibles,output,141579.58004018888,M€
+esc_acero_secundario_30,2011,hotspot,India,Refino y combustibles,value_added,28315.916008037777,M€
+esc_acero_secundario_30,2011,hotspot,India,Refino y combustibles,employment,349.98806433832254,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Refino y combustibles,co2eq,84.94774802411334,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Refino y combustibles,materials,0.12027079073457649,Mt
+esc_acero_secundario_30,2011,hotspot,India,Refino y combustibles,energy,566318.3201607555,TJ
+esc_acero_secundario_30,2011,hotspot,India,Plásticos y caucho,output,104165.76398530064,M€
+esc_acero_secundario_30,2011,hotspot,India,Plásticos y caucho,value_added,41051.344892565685,M€
+esc_acero_secundario_30,2011,hotspot,India,Plásticos y caucho,employment,609.1187483845077,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Plásticos y caucho,co2eq,4.874182739072005,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Plásticos y caucho,materials,0.08190816351556866,Mt
+esc_acero_secundario_30,2011,hotspot,India,Plásticos y caucho,energy,18131.903819417472,TJ
+esc_acero_secundario_30,2011,hotspot,India,Acero y metalurgia primaria,output,161738.1594709594,M€
+esc_acero_secundario_30,2011,hotspot,India,Acero y metalurgia primaria,value_added,40434.53986773985,M€
+esc_acero_secundario_30,2011,hotspot,India,Acero y metalurgia primaria,employment,961.9119376102756,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Acero y metalurgia primaria,co2eq,101.89504046670443,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Acero y metalurgia primaria,materials,4.528668465186863,Mt
+esc_acero_secundario_30,2011,hotspot,India,Acero y metalurgia primaria,energy,520796.8734964892,TJ
+esc_acero_secundario_30,2011,hotspot,India,Acero secundario y reciclaje,output,36625.257197873594,M€
+esc_acero_secundario_30,2011,hotspot,India,Acero secundario y reciclaje,value_added,14557.696997528485,M€
+esc_acero_secundario_30,2011,hotspot,India,Acero secundario y reciclaje,employment,162.23845786317216,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Acero secundario y reciclaje,co2eq,8.698498584494978,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Acero secundario y reciclaje,materials,0.8057556583532192,Mt
+esc_acero_secundario_30,2011,hotspot,India,Acero secundario y reciclaje,energy,4716.103374479392,TJ
+esc_acero_secundario_30,2011,hotspot,India,Maquinaria y equipos,output,163276.5631934024,M€
+esc_acero_secundario_30,2011,hotspot,India,Maquinaria y equipos,value_added,51051.13573855887,M€
+esc_acero_secundario_30,2011,hotspot,India,Maquinaria y equipos,employment,500.19446064069564,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Maquinaria y equipos,co2eq,7.839006431036231,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Maquinaria y equipos,materials,1.6327656319340238,Mt
+esc_acero_secundario_30,2011,hotspot,India,Maquinaria y equipos,energy,29011.379148789176,TJ
+esc_acero_secundario_30,2011,hotspot,India,Equipos electrónicos,output,172797.9299615709,M€
+esc_acero_secundario_30,2011,hotspot,India,Equipos electrónicos,value_added,62616.977742138224,M€
+esc_acero_secundario_30,2011,hotspot,India,Equipos electrónicos,employment,1015.4825470165057,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Equipos electrónicos,co2eq,5.61501096002602,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Equipos electrónicos,materials,0.4168745124419258,Mt
+esc_acero_secundario_30,2011,hotspot,India,Equipos electrónicos,energy,17286.14338728852,TJ
+esc_acero_secundario_30,2011,hotspot,India,Vehículos y partes,output,202472.06212025564,M€
+esc_acero_secundario_30,2011,hotspot,India,Vehículos y partes,value_added,62005.47477536392,M€
+esc_acero_secundario_30,2011,hotspot,India,Vehículos y partes,employment,1035.6453298563817,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Vehículos y partes,co2eq,10.789815570736344,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Vehículos y partes,materials,3.6444971181646015,Mt
+esc_acero_secundario_30,2011,hotspot,India,Vehículos y partes,energy,16749.592203513104,TJ
+esc_acero_secundario_30,2011,hotspot,India,Construcción,output,276864.4811559752,M€
+esc_acero_secundario_30,2011,hotspot,India,Construcción,value_added,103574.62112668488,M€
+esc_acero_secundario_30,2011,hotspot,India,Construcción,employment,2491.7803304037766,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Construcción,co2eq,49.83560660807553,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Construcción,materials,9.690256840459131,Mt
+esc_acero_secundario_30,2011,hotspot,India,Construcción,energy,221491.58492478012,TJ
+esc_acero_secundario_30,2011,hotspot,India,Comercio mayorista y minorista,output,377298.1386642038,M€
+esc_acero_secundario_30,2011,hotspot,India,Comercio mayorista y minorista,value_added,131857.8448138628,M€
+esc_acero_secundario_30,2011,hotspot,India,Comercio mayorista y minorista,employment,4527.577663970445,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Comercio mayorista y minorista,co2eq,13.393757620512384,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Comercio mayorista y minorista,materials,0.7161186215244488,Mt
+esc_acero_secundario_30,2011,hotspot,India,Comercio mayorista y minorista,energy,62889.23170434315,TJ
+esc_acero_secundario_30,2011,hotspot,India,Transporte y logística,output,219086.58157606775,M€
+esc_acero_secundario_30,2011,hotspot,India,Transporte y logística,value_added,70475.47104687775,M€
+esc_acero_secundario_30,2011,hotspot,India,Transporte y logística,employment,676.7510557424775,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Transporte y logística,co2eq,54.771645394016936,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Transporte y logística,materials,0.2760217606736546,Mt
+esc_acero_secundario_30,2011,hotspot,India,Transporte y logística,energy,29669.85894411728,TJ
+esc_acero_secundario_30,2011,hotspot,India,Energía y suministros,output,170851.67299687077,M€
+esc_acero_secundario_30,2011,hotspot,India,Energía y suministros,value_added,53905.487403297135,M€
+esc_acero_secundario_30,2011,hotspot,India,Energía y suministros,employment,407.5775745765552,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Energía y suministros,co2eq,136.6813383974966,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Energía y suministros,materials,0.0985890329836185,Mt
+esc_acero_secundario_30,2011,hotspot,India,Energía y suministros,energy,1025110.0379812246,TJ
+esc_acero_secundario_30,2011,hotspot,India,Servicios financieros y empresariales,output,358325.02356862946,M€
+esc_acero_secundario_30,2011,hotspot,India,Servicios financieros y empresariales,value_added,197078.76296274623,M€
+esc_acero_secundario_30,2011,hotspot,India,Servicios financieros y empresariales,employment,2866.600188549036,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Servicios financieros y empresariales,co2eq,9.169572950695805,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Servicios financieros y empresariales,materials,0.5703794337581062,Mt
+esc_acero_secundario_30,2011,hotspot,India,Servicios financieros y empresariales,energy,50210.42758723253,TJ
+esc_acero_secundario_30,2011,hotspot,India,Salud y educación,output,146902.0829278358,M€
+esc_acero_secundario_30,2011,hotspot,India,Salud y educación,value_added,88141.24975670148,M€
+esc_acero_secundario_30,2011,hotspot,India,Salud y educación,employment,2056.629160989701,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Salud y educación,co2eq,4.112718912074835,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Salud y educación,materials,0.1522583799678604,Mt
+esc_acero_secundario_30,2011,hotspot,India,Salud y educación,energy,14437.162451468814,TJ
+esc_acero_secundario_30,2011,hotspot,India,Otros servicios,output,106188.8922974716,M€
+esc_acero_secundario_30,2011,hotspot,India,Otros servicios,value_added,46592.28978112216,M€
+esc_acero_secundario_30,2011,hotspot,India,Otros servicios,employment,1061.888922974716,kpersonas
+esc_acero_secundario_30,2011,hotspot,India,Otros servicios,co2eq,2.1550494967356104,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,India,Otros servicios,materials,0.16154745652100463,Mt
+esc_acero_secundario_30,2011,hotspot,India,Otros servicios,energy,17368.090101437498,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Agricultura y pesca,output,629322.1241797928,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Agricultura y pesca,value_added,217678.4281465429,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Agricultura y pesca,employment,11327.79823523627,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Agricultura y pesca,co2eq,20.7884067434016,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Agricultura y pesca,materials,1.5527333641361638,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Agricultura y pesca,energy,114793.6221164657,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Minería y extracción,output,534878.604094897,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Minería y extracción,value_added,206935.4044034825,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Minería y extracción,employment,1884.9576143698448,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Minería y extracción,co2eq,18.623610899391405,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Minería y extracción,materials,1.1564755473105555,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Minería y extracción,energy,57805.795404671524,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Alimentación y bebidas,output,916958.1789274479,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Alimentación y bebidas,value_added,299401.44104741863,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Alimentación y bebidas,employment,2939.8122626134846,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Alimentación y bebidas,co2eq,35.56168524303956,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Alimentación y bebidas,materials,2.0749969930334453,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Alimentación y bebidas,energy,79771.99541567784,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Textil y calzado,output,438695.57802625734,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Textil y calzado,value_added,187977.60818369518,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Textil y calzado,employment,1983.3999020852314,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Textil y calzado,co2eq,12.098721456241199,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Textil y calzado,materials,1.0756037228782838,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Textil y calzado,energy,49908.67054104472,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",output,503723.5902836154,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",value_added,208429.7042154094,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",employment,1736.4613693585961,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",co2eq,12.692252890577734,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",materials,0.8297785503717136,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,"Madera, papel e imprenta",energy,58044.69943234027,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Productos químicos,output,732833.6609531873,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Productos químicos,value_added,298937.0990754152,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Productos químicos,employment,1722.5985669250538,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Productos químicos,co2eq,256.49178133361556,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Productos químicos,materials,1.4083985623892266,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Productos químicos,energy,1832084.1523829682,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Refino y combustibles,output,663088.9044949373,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Refino y combustibles,value_added,132617.78089898746,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Refino y combustibles,employment,1639.1714264339919,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Refino y combustibles,co2eq,397.8533426969624,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Refino y combustibles,materials,0.5632890480978416,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Refino y combustibles,energy,2652355.617979749,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Plásticos y caucho,output,465072.0510563597,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Plásticos y caucho,value_added,183283.1866955988,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Plásticos y caucho,employment,2719.5509811461793,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Plásticos y caucho,co2eq,21.76191175445714,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Plásticos y caucho,materials,0.3656978660457071,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Plásticos y caucho,energy,80954.061835932,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,output,654554.9443438507,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,value_added,163638.73608596268,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,employment,3892.8612570197483,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,co2eq,412.3696149366259,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,materials,18.32753844162782,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero y metalurgia primaria,energy,2107666.9207871994,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,output,157844.84134410488,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,value_added,62739.69246129542,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,employment,699.2033804150717,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,co2eq,37.48814981922491,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,materials,3.4725865095703075,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Acero secundario y reciclaje,energy,20325.11566772879,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Maquinaria y equipos,output,818708.4165947139,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Maquinaria y equipos,value_added,255982.81644604227,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Maquinaria y equipos,employment,2508.0967338559117,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Maquinaria y equipos,co2eq,39.306685646166166,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Maquinaria y equipos,materials,8.18708416594714,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Maquinaria y equipos,energy,145470.11415226702,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Equipos electrónicos,output,776090.9303988698,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Equipos electrónicos,value_added,281232.93216225976,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Equipos electrónicos,employment,4560.857846463344,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Equipos electrónicos,co2eq,25.21881530140773,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Equipos electrónicos,materials,1.8723171527146238,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Equipos electrónicos,energy,77637.61468341989,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Vehículos y partes,output,947712.0803036583,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Vehículos y partes,value_added,290229.3623832133,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Vehículos y partes,employment,4847.550717550427,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Vehículos y partes,co2eq,50.503948315407385,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Vehículos y partes,materials,17.05881744546585,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Vehículos y partes,energy,78399.90715361663,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Construcción,output,1149322.830449152,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Construcción,value_added,429960.0881232465,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Construcción,employment,10343.905474042367,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Construcción,co2eq,206.87810948084737,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Construcción,materials,40.22629906572032,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Construcción,energy,919458.2643593216,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,output,1552026.3252623696,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,value_added,542400.8903622273,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,employment,18624.315903148432,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,co2eq,55.09559229424025,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,materials,2.9457737495114533,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Comercio mayorista y minorista,energy,258696.59343200398,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Transporte y logística,output,1173876.667485021,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Transporte y logística,value_added,377611.0362250639,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Transporte y logística,employment,3626.065404448892,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Transporte y logística,co2eq,293.46916687125525,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Transporte y logística,materials,1.4789381542312219,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Transporte y logística,energy,158972.56185896695,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Energía y suministros,output,758369.3621466152,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Energía y suministros,value_added,239273.45504535732,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Energía y suministros,employment,1809.1385342334213,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Energía y suministros,co2eq,606.6954897172922,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Energía y suministros,materials,0.43761293493337794,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Energía y suministros,energy,4550216.17287969,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,output,1493091.2589986809,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,value_added,821200.1924492746,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,employment,11944.730071989447,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,co2eq,38.20835364799029,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,materials,2.376692920788253,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Servicios financieros y empresariales,energy,209219.9696087495,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Salud y educación,output,720881.5250527164,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Salud y educación,value_added,432528.9150316298,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Salud y educación,employment,10092.341350738028,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Salud y educación,co2eq,20.182035695886462,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Salud y educación,materials,0.7471660780140592,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Salud y educación,energy,70846.39971075988,TJ
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Otros servicios,output,461108.1950708969,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Otros servicios,value_added,202319.52872254397,M€
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Otros servicios,employment,4611.081950708969,kpersonas
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Otros servicios,co2eq,9.357956018078387,Mt CO₂eq
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Otros servicios,materials,0.7014938613920196,Mt
+esc_acero_secundario_30,2011,hotspot,Resto del mundo,Otros servicios,energy,75418.13936685392,TJ
