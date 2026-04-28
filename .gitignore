@@ -11,6 +11,7 @@ dist/
 
 # --- Entornos virtuales ---
 .venv/
+.venv-*/
 venv/
 env/
 .env
@@ -23,9 +24,9 @@ env/
 
 # --- Datos ---
 # El TFG no commitea EXIOBASE bruto (es muy pesado y tiene licencia propia).
-# Sí se commitean los datos sintéticos (son pequeños y útiles para CI).
+# Sí se commitean los datos sintéticos y los procesados de pycirk
+# (Parquet/CSV ya agregados, ~1 MB en total — útiles para Streamlit Cloud).
 data/exiobase/
-data/pycirk_runs/
 data/cache/
 *.h5
 
