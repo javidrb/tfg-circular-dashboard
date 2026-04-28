@@ -11,7 +11,7 @@ font = "sans serif"
 [server]
 headless = true
 runOnSave = false
-enableCORS = false
+# CORS lo gestiona Streamlit; mantener XSRF activado por defecto
 enableXsrfProtection = true
 
 [browser]

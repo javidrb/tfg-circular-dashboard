@@ -215,6 +215,10 @@ def comparison_breakdown(
     out["delta_rel"] = out["delta_abs"] / out["baseline"].replace(0, pd.NA)
     out = out.rename(columns={"_scen_val": "scenario"})
     out = out[[by, "baseline", "scenario", "delta_abs", "delta_rel"]]
+    # Sectores con baseline=0 producen NA en delta_rel; los dropeamos para que
+    # los gráficos del dashboard no choquen contra valores ambiguos.
+    out = out.dropna(subset=["delta_rel"]).copy()
+    out["delta_rel"] = out["delta_rel"].astype(float)
     return out.sort_values(
-        "delta_rel", key=lambda s: s.fillna(0).abs(), ascending=False
+        "delta_rel", key=lambda s: s.abs(), ascending=False
     ).reset_index(drop=True)

@@ -185,7 +185,7 @@ def render_summary_tab(bundle: DataBundle, ctx: dict) -> None:
         height=380, margin=dict(l=10, r=20, t=20, b=20),
         xaxis_title="Δ Valor Añadido (%)", yaxis=dict(autorange="reversed"),
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 def render_econ_tab(bundle: DataBundle, ctx: dict) -> None:
@@ -212,7 +212,7 @@ def render_econ_tab(bundle: DataBundle, ctx: dict) -> None:
         xaxis_tickangle=-35,
         yaxis_title=f"{ind_meta['label']} ({ind_meta['unit']})",
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # Tabla detallada
     st.markdown("##### Tabla por sector")
@@ -222,7 +222,7 @@ def render_econ_tab(bundle: DataBundle, ctx: dict) -> None:
     table["baseline"] = table["baseline"].round(0)
     table["scenario"] = table["scenario"].round(0)
     table.columns = ["Sector", "Baseline", "Escenario", "Δ absoluta", "Δ relativa (%)"]
-    st.dataframe(table, use_container_width=True, hide_index=True)
+    st.dataframe(table, width="stretch", hide_index=True)
 
     csv = table.to_csv(index=False).encode("utf-8")
     st.download_button("📥 Descargar tabla (CSV)", csv,
@@ -260,7 +260,7 @@ def render_env_tab(bundle: DataBundle, ctx: dict) -> None:
         )
         fig.update_layout(height=420, margin=dict(l=10, r=10, t=10, b=10),
                           xaxis_tickangle=-35, coloraxis_colorbar_title="Δ %")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     # Top sectores que más mueven el indicador
     with col2:
@@ -278,7 +278,7 @@ def render_env_tab(bundle: DataBundle, ctx: dict) -> None:
             xaxis_title=f"Δ {ind_meta['label']} ({ind_meta['unit']})",
             yaxis=dict(autorange="reversed"),
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
 
 def render_sensitivity_tab(bundle: DataBundle, ctx: dict) -> None:
@@ -315,7 +315,7 @@ def render_sensitivity_tab(bundle: DataBundle, ctx: dict) -> None:
         xaxis_title=f"Δ {ind_meta['label']} (%) respecto al baseline",
         yaxis=dict(autorange="reversed"),
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # Tabla de elasticidades agregadas
     st.markdown("##### Elasticidades sectoriales")
@@ -330,7 +330,7 @@ def render_sensitivity_tab(bundle: DataBundle, ctx: dict) -> None:
         pretty[c] = pretty[c].round(3)
     rename = {i: get_indicator_meta(bundle, i)["label"] for i in inds}
     pretty = pretty.rename(columns={"sector": "Sector", **rename})
-    st.dataframe(pretty, use_container_width=True, hide_index=True)
+    st.dataframe(pretty, width="stretch", hide_index=True)
 
 
 def render_about_tab(bundle: DataBundle) -> None:
