@@ -298,8 +298,8 @@ def write_metadata(consolidated: pd.DataFrame, scenarios_seen: list[str]) -> Non
     descriptions = {
         "baseline":   "Baseline EXIOBASE 3.3 bi-regional (EU vs Resto del Mundo, 2011) sin intervención.",
         "scenario_1": "Reuse, remanufacturing y refurbishment (Donati et al., 2020): 11 intervenciones reduciendo demanda de acero/aluminio/maquinaria primarios y aumentando reparación.",
-        "scenario_2": "Escenario experimental sintético del paquete pycirk.",
-        "scenario_3": "Escenario experimental con cambios sobre múltiples matrices (A, Y, V, S, Z, etc.).",
+        "scenario_2": "Boost acero secundario: sustitución del acero primario por secundario en vehículos, construcción y maquinaria (3 pares Primary+Ancillary, ±25–30 %).",
+        "scenario_3": "Vida útil del parque automovilístico EU +50 %: reducción de demanda final de vehículos en la UE compensada con servicios de reparación; reducción de inputs primarios (acero, aluminio) en fabricación de vehículos compensada también con reparación.",
     }
     scenarios_meta = []
     for sid in scenarios_seen:
