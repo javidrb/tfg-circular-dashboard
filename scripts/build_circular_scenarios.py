@@ -172,28 +172,30 @@ def build_scenario_2(ws, codes: dict[str, str]) -> None:
     primary_steel    = find_code(codes, "basic iron and steel")
     secondary_steel  = find_code(codes, "secondary steel")
     motor_vehicles   = find_code(codes, "motor vehicles", "trailers")
-    # Construcción: probamos varios nombres habituales en EXIOBASE
     try:
         construction = find_code(codes, "construction work")
     except SystemExit:
         construction = find_code(codes, "construction", exclude=("services",))
-    # Maquinaria: queremos C_MACH (Machinery and equipment n.e.c.),
-    # NO C_FABM (Fabricated metal products) ni C_MARE (Renting services).
     machinery        = find_code(codes, "machinery and equipment",
                                   exclude=("fabricated", "renting", "office"))
+    # C_TDMO: "Sale, maintenance, repair of motor vehicles..." — sector enorme,
+    # ideal como Ancillary para que aparezca como ganador visible.
+    sale_maint_motor = find_code(codes, "maintenance", "motor vehicles")
 
-    # Diseño limpio: sustitución directa de acero primario por secundario en
-    # tres sectores consumidores. Patrón Donati identifier 3 (cat_o≠cat_d en
-    # Primary y Ancillary, mismo cat_d). kp1=100 se añade automáticamente.
+    # ID 1 (motor): C_TDMO (Sale/maintenance/repair of motor vehicles) es un
+    # sector grande, así que +30% lo hace aparecer como ganador clarísimo.
+    # ID 2 y 3 (construcción/maquinaria): C_STEW (Secondary steel) es el
+    # sustituto natural; aunque su baseline es pequeño, +30% sigue siendo
+    # un crecimiento visible en términos relativos.
     interventions = [
-        ("A", 1, "Primary",   primary_steel,   motor_vehicles,  -30),
-        ("A", 1, "Ancillary", secondary_steel, motor_vehicles,  +30),
+        ("A", 1, "Primary",   primary_steel,    motor_vehicles, -30),
+        ("A", 1, "Ancillary", sale_maint_motor, motor_vehicles, +30),
 
-        ("A", 2, "Primary",   primary_steel,   construction,    -30),
-        ("A", 2, "Ancillary", secondary_steel, construction,    +30),
+        ("A", 2, "Primary",   primary_steel,    construction,   -30),
+        ("A", 2, "Ancillary", secondary_steel,  construction,   +30),
 
-        ("A", 3, "Primary",   primary_steel,   machinery,       -25),
-        ("A", 3, "Ancillary", secondary_steel, machinery,       +25),
+        ("A", 3, "Primary",   primary_steel,    machinery,      -25),
+        ("A", 3, "Ancillary", secondary_steel,  machinery,      +25),
     ]
     row = 3
     for matrix, ident, kind, cat_o, cat_d, kt1 in interventions:
@@ -202,9 +204,10 @@ def build_scenario_2(ws, codes: dict[str, str]) -> None:
         row += 1
 
     print(f"  scenario_2 -> 6 intervenciones (3 pares Primary+Ancillary):")
-    print(f"     primary_steel   = {primary_steel}")
-    print(f"     secondary_steel = {secondary_steel}")
-    print(f"     consumers       = {motor_vehicles}, {construction}, {machinery}")
+    print(f"     primary_steel    = {primary_steel}")
+    print(f"     secondary_steel  = {secondary_steel}")
+    print(f"     sale_maint_motor = {sale_maint_motor}")
+    print(f"     consumers        = {motor_vehicles}, {construction}, {machinery}")
 
 
 def build_scenario_3(ws, codes: dict[str, str]) -> None:
@@ -218,33 +221,27 @@ def build_scenario_3(ws, codes: dict[str, str]) -> None:
 
     motor_vehicles   = find_code(codes, "motor vehicles", "trailers")
     primary_steel    = find_code(codes, "basic iron and steel")
-    # Aluminio primario: el producto se llama «Aluminium and aluminium products».
-    # Excluimos secundarios y derivados.
     primary_aluminum = find_code(codes, "aluminium and aluminium",
                                   exclude=("secondary", "treatment", "re-processing"))
-    # Servicios de reparación / mantenimiento de motor: hay variantes
-    # «Repair services nec», «Treatment of motor vehicles», etc.
-    try:
-        repair_services = find_code(codes, "repair services")
-    except SystemExit:
-        repair_services = find_code(codes, "treatment", "motor")
+    # C_TDMO: "Sale, maintenance, repair of motor vehicles..." — sector enorme.
+    # Ideal como Ancillary para hacer ganador visible en el dashboard.
+    sale_maint_motor = find_code(codes, "maintenance", "motor vehicles")
 
-    # Diseño limpio (con kp1=100 implícito): reducción de demanda final EU de
-    # vehículos compensada con servicios de reparación; reducción de inputs
-    # primarios (acero, aluminio) en fabricación de vehículos compensada
-    # también con servicios técnicos.
+    # Todas las intervenciones canalizan el crecimiento hacia C_TDMO
+    # (Sale/maintenance/repair of motor vehicles), un sector enorme que
+    # aparecerá como ganador claro en el dashboard.
     interventions = [
-        # 1. Demanda final EU: vehículos -25 % compensado con repair +25 %
-        ("Y", 1, "Primary",   "EU",  "EU",  motor_vehicles,   "All",          -25),
-        ("Y", 1, "Ancillary", "EU",  "EU",  repair_services,  "All",          +25),
+        # 1. Demanda final EU: vehículos -25 % compensado con C_TDMO +25 %
+        ("Y", 1, "Primary",   "EU",  "EU",  motor_vehicles,    "All",          -25),
+        ("Y", 1, "Ancillary", "EU",  "EU",  sale_maint_motor,  "All",          +25),
 
-        # 2. Inputs primarios: -15 % acero en motor compensado con repair +15 %
-        ("A", 2, "Primary",   "All", "All", primary_steel,    motor_vehicles, -15),
-        ("A", 2, "Ancillary", "All", "All", repair_services,  motor_vehicles, +15),
+        # 2. Inputs primarios de acero en motor: -15 % → C_TDMO +15 %
+        ("A", 2, "Primary",   "All", "All", primary_steel,     motor_vehicles, -15),
+        ("A", 2, "Ancillary", "All", "All", sale_maint_motor,  motor_vehicles, +15),
 
-        # 3. Inputs primarios: -15 % aluminio en motor compensado con repair +15 %
-        ("A", 3, "Primary",   "All", "All", primary_aluminum, motor_vehicles, -15),
-        ("A", 3, "Ancillary", "All", "All", repair_services,  motor_vehicles, +15),
+        # 3. Inputs primarios de aluminio en motor: -15 % → C_TDMO +15 %
+        ("A", 3, "Primary",   "All", "All", primary_aluminum,  motor_vehicles, -15),
+        ("A", 3, "Ancillary", "All", "All", sale_maint_motor,  motor_vehicles, +15),
     ]
     row = 3
     for matrix, ident, kind, reg_o, reg_d, cat_o, cat_d, kt1 in interventions:
@@ -253,10 +250,10 @@ def build_scenario_3(ws, codes: dict[str, str]) -> None:
         row += 1
 
     print(f"  scenario_3 -> 6 intervenciones (3 pares Primary+Ancillary):")
-    print(f"     motor_vehicles   = {motor_vehicles}")
-    print(f"     primary_steel    = {primary_steel}")
-    print(f"     primary_aluminum = {primary_aluminum}")
-    print(f"     repair_services  = {repair_services}")
+    print(f"     motor_vehicles    = {motor_vehicles}")
+    print(f"     primary_steel     = {primary_steel}")
+    print(f"     primary_aluminum  = {primary_aluminum}")
+    print(f"     sale_maint_motor  = {sale_maint_motor}")
 
 
 # --------------------------------------------------------------------------- #
