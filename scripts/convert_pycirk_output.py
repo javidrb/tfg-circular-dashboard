@@ -298,8 +298,8 @@ def write_metadata(consolidated: pd.DataFrame, scenarios_seen: list[str]) -> Non
     descriptions = {
         "baseline":   "Baseline EXIOBASE 3.3 bi-regional (EU vs Resto del Mundo, 2011) sin intervención.",
         "scenario_1": "Reuse, remanufacturing y refurbishment (Donati et al., 2020): 11 intervenciones reduciendo demanda de acero/aluminio/maquinaria primarios y aumentando reparación.",
-        "scenario_2": "Servicios de tratamiento y refurbishment: sustitución de acero primario por servicios de tratamiento técnico (treatment-motor y refurbishment) en vehículos, construcción y maquinaria. Los servicios de tratamiento crecen visiblemente como sectores ganadores.",
-        "scenario_3": "Vida útil del parque automovilístico EU +50 %: reducción de demanda final de vehículos en la UE y de inputs primarios (acero, aluminio) en fabricación, compensada con servicios de tratamiento de vehículos (TDMO), que aparecen como sectores ganadores con crecimiento sustancial.",
+        "scenario_2": "Transición a economía de servicios global: el consumo se desplaza desde bienes (vehículos, maquinaria eléctrica, maquinaria) hacia servicios de mantenimiento, reparación y retail. Modificaciones Y de gran magnitud (±25-35 %).",
+        "scenario_3": "Transición a economía de servicios EU: misma lógica que scenario_2 pero restringido a la Unión Europea, con magnitudes mayores (±30-45 %). Muestra el efecto de una política UE agresiva de fomento del consumo de servicios.",
     }
     scenarios_meta = []
     for sid in scenarios_seen:

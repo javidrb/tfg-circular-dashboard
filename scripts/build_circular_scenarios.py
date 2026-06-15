@@ -169,33 +169,33 @@ def build_scenario_2(ws, codes: dict[str, str]) -> None:
     """
     clear_sheet(ws)
 
-    primary_steel    = find_code(codes, "basic iron and steel")
-    secondary_steel  = find_code(codes, "secondary steel")
-    motor_vehicles   = find_code(codes, "motor vehicles", "trailers")
-    try:
-        construction = find_code(codes, "construction work")
-    except SystemExit:
-        construction = find_code(codes, "construction", exclude=("services",))
-    machinery        = find_code(codes, "machinery and equipment",
-                                  exclude=("fabricated", "renting", "office"))
-    # C_TDMO: "Sale, maintenance, repair of motor vehicles..." — sector enorme,
-    # ideal como Ancillary para que aparezca como ganador visible.
-    sale_maint_motor = find_code(codes, "maintenance", "motor vehicles")
+    motor_vehicles    = find_code(codes, "motor vehicles", "trailers")
+    # C_TDMO: "Sale, maintenance, repair of motor vehicles..."
+    sale_maint_motor  = find_code(codes, "maintenance", "motor vehicles")
+    # C_TDRT: "Retail trade services... repair services of personal and household goods"
+    retail_repair     = find_code(codes, "retail", "repair services")
+    # C_ELMA: electrical machinery
+    elec_machinery    = find_code(codes, "electrical machinery")
+    # C_MACH: Machinery and equipment n.e.c.
+    machinery         = find_code(codes, "machinery and equipment",
+                                   exclude=("fabricated", "renting", "office", "electrical"))
 
-    # ID 1 (motor): C_TDMO (Sale/maintenance/repair of motor vehicles) es un
-    # sector grande, así que +30% lo hace aparecer como ganador clarísimo.
-    # ID 2 y 3 (construcción/maquinaria): C_STEW (Secondary steel) es el
-    # sustituto natural; aunque su baseline es pequeño, +30% sigue siendo
-    # un crecimiento visible en términos relativos.
+    # Estrategia: modificaciones EN LA MATRIZ Y (demanda final). Esto inyecta
+    # crecimiento neto en los sectores ancillary, garantizando ganadores visibles.
+    # Patrón: los consumidores compran menos «cosas nuevas» y más «servicios».
+    # Magnitudes grandes (±35%) para que los efectos sean nítidos en el dashboard.
     interventions = [
-        ("A", 1, "Primary",   primary_steel,    motor_vehicles, -30),
-        ("A", 1, "Ancillary", sale_maint_motor, motor_vehicles, +30),
+        # ID 1: De motor vehicles nuevos → servicios de mantenimiento/reparación de motor
+        ("Y", 1, "Primary",   motor_vehicles,    "All", -35),
+        ("Y", 1, "Ancillary", sale_maint_motor,  "All", +35),
 
-        ("A", 2, "Primary",   primary_steel,    construction,   -30),
-        ("A", 2, "Ancillary", secondary_steel,  construction,   +30),
+        # ID 2: De maquinaria eléctrica nueva → servicios de retail + repair
+        ("Y", 2, "Primary",   elec_machinery,    "All", -30),
+        ("Y", 2, "Ancillary", retail_repair,     "All", +30),
 
-        ("A", 3, "Primary",   primary_steel,    machinery,      -25),
-        ("A", 3, "Ancillary", secondary_steel,  machinery,      +25),
+        # ID 3: De maquinaria nueva → servicios de retail + repair
+        ("Y", 3, "Primary",   machinery,         "All", -25),
+        ("Y", 3, "Ancillary", retail_repair,     "All", +25),
     ]
     row = 3
     for matrix, ident, kind, cat_o, cat_d, kt1 in interventions:
@@ -203,11 +203,12 @@ def build_scenario_2(ws, codes: dict[str, str]) -> None:
                            change_type=kind, cat_o=cat_o, cat_d=cat_d, kt1=kt1)
         row += 1
 
-    print(f"  scenario_2 -> 6 intervenciones (3 pares Primary+Ancillary):")
-    print(f"     primary_steel    = {primary_steel}")
-    print(f"     secondary_steel  = {secondary_steel}")
-    print(f"     sale_maint_motor = {sale_maint_motor}")
-    print(f"     consumers        = {motor_vehicles}, {construction}, {machinery}")
+    print(f"  scenario_2 -> 6 intervenciones Y (3 pares Primary+Ancillary):")
+    print(f"     motor_vehicles    = {motor_vehicles}")
+    print(f"     sale_maint_motor  = {sale_maint_motor}")
+    print(f"     elec_machinery    = {elec_machinery}")
+    print(f"     machinery         = {machinery}")
+    print(f"     retail_repair     = {retail_repair}")
 
 
 def build_scenario_3(ws, codes: dict[str, str]) -> None:
@@ -219,29 +220,28 @@ def build_scenario_3(ws, codes: dict[str, str]) -> None:
     """
     clear_sheet(ws)
 
-    motor_vehicles   = find_code(codes, "motor vehicles", "trailers")
-    primary_steel    = find_code(codes, "basic iron and steel")
-    primary_aluminum = find_code(codes, "aluminium and aluminium",
-                                  exclude=("secondary", "treatment", "re-processing"))
-    # C_TDMO: "Sale, maintenance, repair of motor vehicles..." — sector enorme.
-    # Ideal como Ancillary para hacer ganador visible en el dashboard.
-    sale_maint_motor = find_code(codes, "maintenance", "motor vehicles")
+    motor_vehicles    = find_code(codes, "motor vehicles", "trailers")
+    sale_maint_motor  = find_code(codes, "maintenance", "motor vehicles")
+    retail_repair     = find_code(codes, "retail", "repair services")
+    elec_machinery    = find_code(codes, "electrical machinery")
+    machinery         = find_code(codes, "machinery and equipment",
+                                   exclude=("fabricated", "renting", "office", "electrical"))
 
-    # Todas las intervenciones canalizan el crecimiento hacia C_TDMO
-    # (Sale/maintenance/repair of motor vehicles), un sector enorme que
-    # aparecerá como ganador claro en el dashboard.
+    # Estrategia: modificaciones Y exclusivamente, restringidas a EU.
+    # Magnitudes grandes (±40-45%) para mostrar el efecto disruptivo de una
+    # transición circular agresiva al servicio.
     interventions = [
-        # 1. Demanda final EU: vehículos -25 % compensado con C_TDMO +25 %
-        ("Y", 1, "Primary",   "EU",  "EU",  motor_vehicles,    "All",          -25),
-        ("Y", 1, "Ancillary", "EU",  "EU",  sale_maint_motor,  "All",          +25),
+        # ID 1: EU compra -45% motor vehicles, +45% servicios de reparación de motor
+        ("Y", 1, "Primary",   "EU", "EU", motor_vehicles,   "All", -45),
+        ("Y", 1, "Ancillary", "EU", "EU", sale_maint_motor, "All", +45),
 
-        # 2. Inputs primarios de acero en motor: -15 % → C_TDMO +15 %
-        ("A", 2, "Primary",   "All", "All", primary_steel,     motor_vehicles, -15),
-        ("A", 2, "Ancillary", "All", "All", sale_maint_motor,  motor_vehicles, +15),
+        # ID 2: EU compra -35% maquinaria eléctrica, +35% retail + repair
+        ("Y", 2, "Primary",   "EU", "EU", elec_machinery,   "All", -35),
+        ("Y", 2, "Ancillary", "EU", "EU", retail_repair,    "All", +35),
 
-        # 3. Inputs primarios de aluminio en motor: -15 % → C_TDMO +15 %
-        ("A", 3, "Primary",   "All", "All", primary_aluminum,  motor_vehicles, -15),
-        ("A", 3, "Ancillary", "All", "All", sale_maint_motor,  motor_vehicles, +15),
+        # ID 3: EU compra -30% maquinaria, +30% retail + repair
+        ("Y", 3, "Primary",   "EU", "EU", machinery,        "All", -30),
+        ("Y", 3, "Ancillary", "EU", "EU", retail_repair,    "All", +30),
     ]
     row = 3
     for matrix, ident, kind, reg_o, reg_d, cat_o, cat_d, kt1 in interventions:
@@ -249,11 +249,12 @@ def build_scenario_3(ws, codes: dict[str, str]) -> None:
                            reg_o=reg_o, reg_d=reg_d, cat_o=cat_o, cat_d=cat_d, kt1=kt1)
         row += 1
 
-    print(f"  scenario_3 -> 6 intervenciones (3 pares Primary+Ancillary):")
+    print(f"  scenario_3 -> 6 intervenciones Y restringidas a EU:")
     print(f"     motor_vehicles    = {motor_vehicles}")
-    print(f"     primary_steel     = {primary_steel}")
-    print(f"     primary_aluminum  = {primary_aluminum}")
     print(f"     sale_maint_motor  = {sale_maint_motor}")
+    print(f"     elec_machinery    = {elec_machinery}")
+    print(f"     machinery         = {machinery}")
+    print(f"     retail_repair     = {retail_repair}")
 
 
 # --------------------------------------------------------------------------- #

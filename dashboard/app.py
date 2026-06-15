@@ -680,16 +680,16 @@ def render_env_tab(bundle: DataBundle, ctx: dict) -> None:
                     marker=dict(color=PALETTE["baseline"], line=dict(width=0)))
         fig.add_bar(name="Escenario", x=region_df["region"], y=region_df["scenario"],
                     marker=dict(color=PALETTE["scenario"], line=dict(width=0)),
-                    text=[f"{v:+.1f} %" for v in region_df["delta_pct"]],
+                    text=[f"{v:+.1f}%" for v in region_df["delta_pct"]],
                     textposition="outside",
-                    textfont=dict(size=11),
+                    textfont=dict(size=10),
                     cliponaxis=False)
         apply_plotly_style(
             fig,
-            barmode="group", height=380,
-            margin=dict(l=10, r=10, t=30, b=10),
+            barmode="group", height=400,
+            margin=dict(l=10, r=20, t=50, b=10),
             yaxis=dict(title=f"{ind_meta['label']} ({ind_meta['unit']})"),
-            legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1,
+            legend=dict(orientation="h", yanchor="bottom", y=1.05, xanchor="right", x=1,
                         bgcolor="rgba(255,255,255,0.9)"),
         )
         st.plotly_chart(fig, width="stretch")
@@ -703,24 +703,32 @@ def render_env_tab(bundle: DataBundle, ctx: dict) -> None:
         )
         # Verde si reduce impacto ambiental, rojo si lo aumenta
         colors = [PALETTE["positive"] if v < 0 else PALETTE["negative"] for v in top["delta_abs"]]
+        # Formato corto sin unidad (la unidad ya va en el título del eje X).
+        def _short(v: float) -> str:
+            abs_v = abs(v)
+            if abs_v >= 1e12: return f"{v/1e12:+.1f} T"
+            if abs_v >= 1e9:  return f"{v/1e9:+.1f} B"
+            if abs_v >= 1e6:  return f"{v/1e6:+.1f} M"
+            if abs_v >= 1e3:  return f"{v/1e3:+.1f} k"
+            return f"{v:+.1f}"
         fig = go.Figure()
         fig.add_bar(
-            x=top["delta_abs"], y=[truncate(s, 34) for s in top["sector"]],
+            x=top["delta_abs"], y=[truncate(s, 30) for s in top["sector"]],
             orientation="h",
             marker=dict(color=colors, line=dict(width=0)),
             hovertext=top["sector"],
-            hovertemplate="<b>%{hovertext}</b><br>Δ %{x:+,.2f}<extra></extra>",
-            text=[format_value(v, ind_meta["unit"]) for v in top["delta_abs"]],
+            hovertemplate="<b>%{hovertext}</b><br>Δ %{x:+,.2f} " + ind_meta["unit"] + "<extra></extra>",
+            text=[_short(v) for v in top["delta_abs"]],
             textposition="outside",
-            textfont=dict(size=11, color=PALETTE["text"]),
+            textfont=dict(size=10, color=PALETTE["text"]),
             cliponaxis=False,
         )
         apply_plotly_style(
             fig,
-            height=max(380, 30 * len(top)),
-            margin=dict(l=10, r=140, t=10, b=10),
-            xaxis=dict(title=f"Δ {ind_meta['label']}"),
-            yaxis=dict(autorange="reversed", showgrid=False),
+            height=max(400, 34 * len(top)),
+            margin=dict(l=10, r=80, t=10, b=10),
+            xaxis=dict(title=f"Δ {ind_meta['label']} ({ind_meta['unit']})"),
+            yaxis=dict(autorange="reversed", showgrid=False, automargin=True),
         )
         st.plotly_chart(fig, width="stretch")
 
